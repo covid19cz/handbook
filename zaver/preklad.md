@@ -1,4 +1,4 @@
-# Překlad
+# Přeložili a dali dohromady
 
 * Adam Mrkvička
 * Anežka Grynderová

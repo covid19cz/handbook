@@ -28,5 +28,5 @@
 * MUDr. Jan Rulíšek
 * MUDr. Markéta Korcinová
 
-![](../.gitbook/assets/image1.png)
+![](../img/image1.png)
 

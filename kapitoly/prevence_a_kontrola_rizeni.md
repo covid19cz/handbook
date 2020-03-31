@@ -324,7 +324,7 @@ Zrealizujte likvidaci na základě první nebo druhé možnosti popsané níže:
 
 #### Dezinfekce nabíjecího respirátoru pro čištění vzduchu
 
-![](../.gitbook/assets/image21.png)
+![](../img/image21.png)
 
 **Upozornění:** Postup dezinfekce ochranného krytu je použitelný jen pro kryty na opakované použití \(nikoliv pro jednorázové kryty\)
 
@@ -383,7 +383,7 @@ Zrealizujte likvidaci na základě první nebo druhé možnosti popsané níže:
 
 ### Postup pro přijímání nápravných opatření proti pracovní expozici nákaze COVID-19
 
-![](../.gitbook/assets/image18.png)
+![](../img/image18.png)
 
 1. Expozice kůže: Kůže je kontaminována velkým množstvím viditelných tělních tekutin, krví, sekrecí nebo stolicí pacienta;
 2. Expozice sliznic: Sliznice, jako oči nebo respirační trakt jsou kontaminovány velkým množstvím viditelných tělních tekutin, krví, sekrecí nebo stolicí pacienta;

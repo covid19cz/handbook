@@ -540,7 +540,107 @@ V případě zvýšení plazmatických hladin těchto léčiv, je nutné s ohled
 
 **Tabulka 1 Rozmezí koncentrací a hladin pro běžné TDM u COVID-19 pacientů**
 
-+----------------+----------------+----------------+----------------+ \| **Jméno \|** Čas odběru **\|** Rozmezí \| **Principy \| \| léčiva** \| \| koncentrací **\| změn \| \| \| \| \| dávkování** \| +================+================+================+================+ \| **lopinav \| \(maximální \| lopinavir: \| S přihlédnutím \| \| ir/ritonavir** \| koncentrace\) \| \| na účinnost \| \| \| 30 min po \| \(trough）&gt; 1 \| léku a \| \| \| podání \| μg/mL \| nežádoucí \| \| \| \| \(maximální \| vedlejší \| \| \| \(minimální \| koncentrace \) \| účinky. \| \| \| koncentrace \) \| \&lt; 8.2 μg/mL \| \| \| \| 30 před \| \| \| \| \| podáním \| \| \| +----------------+----------------+----------------+----------------+ \| **imipenem** \| 10 min před \| 1~8 μg/mL \| Interpretace a \| \| \| podáním \| \| úprava \| \| \| \| \| dávkování \| \| \| \| \| podle \| \| \| \| \| plazmatických \| \| \| \| \| koncentrací v \| \| \| \| \| závislosti na \| \| \| \| \| MIC \| \| \| \| \| příslušného \| \| \| \| \| patogenu. \| +----------------+----------------+----------------+----------------+ \| **meropenem** \| 10 min před \| 1~16 μg/mL \| \| \| \| podáním \| \| \| +----------------+----------------+----------------+----------------+ \| **vancomycin** \| 30 min před \| 10~20 mg/L \| Minimální \| \| \| podáním \| \(15~20 mg/L \| koncentrace \| \| \| \| pro pacienty \| \(C~Trough~\) \| \| \| \| s těžkou MRSA \| koreluje se \| \| \| \| infekcí\) \| selháním \| \| \| \| \| antiinfekční \| \| \| \| \| terapie a \| \| \| \| \| nefrotoxicity. \| \| \| \| \| Pokud je \| \| \| \| \| koncentrace \| \| \| \| \| příliš vysoká, \| \| \| \| \| je nutné \| \| \| \| \| snížit \| \| \| \| \| dávkování nebo \| \| \| \| \| podávat v \| \| \| \| \| jedné dávce. \| +----------------+----------------+----------------+----------------+ \| **linezolid** \| 30 min před \| 2~7 μg/mL \| Minimální \| \| \| podáním \| \| koncentrace \| \| \| \| \| koncentrace \| \| \| \| \| koreluje s \| \| \| \| \| myelosupresí. \| \| \| \| \| Je nutná \| \| \| \| \| pravidelná \| \| \| \| \| kontrola \| \| \| \| \| krevního \| \| \| \| \| obrazu. \| +----------------+----------------+----------------+----------------+ \| _\| 30 min před \| 1~5.5 μg/mL \| Minimální \| \|_ voriconazol\*\* \| podáním \| \| koncentrace \| \| \| \| \| koreluje s \| \| \| \| \| účinností \| \| \| \| \| terapie a s \| \| \| \| \| nežádoucími \| \| \| \| \| účinky typu \| \| \| \| \| poruchy \| \| \| \| \| jaterních \| \| \| \| \| funkcí. \| +----------------+----------------+----------------+----------------+
+<table>
+<tbody>
+<tr>
+<td>
+<p><strong>Jm&eacute;no l&eacute;čiva</strong></p>
+</td>
+<td>
+<p><strong>Čas odběru</strong></p>
+</td>
+<td>
+<p><strong>Rozmez&iacute; koncentrac&iacute;</strong></p>
+</td>
+<td>
+<p><strong>Principy změn d&aacute;vkov&aacute;n&iacute;</strong></p>
+</td>
+</tr>
+<tr>
+<td><br />
+<p><strong>lopinavir/ritonavir</strong></p>
+</td>
+<td>
+<p>(maxim&aacute;ln&iacute; koncentrace) 30 min po pod&aacute;n&iacute;</p>
+<p>(minim&aacute;ln&iacute; koncentrace ) 30 před pod&aacute;n&iacute;m</p>
+</td>
+<td>
+<p>lopinavir:</p>
+<p>(trough）&gt; 1 &mu;g/mL (maxim&aacute;ln&iacute; koncentrace ) &lt; 8.2 &mu;g/mL</p>
+</td>
+<td>
+<p>S přihl&eacute;dnut&iacute;m na &uacute;činnost l&eacute;ku a než&aacute;douc&iacute; vedlej&scaron;&iacute; &uacute;činky.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>imipenem</strong></p>
+</td>
+<td>
+<p>10 min před pod&aacute;n&iacute;m</p>
+</td>
+<td>
+<p>1~8 &mu;g/mL</p>
+</td>
+<td rowspan="2">
+<p>Interpretace a &uacute;prava d&aacute;vkov&aacute;n&iacute; podle plazmatick&yacute;ch koncentrac&iacute; v z&aacute;vislosti na MIC př&iacute;slu&scaron;n&eacute;ho patogenu.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>meropenem</strong></p>
+</td>
+<td>
+<p>10 min před pod&aacute;n&iacute;m</p>
+</td>
+<td>
+<p>1~16 &mu;g/mL</p>
+</td>
+</tr>
+<tr>
+<td><br />
+<p><strong>vancomycin</strong></p>
+</td>
+<td><br />
+<p>30 min před pod&aacute;n&iacute;m</p>
+</td>
+<td><br />
+<p>10~20 mg/L (15~20 mg/L pro pacienty s&nbsp;těžkou MRSA infekc&iacute;)</p>
+</td>
+<td>
+<p>Minim&aacute;ln&iacute; koncentrace (CTrough) koreluje se selh&aacute;n&iacute;m antiinfekčn&iacute; terapie a nefrotoxicity. Pokud je koncentrace př&iacute;li&scaron; vysok&aacute;, je nutn&eacute; sn&iacute;žit d&aacute;vkov&aacute;n&iacute; nebo pod&aacute;vat v jedn&eacute; d&aacute;vce.</p>
+</td>
+</tr>
+<tr>
+<td><br />
+<p><strong>linezolid</strong></p>
+</td>
+<td>
+<p>30 min před pod&aacute;n&iacute;m</p>
+</td>
+<td><br />
+<p>2~7 &mu;g/mL</p>
+</td>
+<td>
+<p>Minim&aacute;ln&iacute; koncentrace koncentrace koreluje s myelosupres&iacute;. Je nutn&aacute; pravideln&aacute; kontrola krevn&iacute;ho obrazu.</p>
+</td>
+</tr>
+<tr>
+<td><br />
+<p><strong>voriconazol</strong></p>
+</td>
+<td>
+<p>30 min před pod&aacute;n&iacute;m</p>
+</td>
+<td><br />
+<p>1~5.5 &mu;g/mL</p>
+</td>
+<td>
+<p>Minim&aacute;ln&iacute; koncentrace koreluje s &uacute;činnost&iacute; terapie a s než&aacute;douc&iacute;mi &uacute;činky typu poruchy jatern&iacute;ch funkc&iacute;.</p>
+</td>
+</tr>
+</tbody>
+</table>
 
 ### Pozornost potenciálním lékovým interakcím
 
@@ -548,7 +648,80 @@ Antivirotiká typu lopinavir/ritonavir jsou metabolizovány enzymem CYP3A v ját
 
 **Tabulka 2 Interakce mezi antivirotiky a běžnými léčivy**
 
-+----------------------+----------------------+----------------------+ \| **Jméno léčiva** \| **Potenciální \|** Kontraindikace v \| \| \| interakce **\| kombinacích** \| +======================+======================+======================+ \| **l \| V kombinaci s léčivy \| Kombinace s \| \| opinavir/ritonavir** \| metabolizovanými \| amiodaronem \(maligní \| \| \| CYP3A \(např. \| arytmie\), \| \| \| statiny, \| quetiapinem \(těžké \| \| \| imunosupresiva typu \| kóma\) a \| \| \| tacrolimus, \| simvastatinem \| \| \| voriconazol\), \| \(rhabdomyolýza\) je \| \| \| plazmatická \| kontraindikována. \| \| \| koncentrace těchto \| \| \| \| léčiv může v \| \| \| \| kombinaci stoupat; \| \| \| \| což vede k 153 % \| \| \| \| nárůstu \| \| \| \| rivaroxabanu, \| \| \| \| 5.9-násobnímu \| \| \| \| nárůstu AUC \| \| \| \| atorvastatinu a 13 \| \| \| \| násobnému nárůstu \| \| \| \| AUC midazolamu\). \| \| \| \| Věnujte pozornost \| \| \| \| klinickým příznakům \| \| \| \| a použijte TDM. \| \| +----------------------+----------------------+----------------------+ \| **da \| V kombinaci s léky \| Viz \| \| runavir/cobicistat** \| metabolizovanými \| lopinavir/ritonavir. \| \| \| CYP3A a/nebo CYP2D6 \| \| \| \| roste plazmatická \| \| \| \| koncentrace \| \| \| \| kombinovaných léčiv. \| \| \| \| Viz \| \| \| \| lopinavir/ritonavir. \| \| +----------------------+----------------------+----------------------+ \| **arbidol** \| Interaguje s CYP3A4, \| Žádná relevantní \| \| \| UGT1A9 substráty, \| data. \| \| \| inhibitory a \| \| \| \| induktory. \| \| +----------------------+----------------------+----------------------+ \| **fapilavir** \| Teofylin zvyšuje \| Žádná relevantní \| \| \| biologickou \| data. \| \| \| dostupnost \| \| \| \| fapilaviru. \| \| \| \| \| \| \| \| 1.79-násobně zvyšuje \| \| \| \| biologickou \| \| \| \| dostupnost \| \| \| \| paracetamolu. \| \| \| \| \| \| \| \| Kombinace s \| \| \| \| parazinamidem \| \| \| \| zvyšuje plazmatickou \| \| \| \| koncentraci močové \| \| \| \| kyseliny \| \| \| \| \| \| \| \| Kombinace s \| \| \| \| repaglinidem zvyšuje \| \| \| \| jeho plazmatické \| \| \| \| hladiny. \| \| +----------------------+----------------------+----------------------+ \| **chloroquinfosfát** \| Žádná relevantní \| Zabránit kombinaci s \| \| \| data. \| léčivy \| \| \| \| prodlužujícími QT \| \| \| \| interval \| \| \| \| \(moxifloxacin, \| \| \| \| azithromycin, \| \| \| \| amiodaron, atd.\) \| +----------------------+----------------------+----------------------+
+<p>&nbsp;</p>
+<table>
+<tbody>
+<tr>
+<td>
+<p><strong>Jm&eacute;no l&eacute;čiva</strong></p>
+</td>
+<td>
+<p><strong>Potenci&aacute;ln&iacute; interakce</strong></p>
+</td>
+<td>
+<p><strong>Kontraindikace v kombinac&iacute;ch</strong></p>
+</td>
+</tr>
+<tr>
+<td><br />
+<p><strong>lopinavir/ritonavir</strong></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">V kombinaci s l&eacute;čivy metabolizovan&yacute;mi CYP3A (např. statiny, imunosupresiva typu tacrolimus, voriconazol), plazmatick&aacute; koncentrace těchto l&eacute;čiv může v kombinaci stoupat; což vede k 153 % n&aacute;růstu rivaroxabanu, 5.9-n&aacute;sobn&iacute;mu n&aacute;růstu AUC atorvastatinu a 13 n&aacute;sobn&eacute;mu n&aacute;růstu AUC midazolamu). Věnujte pozornost klinick&yacute;m př&iacute;znakům a použijte TDM.</span></p>
+</td>
+<td><br />
+<p><span style="font-weight: 400;">Kombinace s amiodaronem (malign&iacute; arytmie), quetiapinem (těžk&eacute; k&oacute;ma) a simvastatinem (rhabdomyol&yacute;za) je kontraindikov&aacute;na.</span></p>
+</td>
+</tr>
+<tr>
+<td><br />
+<p><strong>darunavir/cobicistat</strong></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">V kombinaci s l&eacute;ky metabolizovan&yacute;mi CYP3A a/nebo CYP2D6 roste plazmatick&aacute; koncentrace kombinovan&yacute;ch l&eacute;čiv. Viz lopinavir/ritonavir.</span></p>
+</td>
+<td><br />
+<p><span style="font-weight: 400;">Viz lopinavir/ritonavir.</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>arbidol</strong></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Interaguje s CYP3A4, UGT1A9 substr&aacute;ty, inhibitory a induktory.</span></p>
+</td>
+<td><br />
+<p><span style="font-weight: 400;">Ž&aacute;dn&aacute; relevantn&iacute; data.</span></p>
+</td>
+</tr>
+<tr>
+<td><br />
+<p><strong>fapilavir</strong></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Teofylin&nbsp; zvy&scaron;uje biologickou dostupnost fapilaviru.</span></p>
+<p><span style="font-weight: 400;">1.79-n&aacute;sobně zvy&scaron;uje biologickou dostupnost paracetamolu.</span></p>
+<p><span style="font-weight: 400;">Kombinace s parazinamidem zvy&scaron;uje plazmatickou koncentraci močov&eacute; kyseliny</span></p>
+<p><span style="font-weight: 400;">Kombinace s repaglinidem zvy&scaron;uje jeho plazmatick&eacute; hladiny.</span></p>
+</td>
+<td><br />
+<p><span style="font-weight: 400;">Ž&aacute;dn&aacute; relevantn&iacute; data.</span></p>
+</td>
+</tr>
+<tr>
+<td><br />
+<p><strong>chloroquinfosf&aacute;t</strong></p>
+</td>
+<td><br />
+<p><span style="font-weight: 400;">Ž&aacute;dn&aacute; relevantn&iacute; data.</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Zabr&aacute;nit kombinaci s l&eacute;čivy prodlužuj&iacute;c&iacute;mi QT interval (moxifloxacin, azithromycin, amiodaron, atd.)</span></p>
+</td>
+</tr>
+</tbody>
+</table>
 
 ### Zabránění iatrogenního poškození u speciální populace
 

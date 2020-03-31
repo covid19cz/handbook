@@ -153,7 +153,85 @@ Viz klinika pro pacienty s horečkou.
 
 ## Řízení ochrany osob v souvislosti s COVID-19
 
-+----------------------+----------------------+----------------------+ \| Úroveň ochrany \| Ochranné prostředky \| Rozsah použití \| +======================+======================+======================+ \| I. úroveň ochrany \| - jednorázová \| - triáž před \| \| \| chirurgická \| vyšetřením, \| \| \| čepice \| oddělení \| \| \| \| ambulantní péče \| \| \| - jednorázová \| \| \| \| lékařská ústenka \| \| \| \| \| \| \| \| - pracovní \| \| \| \| uniforma \| \| \| \| \| \| \| \| - jednorázové \| \| \| \| latexové \| \| \| \| rukavice nebo v \| \| \| \| případě nutnosti \| \| \| \| jednorázový \| \| \| \| ochranný \| \| \| \| zdravotnický \| \| \| \| oblek \| \| +----------------------+----------------------+----------------------+ \| II. úroveň ochrany \| - jednorázová \| - oddělení \| \| \| chirurgická \| ambulantní péče \| \| \| čepice \| pro pacienty s \| \| \| \| horečkou \| \| \| - respirátor třídy \| \| \| \| FFP3 \(N95\) \| - izolační \| \| \| \| oddělení \(včetně \| \| \| - pracovní \| izolační JIP\) \| \| \| uniforma \| \| \| \| \| - vyšetření \| \| \| - jednorázový \| nerespiračních \| \| \| ochranný \| vzorků pacientů \| \| \| zdravotnický \| s \| \| \| oblek \| p \| \| \| \| odezřením/pozitivním \| \| \| - jednorázové \| nálezem \| \| \| latexové \| \| \| \| rukavice \| - vyšetření \| \| \| \| diagnostickou \| \| \| - ochranné brýle \| zobrazovací \| \| \| \| metodou pacientů \| \| \| \| s \| \| \| \| p \| \| \| \| odezřením/pozitivním \| \| \| \| nálezem \| \| \| \| \| \| \| \| - čištění \| \| \| \| chirurgických \| \| \| \| nástrojů \| \| \| \| použitých na \| \| \| \| pacientech s \| \| \| \| p \| \| \| \| odezřením/pozitivním \| \| \| \| nálezem \| +----------------------+----------------------+----------------------+ \| III. úroveň ochrany \| - jednorázová \| - při provádění \| \| \| chirurgická \| zákroků, jako \| \| \| čepice \| např. tracheální \| \| \| \| intubace, \| \| \| - respirátor třídy \| tracheostomie, \| \| \| FFP3 \(N95\) \| \| \| \| \| bronchofibroskopie, \| \| \| - pracovní \| \| \| \| uniforma \| gastroenterologická \| \| \| \| endoskopie \| \| \| - jednorázový \| apod., během \| \| \| ochranný \| kterých mohou \| \| \| zdravotnický \| pacienti s \| \| \| oblek \| p \| \| \| \| odezřením/pozitivním \| \| \| - jednorázové \| nálezem \| \| \| latexové \| vykašlávat či \| \| \| rukavice \| vylučovat \| \| \| \| respirační \| \| \| - celoobličejová \| sekrety či \| \| \| ochranná \| tělesné \| \| \| respirační maska \| tekutiny/krev \| \| \| nebo respirátor \| \| \| \| s automatickým \| - při provádění \| \| \| čištěním vzduchu \| operací a pitev \| \| \| \| pacientů s \| \| \| \| p \| \| \| \| odezřením/pozitivním \| \| \| \| nálezem \| \| \| \| \| \| \| \| - při provádění \| \| \| \| amplifikace \| \| \| \| nukleových \| \| \| \| kyselin \| \| \| \| COVIDu-19 \| +----------------------+----------------------+----------------------+
+<table>
+<tbody>
+<tr>
+<td>
+<p>&Uacute;roveň ochrany</p>
+</td>
+<td>
+<p>Ochrann&eacute; prostředky</p>
+</td>
+<td>
+<p>Rozsah použit&iacute;</p>
+</td>
+</tr>
+<tr>
+<td><br />
+<p>I. &uacute;roveň ochrany</p>
+</td>
+<td>
+<ul>
+<li>jednor&aacute;zov&aacute; chirurgick&aacute; čepice</li>
+<li>jednor&aacute;zov&aacute; l&eacute;kařsk&aacute; &uacute;stenka&nbsp;</li>
+<li>pracovn&iacute; uniforma&nbsp;</li>
+<li>jednor&aacute;zov&eacute; latexov&eacute; rukavice nebo v př&iacute;padě nutnosti jednor&aacute;zov&yacute; ochrann&yacute; zdravotnick&yacute; oblek</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>tri&aacute;ž před vy&scaron;etřen&iacute;m, oddělen&iacute; ambulantn&iacute; p&eacute;če</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><br />
+<p>II. &uacute;roveň ochrany</p>
+</td>
+<td>
+<ul>
+<li>jednor&aacute;zov&aacute; chirurgick&aacute; čepice</li>
+<li>respir&aacute;tor tř&iacute;dy FFP3 (N95)</li>
+<li>pracovn&iacute; uniforma</li>
+<li>jednor&aacute;zov&yacute; ochrann&yacute; zdravotnick&yacute; oblek</li>
+<li>jednor&aacute;zov&eacute; latexov&eacute; rukavice</li>
+<li>ochrann&eacute; br&yacute;le</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>oddělen&iacute; ambulantn&iacute; p&eacute;če pro pacienty s horečkou</li>
+<li>izolačn&iacute;&nbsp; oddělen&iacute; (včetně izolačn&iacute;&nbsp; JIP)</li>
+<li>vy&scaron;etřen&iacute; nerespiračn&iacute;ch vzorků pacientů s podezřen&iacute;m/pozitivn&iacute;m n&aacute;lezem</li>
+<li>vy&scaron;etřen&iacute; diagnostickou zobrazovac&iacute; metodou pacientů s podezřen&iacute;m/pozitivn&iacute;m n&aacute;lezem</li>
+<li>či&scaron;těn&iacute; chirurgick&yacute;ch n&aacute;strojů použit&yacute;ch na pacientech s podezřen&iacute;m/pozitivn&iacute;m n&aacute;lezem</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><br />
+<p>III. &uacute;roveň ochrany</p>
+</td>
+<td>
+<ul>
+<li>jednor&aacute;zov&aacute; chirurgick&aacute; čepice</li>
+<li>respir&aacute;tor tř&iacute;dy FFP3&nbsp; (N95)</li>
+<li>pracovn&iacute; uniforma&nbsp;</li>
+<li>jednor&aacute;zov&yacute; ochrann&yacute; zdravotnick&yacute; oblek</li>
+<li>jednor&aacute;zov&eacute; latexov&eacute; rukavice</li>
+<li>celoobličejov&aacute; ochrann&aacute; respiračn&iacute; maska nebo respir&aacute;tor s automatick&yacute;m či&scaron;těn&iacute;m vzduchu</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>při prov&aacute;děn&iacute; z&aacute;kroků, jako např. trache&aacute;ln&iacute; intubace, tracheostomie, bronchofibroskopie, gastroenterologick&aacute; endoskopie apod., během kter&yacute;ch mohou pacienti s podezřen&iacute;m/pozitivn&iacute;m n&aacute;lezem vyka&scaron;l&aacute;vat či vylučovat respiračn&iacute; sekrety či tělesn&eacute; tekutiny/krev</li>
+<li>při prov&aacute;děn&iacute; operac&iacute; a pitev pacientů s podezřen&iacute;m/pozitivn&iacute;m n&aacute;lezem</li>
+<li>při prov&aacute;děn&iacute; amplifikace nukleov&yacute;ch kyselin COVIDu-19</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
 
 Poznámky:
 

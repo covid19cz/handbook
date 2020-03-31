@@ -228,6 +228,7 @@ Hypoxémie může být přítomna při zhoršení dechové funkce způsobené CO
    Je doporučena NIV s dvojitým okruhem. Filtr proti virům by měl být nainstalován mezi masku a výdechový ventil, pokud je použita NIV s jednou trubicí. Pro snížení rizika úniku vzduchu a s ním i šíření viru by měly být použity vhodné masky.
 
 2. Invazivní mechanická ventilace
+   
    1. Principy invazivní mechanické ventilace u kriticky nemocných pacientů
 
       U terapie pacientů s COVID-19 je důležité udržovat rovnováhu mezi pacientovou potřebou ventilace a kyslíku a rizikem postižení plic v souvislosti s mechanickou invazivní ventilací.
@@ -243,6 +244,7 @@ Hypoxémie může být přítomna při zhoršení dechové funkce způsobené CO
    2. Recruitment plic
 
       Recruitment plic zlepšuje heterogenní distribuci plynů u pacientů s ARDS. Může ovšem způsobit závažné respirační a oběhové komplikace, a proto nejsou manévry pro recruitment plic rutinně doporučovány. Zhodnocení roztažnosti plic by mělo být provedeno před použitím těchto manévrů.
+      
 3. Pronační ventilační poloha
 
    Nejvíc kritičtí pacienti s COVID-19 odpovídají dobře na uvedení do pronační polohy \(otočení ventilovaného pacienta na břicho\), což se projeví rychlým zlepšením okysličení a plicní mechaniky. Pronační poloha je doporučená jako rutinní metoda u pacientů s Horowitzovým indexem &lt; 150 mmHg nebo u pacientů se zjevnou manifestací na zobrazovacích metodách a bez kontraindikací. Časový rámec pro pronační ventilaci je víc než 16 hodin. Pronovat pacienty je vhodné i při vzestupu PaO2/FiO2 nad 150 mmHg v supinnní poloze po dobu &gt; 4 hodiny.

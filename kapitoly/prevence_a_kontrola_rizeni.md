@@ -39,7 +39,7 @@
 <table>
   <thead>
     <tr>
-      <th style="text-align:left"> <b>Epidemiologick&#xE1; anamn&#xE9;za </b>
+      <th style="text-align:left"> <b>Epidemiologick&#xE1; anamn&#xE9;za</b>
       </th>
       <th style="text-align:left">
         <ol>
@@ -68,7 +68,7 @@
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"> <b>Klinick&#xE9; projevy </b>
+      <td style="text-align:left"> <b>Klinick&#xE9; projevy</b>
       </td>
       <td style="text-align:left">
         <ol>
@@ -102,9 +102,7 @@
       <td style="text-align:left"></td>
     </tr>
   </tbody>
-</table>
-
-### Izolační oddělení
+</table>### Izolační oddělení
 
 #### Rozsah použití
 
@@ -226,9 +224,7 @@ Viz klinika pro pacienty s horečkou.
       </td>
     </tr>
   </tbody>
-</table>
-
-**Poznámky:**
+</table>**Poznámky:**
 
 1. Veškerý personál zdravotnického zařízení musí nosit lékařské ústenky \(chirurgické roušky\)
 2. Veškerý personál urgentního příjmu, ambulantního oddělení infekčních chorob, ambulantního oddělení respirační péče, stomatologického oddělení či ordinací provádějících endoskopická vyšetření \(např. gastrointestinální endoskopii, bronchofibroskopii, laryngoskopii, atd.\) musí podle Úrovně ochrany I přejít z chirurgických roušek na respirátor třídy FFP3 \(N95\).
@@ -240,7 +236,7 @@ Viz klinika pro pacienty s horečkou.
 
 **Protokol na oblékání osobních ochranných pracovních prostředků:**
 
-![](../img/image24.png)
+![](../.gitbook/assets/image24.png)
 
 1. Oblečte si pracovní oblečení a obuv 
 2. Umyjte si ruce 
@@ -252,7 +248,7 @@ Viz klinika pro pacienty s horečkou.
 
 **Protokol na svlékání osobních ochranných pracovních prostředků:**
 
-![](../img/image25.png)
+![](../.gitbook/assets/image25.png)
 
 1. Umyjte si ruce a odstraňte viditelné stopy kontaminace tělesnými tekutinami/krví na povrchu obou rukou 
 2. Umyjte si ruce a nahraďte vnější vrstvu rukavic novými rukavicemi 
@@ -324,7 +320,7 @@ Zrealizujte likvidaci na základě první nebo druhé možnosti popsané níže:
 
 #### Dezinfekce nabíjecího respirátoru pro čištění vzduchu
 
-![](../img/image21.png)
+![](../.gitbook/assets/image21.png)
 
 **Upozornění:** Postup dezinfekce ochranného krytu je použitelný jen pro kryty na opakované použití \(nikoliv pro jednorázové kryty\)
 
@@ -383,7 +379,7 @@ Zrealizujte likvidaci na základě první nebo druhé možnosti popsané níže:
 
 ### Postup pro přijímání nápravných opatření proti pracovní expozici nákaze COVID-19
 
-![](../img/image18.png)
+![](../.gitbook/assets/image18.png)
 
 1. Expozice kůže: Kůže je kontaminována velkým množstvím viditelných tělních tekutin, krví, sekrecí nebo stolicí pacienta;
 2. Expozice sliznic: Sliznice, jako oči nebo respirační trakt jsou kontaminovány velkým množstvím viditelných tělních tekutin, krví, sekrecí nebo stolicí pacienta;

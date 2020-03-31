@@ -60,7 +60,7 @@ V časných stádiích COVID-19 se na CT snímcích často objevují víceložis
 
 Po zlepšení stavu se denzity mléčného skla mohou úplně vstřebat a některé konsolidované léze zanechají fibrózní pruhy nebo subpleurální retikulace. Pacienti se zasaženými laloky, především ti s významnějšími lézemi, by měli být sledováni kvůli možnosti zhoršování intersticiálního procesu. Pacienti s typickými nálezy CT by měli být v izolaci a podstoupit další testy PCR i v případě, že mají test na nukleovou kyselinu SARS-CoV-2 negativní.
 
-![](../img/image9.png)
+![](../.gitbook/assets/image9.png)
 
 **Typické znaky COVID-19 na CT:**
 
@@ -78,7 +78,7 @@ Flexibilní bronchoskopie je u pacientů s COVID-19 na plicní ventilaci všestr
 3. Při zajištění dýchacích cest může napomáhat při obtížné tracheální intubaci nebo perkutánní tracheostomii.
 4. Pracovním kanálem bronchoskopu je možné podat léky jako interferon alfa nebo N-acetylcystein. Bronchoskopické vyšetření může diagnostikovat rozsáhlé bronchiální hyperémie sliznice, otoku, slizniční sekret v lumen a gelovitý hlen blokující dýchací cesty u kriticky nemocných pacientů \(Obrázek 7\).
 
-![](../img/image5.png)
+![](../.gitbook/assets/image5.png)
 
 **Obrázek 7:** Projevy COVID-19 při bronchoskopickém vyšetření: otok bronchiální sliznice a blokáda lumen bronchu, velké množství sekretu v bronchiálních cestách
 
@@ -228,7 +228,6 @@ Hypoxémie může být přítomna při zhoršení dechové funkce způsobené CO
    Je doporučena NIV s dvojitým okruhem. Filtr proti virům by měl být nainstalován mezi masku a výdechový ventil, pokud je použita NIV s jednou trubicí. Pro snížení rizika úniku vzduchu a s ním i šíření viru by měly být použity vhodné masky.
 
 2. Invazivní mechanická ventilace
-   
    1. Principy invazivní mechanické ventilace u kriticky nemocných pacientů
 
       U terapie pacientů s COVID-19 je důležité udržovat rovnováhu mezi pacientovou potřebou ventilace a kyslíku a rizikem postižení plic v souvislosti s mechanickou invazivní ventilací.
@@ -244,7 +243,6 @@ Hypoxémie může být přítomna při zhoršení dechové funkce způsobené CO
    2. Recruitment plic
 
       Recruitment plic zlepšuje heterogenní distribuci plynů u pacientů s ARDS. Může ovšem způsobit závažné respirační a oběhové komplikace, a proto nejsou manévry pro recruitment plic rutinně doporučovány. Zhodnocení roztažnosti plic by mělo být provedeno před použitím těchto manévrů.
-      
 3. Pronační ventilační poloha
 
    Nejvíc kritičtí pacienti s COVID-19 odpovídají dobře na uvedení do pronační polohy \(otočení ventilovaného pacienta na břicho\), což se projeví rychlým zlepšením okysličení a plicní mechaniky. Pronační poloha je doporučená jako rutinní metoda u pacientů s Horowitzovým indexem &lt; 150 mmHg nebo u pacientů se zjevnou manifestací na zobrazovacích metodách a bez kontraindikací. Časový rámec pro pronační ventilaci je víc než 16 hodin. Pronovat pacienty je vhodné i při vzestupu PaO2/FiO2 nad 150 mmHg v supinnní poloze po dobu &gt; 4 hodiny.
@@ -488,7 +486,7 @@ Bylo dokázáno, že incidence abnormálních jaterních funkcí je u COVID-19 p
 
 1. Lopinavir/ritonavir a darunavir/cobicistat: průjem, nauzea, zvracení, nárůst jaterních transamináz v séru, ikterus, dyslipidemie, nárůst hladin plazmatického laktátu. Tyto příznaky ustupují po ukončení terapie.
 2. Arbidol: nárůst jaterních transamináz v séru a ikterus. Jsou častější při kombinaci s lopidavirem. Příznaky ustupují po ukončení terapie. Někdy může být pozorována bradykardie, proto je nutné zamezit současnému užívání arbidolu s beta-blokátory jako metoprolol nebo propranolol. Při srdeční frekvenci nižší než 60/min doporučujeme tyto léky vysadit.
-3. Fapilavir: elevace plazmatické hladiny kyseliny močové, průjem, neutropenie, šok, fulminantní hepatitida, akutní nedostatečnost funkce ledvin. Tyto příznaky byly častěji pozorovány u starších pacientů a pacientů v cytokinové bouři.
+3. Favipiravir: elevace plazmatické hladiny kyseliny močové, průjem, neutropenie, šok, fulminantní hepatitida, akutní nedostatečnost funkce ledvin. Tyto příznaky byly častěji pozorovány u starších pacientů a pacientů v cytokinové bouři.
 4. Chloroquinfosfát: závratě, bolesti hlavy, nauzea, zvracení, průjem, kožní vyrážky. Nejzávažnějším nežádoucím účinkem je srdeční zástava. Hlavním nežádoucím účinkem je okulotoxicita. Před nasazením je nutné natočit EKG. Z těchto důvodů by měl být tento preparát kontraindikován u pacientů s poruchami srdečního rytmu \(např. Blokády srdečního převodu\), retinopatií a ztrátou sluchu.
 
 ### TDM \(Terapeutické monitorování hladin léčiv\)
@@ -499,147 +497,88 @@ V případě zvýšení plazmatických hladin těchto léčiv, je nutné s ohled
 
 **Tabulka 1:** Rozmezí koncentrací a hladin pro běžné TDM u COVID-19 pacientů
 
+| **Jméno léčiva** | **Čas odběru** | **Rozmezí koncentrací** | **Principy změn dávkování** |
+| :--- | :--- | :--- | :--- |
+
+
 <table>
   <thead>
     <tr>
-      <th style="text-align:left"><b>Jm&#xE9;no l&#xE9;&#x10D;iva</b>
+      <th style="text-align:left"><b>lopinavir/ritonavir</b>
       </th>
-      <th style="text-align:left"><b>&#x10C;as odb&#x11B;ru</b>
-      </th>
-      <th style="text-align:left"><b>Rozmez&#xED; koncentrac&#xED;</b>
-      </th>
-      <th style="text-align:left"><b>Principy zm&#x11B;n d&#xE1;vkov&#xE1;n&#xED;</b>
-      </th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left"><b>lopinavir/ritonavir</b>
-      </td>
-      <td style="text-align:left">
+      <th style="text-align:left">
         <p>(maxim&#xE1;ln&#xED; koncentrace) 30 min po pod&#xE1;n&#xED;</p>
         <p>(minim&#xE1;ln&#xED; koncentrace ) 30 p&#x159;ed pod&#xE1;n&#xED;m</p>
-      </td>
-      <td style="text-align:left">
+      </th>
+      <th style="text-align:left">
         <p>lopinavir:</p>
         <p>(trough&#xFF09;&gt; 1 &#x3BC;g/mL (maxim&#xE1;ln&#xED; koncentrace ) &lt;
           8.2 &#x3BC;g/mL</p>
-      </td>
-      <td style="text-align:left">S p&#x159;ihl&#xE9;dnut&#xED;m na &#xFA;&#x10D;innost l&#xE9;ku a ne&#x17E;&#xE1;douc&#xED;
-        vedlej&#x161;&#xED; &#xFA;&#x10D;inky.</td>
+      </th>
+      <th style="text-align:left">S p&#x159;ihl&#xE9;dnut&#xED;m na &#xFA;&#x10D;innost l&#xE9;ku a ne&#x17E;&#xE1;douc&#xED;
+        vedlej&#x161;&#xED; &#xFA;&#x10D;inky.</th>
     </tr>
-    <tr>
-      <td style="text-align:left"><b>imipenem</b>
-      </td>
-      <td style="text-align:left">10 min p&#x159;ed pod&#xE1;n&#xED;m</td>
-      <td style="text-align:left">1~8 &#x3BC;g/mL</td>
-      <td style="text-align:left">Interpretace a &#xFA;prava d&#xE1;vkov&#xE1;n&#xED; podle plazmatick&#xFD;ch
-        koncentrac&#xED; v z&#xE1;vislosti na MIC p&#x159;&#xED;slu&#x161;n&#xE9;ho
-        patogenu.</td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><b>meropenem</b>
-      </td>
-      <td style="text-align:left">10 min p&#x159;ed pod&#xE1;n&#xED;m</td>
-      <td style="text-align:left">1~16 &#x3BC;g/mL</td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><b>vancomycin</b>
-      </td>
-      <td style="text-align:left">30 min p&#x159;ed pod&#xE1;n&#xED;m</td>
-      <td style="text-align:left">10~20 mg/L (15~20 mg/L pro pacienty s t&#x11B;&#x17E;kou MRSA infekc&#xED;)</td>
-      <td
-      style="text-align:left">Minim&#xE1;ln&#xED; koncentrace (CTrough) koreluje se selh&#xE1;n&#xED;m
-        antiinfek&#x10D;n&#xED; terapie a nefrotoxicity. Pokud je koncentrace p&#x159;&#xED;li&#x161;
-        vysok&#xE1;, je nutn&#xE9; sn&#xED;&#x17E;it d&#xE1;vkov&#xE1;n&#xED; nebo
-        pod&#xE1;vat v jedn&#xE9; d&#xE1;vce.</td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><b>linezolid</b>
-      </td>
-      <td style="text-align:left">30 min p&#x159;ed pod&#xE1;n&#xED;m</td>
-      <td style="text-align:left">2~7 &#x3BC;g/mL</td>
-      <td style="text-align:left">Minim&#xE1;ln&#xED; koncentrace koncentrace koreluje s myelosupres&#xED;.
-        Je nutn&#xE1; pravideln&#xE1; kontrola krevn&#xED;ho obrazu.</td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><b>voriconazol</b>
-      </td>
-      <td style="text-align:left">30 min p&#x159;ed pod&#xE1;n&#xED;m</td>
-      <td style="text-align:left">1~5.5 &#x3BC;g/mL</td>
-      <td style="text-align:left">Minim&#xE1;ln&#xED; koncentrace koreluje s &#xFA;&#x10D;innost&#xED; terapie
-        a s ne&#x17E;&#xE1;douc&#xED;mi &#xFA;&#x10D;inky typu poruchy jatern&#xED;ch
-        funkc&#xED;.</td>
-    </tr>
-  </tbody>
-</table>### Pozornost potenciálním lékovým interakcím
+  </thead>
+  <tbody></tbody>
+</table>| **imipenem** | 10 min před podáním | 1~8 μg/mL | Interpretace a úprava dávkování podle plazmatických koncentrací v závislosti na MIC příslušného patogenu. |
+| :--- | :--- | :--- | :--- |
+
+
+| **meropenem** | 10 min před podáním | 1~16 μg/mL |  |
+| :--- | :--- | :--- | :--- |
+
+
+| **vancomycin** | 30 min před podáním | 10~20 mg/L \(15~20 mg/L pro pacienty s těžkou MRSA infekcí\) | Minimální koncentrace \(CTrough\) koreluje se selháním antiinfekční terapie a nefrotoxicity. Pokud je koncentrace příliš vysoká, je nutné snížit dávkování nebo podávat v jedné dávce. |
+| :--- | :--- | :--- | :--- |
+
+
+| **linezolid** | 30 min před podáním | 2~7 μg/mL | Minimální koncentrace koncentrace koreluje s myelosupresí. Je nutná pravidelná kontrola krevního obrazu. |
+| :--- | :--- | :--- | :--- |
+
+
+| **voriconazol** | 30 min před podáním | 1~5.5 μg/mL | Minimální koncentrace koreluje s účinností terapie a s nežádoucími účinky typu poruchy jaterních funkcí. |
+| :--- | :--- | :--- | :--- |
+
 
 Antivirotiká typu lopinavir/ritonavir jsou metabolizovány enzymem CYP3A v játrech. Pokud pacienti berou současně i jiná léčiva, musí být sledovány potenciální interakce. Tabulka 2 ukazuje interakce mezi jednotlivými antivirotiky a ostatními léčivy.
 
 **Tabulka 2:** Interakce mezi antivirotiky a běžnými léčivy
 
+| **Jméno léčiva** | **Potenciální interakce** | **Kontraindikace v kombinacích** |
+| :--- | :--- | :--- |
+
+
+| **lopinavir/ritonavir** | V kombinaci s léčivy metabolizovanými CYP3A \(např. statiny, imunosupresiva typu tacrolimus, voriconazol\), plazmatická koncentrace těchto léčiv může v kombinaci stoupat; což vede k 153 % nárůstu rivaroxabanu, 5.9-násobnímu nárůstu AUC atorvastatinu a 13 násobnému nárůstu AUC midazolamu\). Věnujte pozornost klinickým příznakům a použijte TDM. | Kombinace s amiodaronem \(maligní arytmie\), quetiapinem \(těžké kóma\) a simvastatinem \(rhabdomyolýza\) je kontraindikována. |
+| :--- | :--- | :--- |
+
+
+| **darunavir/cobicistat** | V kombinaci s léky metabolizovanými CYP3A a/nebo CYP2D6 roste plazmatická koncentrace kombinovaných léčiv. Viz lopinavir/ritonavir. | Viz lopinavir/ritonavir. |
+| :--- | :--- | :--- |
+
+
+| **arbidol** | Interaguje s CYP3A4, UGT1A9 substráty, inhibitory a induktory. | Žádná relevantní data. |
+| :--- | :--- | :--- |
+
+
 <table>
   <thead>
     <tr>
-      <th style="text-align:left"><b>Jm&#xE9;no l&#xE9;&#x10D;iva</b>
+      <th style="text-align:left"><b>favipiravir</b>
       </th>
-      <th style="text-align:left"><b>Potenci&#xE1;ln&#xED; interakce</b>
-      </th>
-      <th style="text-align:left"><b>Kontraindikace v kombinac&#xED;ch</b>
-      </th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left"><b>lopinavir/ritonavir</b>
-      </td>
-      <td style="text-align:left">V kombinaci s l&#xE9;&#x10D;ivy metabolizovan&#xFD;mi CYP3A (nap&#x159;.
-        statiny, imunosupresiva typu tacrolimus, voriconazol), plazmatick&#xE1;
-        koncentrace t&#x11B;chto l&#xE9;&#x10D;iv m&#x16F;&#x17E;e v kombinaci
-        stoupat; co&#x17E; vede k 153 % n&#xE1;r&#x16F;stu rivaroxabanu, 5.9-n&#xE1;sobn&#xED;mu
-        n&#xE1;r&#x16F;stu AUC atorvastatinu a 13 n&#xE1;sobn&#xE9;mu n&#xE1;r&#x16F;stu
-        AUC midazolamu). V&#x11B;nujte pozornost klinick&#xFD;m p&#x159;&#xED;znak&#x16F;m
-        a pou&#x17E;ijte TDM.</td>
-      <td style="text-align:left">Kombinace s amiodaronem (malign&#xED; arytmie), quetiapinem (t&#x11B;&#x17E;k&#xE9;
-        k&#xF3;ma) a simvastatinem (rhabdomyol&#xFD;za) je kontraindikov&#xE1;na.</td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><b>darunavir/cobicistat</b>
-      </td>
-      <td style="text-align:left">V kombinaci s l&#xE9;ky metabolizovan&#xFD;mi CYP3A a/nebo CYP2D6 roste
-        plazmatick&#xE1; koncentrace kombinovan&#xFD;ch l&#xE9;&#x10D;iv. Viz lopinavir/ritonavir.</td>
-      <td
-      style="text-align:left">Viz lopinavir/ritonavir.</td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><b>arbidol</b>
-      </td>
-      <td style="text-align:left">Interaguje s CYP3A4, UGT1A9 substr&#xE1;ty, inhibitory a induktory.</td>
-      <td
-      style="text-align:left">&#x17D;&#xE1;dn&#xE1; relevantn&#xED; data.</td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><b>fapilavir</b>
-      </td>
-      <td style="text-align:left">
-        <p>Teofylin zvy&#x161;uje biologickou dostupnost fapilaviru.</p>
+      <th style="text-align:left">
+        <p>Teofylin zvy&#x161;uje biologickou dostupnost favipiraviru.</p>
         <p>1.79-n&#xE1;sobn&#x11B; zvy&#x161;uje biologickou dostupnost paracetamolu.</p>
         <p>Kombinace s parazinamidem zvy&#x161;uje plazmatickou koncentraci mo&#x10D;ov&#xE9;
           kyseliny</p>
         <p>Kombinace s repaglinidem zvy&#x161;uje jeho plazmatick&#xE9; hladiny.</p>
-      </td>
-      <td style="text-align:left">&#x17D;&#xE1;dn&#xE1; relevantn&#xED; data.</td>
+      </th>
+      <th style="text-align:left">&#x17D;&#xE1;dn&#xE1; relevantn&#xED; data.</th>
     </tr>
-    <tr>
-      <td style="text-align:left"><b>chloroquinfosf&#xE1;t</b>
-      </td>
-      <td style="text-align:left">&#x17D;&#xE1;dn&#xE1; relevantn&#xED; data.</td>
-      <td style="text-align:left">Zabr&#xE1;nit kombinaci s l&#xE9;&#x10D;ivy prodlu&#x17E;uj&#xED;c&#xED;mi
-        QT interval (moxifloxacin, azithromycin, amiodaron, atd.)</td>
-    </tr>
-  </tbody>
-</table>### Zabránění iatrogenního poškození u speciální populace
+  </thead>
+  <tbody></tbody>
+</table>| **chloroquinfosfát** | Žádná relevantní data. | Zabránit kombinaci s léčivy prodlužujícími QT interval \(moxifloxacin, azithromycin, amiodaron, atd.\) |
+| :--- | :--- | :--- |
+
 
 Speciální populace zahrnuje těhotné ženy, pacienty s renální insuficiencí nebo jaterním selháváním, pacienty na mechanické plicní ventilaci, pacienty na terapii CRRT \(„continuous renal replacement therapy" -- kontinuální eliminační metoda nahrazující funkci ledvin\) nebo na ECMO, atd. Před podáváním léčiv u této populace je nutné zvážit následující:
 
@@ -661,7 +600,7 @@ Speciální populace zahrnuje těhotné ženy, pacienty s renální insuficienc�
 
    Pro imipenem platí: maximální denní dávka by neměla přesáhnout 2 g.
 
-![](../img/image6.png)
+![](../.gitbook/assets/image6.png)
 
 ## Psychologické intervence u pacientů s infekcí Covid-19
 

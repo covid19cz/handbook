@@ -1,4 +1,4 @@
-# Přeložili a dali dohromady
+# Překlad
 
 * Adam Mrkvička
 * Anežka Grynderová
@@ -28,5 +28,5 @@
 * MUDr. Jan Rulíšek
 * MUDr. Markéta Korcinová
 
-![](../img/image1.png)
+![](../.gitbook/assets/image1.png)
 

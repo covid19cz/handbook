@@ -239,9 +239,9 @@ Hypoxémie může být přítomna při zhoršení dechové funkce způsobené CO
 
      Vysvětlivky: „plateau" tlak -- je tlak, který je přístrojem pro umělou plicní ventilaci aplikován na nejmenší bronchioly a plicní sklípky. „Driving" tlak -- může být vypočítán jako „plateau" tlak -- PEEP \(pozitivní tlak na konci výdechu\).
 
-   1. Recruitment plic
+   * Recruitment plic
 
-      Recruitment plic zlepšuje heterogenní distribuci plynů u pacientů s ARDS. Může ovšem způsobit závažné respirační a oběhové komplikace, a proto nejsou manévry pro recruitment plic rutinně doporučovány. Zhodnocení roztažnosti plic by mělo být provedeno před použitím těchto manévrů.
+     Recruitment plic zlepšuje heterogenní distribuci plynů u pacientů s ARDS. Může ovšem způsobit závažné respirační a oběhové komplikace, a proto nejsou manévry pro recruitment plic rutinně doporučovány. Zhodnocení roztažnosti plic by mělo být provedeno před použitím těchto manévrů.
 
 3. Pronační ventilační poloha
 
@@ -497,78 +497,24 @@ V případě zvýšení plazmatických hladin těchto léčiv, je nutné s ohled
 
 **Tabulka 1:** Rozmezí koncentrací a hladin pro běžné TDM u COVID-19 pacientů
 
-<table>
-  <tr>
-    <th>Jméno léčiva</th>
-    <th>Čas odběru</th>
-    <th>Rozmezí koncentrací</th>
-    <th>Principy změn dávkování</th>
-  </tr>
-  <tr>
-    <td>lopinavir/ritonavir</td>
-    <td>(maximální koncentrace) 30 min po podání<br>(minimální koncentrace ) 30 před podáním<br></td>
-    <td>lopinavir:(trough）&gt; 1 μg/mL (maximální koncentrace ) &lt; 8.2 μg/mL</td>
-    <td>S přihlédnutím na účinnost léku a nežádoucí vedlejší účinky.</td>
-  </tr>
-  <tr>
-    <td>meropenem</td>
-    <td>10 min před podáním</td>
-    <td>1~16 μg/mL</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>vancomycin</td>
-    <td>30 min před podáním</td>
-    <td>0~20 mg/L (15~20 mg/L pro pacienty s těžkou MRSA infekcí)</td>
-    <td>Minimální koncentrace (CTrough) koreluje se selháním antiinfekční terapie a nefrotoxicity. Pokud je koncentrace příliš vysoká, je nutné snížit dávkování nebo podávat v jedné dávce.</td>
-  </tr>
-  <tr>
-    <td>linezolid</td>
-    <td>30 min před podáním</td>
-    <td>2~7 μg/mL</td>
-    <td>Minimální koncentrace koncentrace koreluje s myelosupresí. Je nutná pravidelná kontrola krevního obrazu.</td>
-  </tr>
-  <tr>
-    <td>voriconazol</td>
-    <td>30 min před podáním</td>
-    <td>1~5.5 μg/mL</td>
-    <td>Minimální koncentrace koreluje s účinností terapie a s nežádoucími účinky typu poruchy jaterních funkcí.</td>
-  </tr>
-</table>
-
+| Jméno léčiva | Čas odběru | Rozmezí koncentrací | Principy změn dávkování |
+| :--- | :--- | :--- | :--- |
+| lopinavir/ritonavir | \(maximální koncentrace\) 30 min po podání \(minimální koncentrace \) 30 před podáním  | lopinavir:\(trough）&gt; 1 μg/mL \(maximální koncentrace \) &lt; 8.2 μg/mL | S přihlédnutím na účinnost léku a nežádoucí vedlejší účinky. |
+| meropenem | 10 min před podáním | 1~16 μg/mL |  |
+| vancomycin | 30 min před podáním | 0~20 mg/L \(15~20 mg/L pro pacienty s těžkou MRSA infekcí\) | Minimální koncentrace \(CTrough\) koreluje se selháním antiinfekční terapie a nefrotoxicity. Pokud je koncentrace příliš vysoká, je nutné snížit dávkování nebo podávat v jedné dávce. |
+| linezolid | 30 min před podáním | 2~7 μg/mL | Minimální koncentrace koncentrace koreluje s myelosupresí. Je nutná pravidelná kontrola krevního obrazu. |
+| voriconazol | 30 min před podáním | 1~5.5 μg/mL | Minimální koncentrace koreluje s účinností terapie a s nežádoucími účinky typu poruchy jaterních funkcí. |
 
 Antivirotika typu lopinavir/ritonavir jsou metabolizovány enzymem CYP3A v játrech. Pokud pacienti berou současně i jiná léčiva, musí být sledovány potenciální interakce. Tabulka 2 ukazuje interakce mezi jednotlivými antivirotiky a ostatními léčivy.
 
 **Tabulka 2:** Interakce mezi antivirotiky a běžnými léčivy
 
-<table>
-  <tr>
-    <th>Jméno léčiva</th>
-    <th>Potenciální interakce</th>
-    <th>Kontraindikace v kombinacích</th>
-  </tr>
-  <tr>
-    <td>lopinavir/ritonavir</td>
-    <td>V kombinaci s léčivy metabolizovanými CYP3A (např. statiny, imunosupresiva typu tacrolimus, voriconazol), plazmatická koncentrace těchto léčiv může v kombinaci stoupat; což vede k 153 % nárůstu rivaroxabanu, 5.9-násobnímu nárůstu AUC atorvastatinu a 13 násobnému nárůstu AUC midazolamu). Věnujte pozornost klinickým příznakům a použijte TDM.</td>
-    <td>Kombinace s amiodaronem (maligní arytmie), quetiapinem (těžké kóma) a simvastatinem (rhabdomyolýza) je kontraindikována</td>
-  </tr>
-  <tr>
-    <td>darunavir/cobicistat</td>
-    <td>V kombinaci s léky metabolizovanými CYP3A a/nebo CYP2D6 roste plazmatická koncentrace kombinovaných léčiv. Viz lopinavir/ritonavir.</td>
-    <td>Viz lopinavir/ritonavir.</td>
-  </tr>
-  <tr>
-    <td>arbidol</td>
-    <td>Interaguje s CYP3A4, UGT1A9 substráty, inhibitory a induktory.</td>
-    <td>Žádná relevantní data.</td>
-  </tr>
-  <tr>
-    <td>favipiravir</td>
-    <td>Teofylin zvyšuje biologickou dostupnost favipiraviru.1.79-násobně zvyšuje biologickou dostupnost paracetamolu.Kombinace s parazinamidem zvyšuje plazmatickou koncentraci močové kyselinyKombinace s repaglinidem zvyšuje jeho plazmatické hladiny.</td>
-    <td>Žádná relevantní data.</td>
-  </tr>
-</table>
-
+| Jméno léčiva | Potenciální interakce | Kontraindikace v kombinacích |
+| :--- | :--- | :--- |
+| lopinavir/ritonavir | V kombinaci s léčivy metabolizovanými CYP3A \(např. statiny, imunosupresiva typu tacrolimus, voriconazol\), plazmatická koncentrace těchto léčiv může v kombinaci stoupat; což vede k 153 % nárůstu rivaroxabanu, 5.9-násobnímu nárůstu AUC atorvastatinu a 13 násobnému nárůstu AUC midazolamu\). Věnujte pozornost klinickým příznakům a použijte TDM. | Kombinace s amiodaronem \(maligní arytmie\), quetiapinem \(těžké kóma\) a simvastatinem \(rhabdomyolýza\) je kontraindikována |
+| darunavir/cobicistat | V kombinaci s léky metabolizovanými CYP3A a/nebo CYP2D6 roste plazmatická koncentrace kombinovaných léčiv. Viz lopinavir/ritonavir. | Viz lopinavir/ritonavir. |
+| arbidol | Interaguje s CYP3A4, UGT1A9 substráty, inhibitory a induktory. | Žádná relevantní data. |
+| favipiravir | Teofylin zvyšuje biologickou dostupnost favipiraviru.1.79-násobně zvyšuje biologickou dostupnost paracetamolu.Kombinace s parazinamidem zvyšuje plazmatickou koncentraci močové kyselinyKombinace s repaglinidem zvyšuje jeho plazmatické hladiny. | Žádná relevantní data. |
 
 Speciální populace zahrnuje těhotné ženy, pacienty s renální insuficiencí nebo jaterním selháváním, pacienty na mechanické plicní ventilaci, pacienty na terapii CRRT \(„continuous renal replacement therapy" -- kontinuální eliminační metoda nahrazující funkci ledvin\) nebo na ECMO, atd. Před podáváním léčiv u této populace je nutné zvážit následující:
 

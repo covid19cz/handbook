@@ -27,12 +27,10 @@ Tváří v tvář neznámému viru je sdílení a spolupráce tím nejlepším l
         <br />Zhejiang University School of Medicine</th>
       <th style="text-align:left">
         <p>
-          <img src=".gitbook/assets/image3.png"
-          alt/>
+          <img src=".gitbook/assets/image3.png" alt/>
         </p>
         <p>
-          <img src=".gitbook/assets/image4.png"
-          alt/>
+          <img src=".gitbook/assets/image4.png" alt/>
         </p>
       </th>
     </tr>

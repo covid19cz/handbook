@@ -233,19 +233,13 @@ Viz klinika pro pacienty s horečkou.
 </tbody>
 </table>
 
-Poznámky:
+**Poznámky:**
 
-1. Veškerý personál zdravotnického zařízení musí nosit lékařské ústenky
+1. Veškerý personál zdravotnického zařízení musí nosit lékařské ústenky \(chirurgické roušky\) 
 
-   > \(chirurgické roušky\) .
+2. Veškerý personál urgentního příjmu, ambulantního oddělení infekčních chorob, ambulantního oddělení respirační péče, stomatologického oddělení či ordinací provádějících endoskopická vyšetření \(např. gastrointestinální endoskopii, bronchofibroskopii, laryngoskopii, atd.\) musí podle Úrovně ochrany I přejít z chirurgických roušek na respirátor třídy FFP3 \(N95\).
 
-2. Veškerý personál urgentního příjmu, ambulantního oddělení infekčních
-
-   > chorob, ambulantního oddělení respirační péče, stomatologického oddělení či ordinací provádějících endoskopická vyšetření \(např. gastrointestinální endoskopii, bronchofibroskopii, laryngoskopii, atd.\) musí podle Úrovně ochrany I přejít z chirurgických roušek na respirátor třídy FFP3 \(N95\).
-
-3. Personál musí při sběru respiračních vzorků od pacientů s
-
-   > podezřením/pozitivním nálezem podle Úrovně ochrany II nosit ochranné obličejové štíty.
+3. Personál musí při sběru respiračních vzorků od pacientů s podezřením/pozitivním nálezem podle Úrovně ochrany II nosit ochranné obličejové štíty.
 
 ## Postupy pro nemocniční praxi v průběhu epidemie COVID-19
 
@@ -259,7 +253,19 @@ Oblečte si pracovní oblečení a obuv - Umyjte si ruce - Oblečte si jednoráz
 
 **Protokol na svlékání osobních ochranných pracovních prostředků:**
 
-Umyjte si ruce a odstraňte viditelné stopy kontaminace tělesnými tekutinami/krví na povrchu obou rukou - Umyjte si ruce a nahraďte vnější vrstvu rukavic novými rukavicemi - Odstraňte obličejový štít/celoobličejovou masku \(pokud jste je používali\) - Umyjte si ruce - Svlékněte si jednorázový empír a vnější vrstvu rukavic \(pokud jste je používali\) - Umyjte si ruce a navlékněte si nové rukavice - Umyjte si ruce a svlékněte si ochranný oděv a vnější vrstvu rukavic \(při svlékání rukavic a ochranného oděvu je otočte naruby\) \(poznámka: pokud jste je používali, svlékněte si jednorázové návleky na obuv spolu s ochranným oděvem\) - Umyjte si ruce - Umyjte si ruce a sundejte si brýle - Umyjte si ruce a sundejte si respirátor - Umyjte si ruce a sundejte si pokrývku hlavy - Umyjte si ruce a svlékněte si vnitřní jednorázové latexové rukavice - Umyjte si ruce, osprchujte se, oblečte si čisté oblečení a vstupte do čisté oblasti
+1. Umyjte si ruce a odstraňte viditelné stopy kontaminace tělesnými tekutinami/krví na povrchu obou rukou 
+2. Umyjte si ruce a nahraďte vnější vrstvu rukavic novými rukavicemi 
+3. Odstraňte obličejový štít/celoobličejovou masku \(pokud jste je používali\) 
+4. Umyjte si ruce 
+5. Svlékněte si jednorázový empír a vnější vrstvu rukavic \(pokud jste je používali\) 
+6. Umyjte si ruce a navlékněte si nové rukavice 
+7. Umyjte si ruce a svlékněte si ochranný oděv a vnější vrstvu rukavic \(při svlékání rukavic a ochranného oděvu je otočte naruby\) \(poznámka: pokud jste je používali, svlékněte si jednorázové návleky na obuv spolu s ochranným oděvem\) 
+8. Umyjte si ruce 
+9. Umyjte si ruce a sundejte si brýle 
+10. Umyjte si ruce a sundejte si respirátor 
+11. Umyjte si ruce a sundejte si pokrývku hlavy 
+12. Umyjte si ruce a svlékněte si vnitřní jednorázové latexové rukavice 
+13. Umyjte si ruce, osprchujte se, oblečte si čisté oblečení a vstupte do čisté oblasti
 
 ### Postupy pro dezinfekci izolačních oddělení pro pacienty s COVID-19
 
@@ -297,9 +303,9 @@ Umyjte si ruce a odstraňte viditelné stopy kontaminace tělesnými tekutinami/
 
 #### Pro rozlitý biologický materiál o menším objemu \(&lt; 10 ml\) krve/tělních tekutin
 
-První možnost: Biologický materiál by měl být přikryt dezinfekčními ubrousky na bázi chlóru \(s obsahem 5000 mg/l efektivního chlóru\) a opatrně odstraněn, následně by měl být povrch znečištěného předmětu dvakrát otřen dezinfekčními ubrousky na bázi chlóru \(s obsahem 500 mg/l efektivního chlóru\);
+**První možnost:** Biologický materiál by měl být přikryt dezinfekčními ubrousky na bázi chlóru \(s obsahem 5000 mg/l efektivního chlóru\) a opatrně odstraněn, následně by měl být povrch znečištěného předmětu dvakrát otřen dezinfekčními ubrousky na bázi chlóru \(s obsahem 500 mg/l efektivního chlóru\);
 
-Druhá možnost: Opatrné odstranění biologického odpadu jednorázovým savým materiálem \(např. gázou, ubrouskem atd.\), který byl namočen do dezinfekčního roztoku na bázi chlóru \(s obsahem 5000 mg/l efektivního chlóru\)
+**Druhá možnost:** Opatrné odstranění biologického odpadu jednorázovým savým materiálem \(např. gázou, ubrouskem atd.\), který byl namočen do dezinfekčního roztoku na bázi chlóru \(s obsahem 5000 mg/l efektivního chlóru\)
 
 #### Pro rozlitý biologický materiál o větším objemu \(&gt; 10 ml\) krve/tělních tekutin
 
@@ -307,18 +313,19 @@ Nejprve umístěte upozornění, kterým vyznačíte prostor potřísněný biol
 
 Zrealizujte likvidaci na základě první nebo druhé možnosti popsané níže:
 
-1. První možnost: nechte absorbovat rozlité tekutiny po dobu 30 minut čistým savým ručníkem \(obsahujícím kyselinu peroxyoctovou, která absorbuje až 1 litr tekutiny na ručník\) a pak vyčistěte kontaminovanou oblast po odstranění znečišťujícího materiálu.
-2. Druhá možnost: kompletně pokryjte znečištěnou oblast dezinfekčním práškem nebo bělícím práškem obsahujícím ingredience absorbující vodu nebo kompletně přikryjte jednorázovými materiály absorbujícími vodu, a pak nalijte dostatečné množství dezinfekčního roztoku na bázi chloru \(s obsahem 10000 mg/l efektivního chloru\) na materiál absorbující vodu \(nebo přikryjte suchým ručníkem, který bude vystaven intenzivní dezinfekci\). Nechte působit alespoň 30 minut, než opatrně odstraníte rozlitý biologický materiál.
+1. **První možnost:** nechte absorbovat rozlité tekutiny po dobu 30 minut čistým savým ručníkem \(obsahujícím kyselinu peroxyoctovou, která absorbuje až 1 litr tekutiny na ručník\) a pak vyčistěte kontaminovanou oblast po odstranění znečišťujícího materiálu.
 
-Pacientova stolice, sekrety, zvratky apod. by měly být sbírány do speciální nádoby a dezinfikovány po dobu 2 hodin dezinfekcí na bázi chloru \(s obsahem 20000 mg/l efektivního chloru\) v poměru biologického materiálu k dezinfekci 1:2.
+2. **Druhá možnost:** kompletně pokryjte znečištěnou oblast dezinfekčním práškem nebo bělícím práškem obsahujícím ingredience absorbující vodu nebo kompletně přikryjte jednorázovými materiály absorbujícími vodu, a pak nalijte dostatečné množství dezinfekčního roztoku na bázi chloru \(s obsahem 10000 mg/l efektivního chloru\) na materiál absorbující vodu \(nebo přikryjte suchým ručníkem, který bude vystaven intenzivní dezinfekci\). Nechte působit alespoň 30 minut, než opatrně odstraníte rozlitý biologický materiál.
 
-Po odstranění biologického znečištění vydezinfikujte povrchy znečištěného prostředí a předmětů.
+   Pacientova stolice, sekrety, zvratky apod. by měly být sbírány do speciální nádoby a dezinfikovány po dobu 2 hodin dezinfekcí na bázi chloru \(s obsahem 20000 mg/l efektivního chloru\) v poměru biologického materiálu k dezinfekci 1:2.
 
-Nádoby na schraňování biologického materiálu je třeba ponořit do dezinfekce na bázi chloru \(s obsahem 5000 mg/l efektivního chloru\) po dobu 30 minut a následně očistit.
+   Po odstranění biologického znečištění vydezinfikujte povrchy znečištěného prostředí a předmětů.
 
-Sesbíraný biologický materiál musí být likvidován jako zdravotnický infekční odpad.
+   Nádoby na schraňování biologického materiálu je třeba ponořit do dezinfekce na bázi chloru \(s obsahem 5000 mg/l efektivního chloru\) po dobu 30 minut a následně očistit.
 
-Použité vybavení by mělo být umístěno do dvouvrstvých pytlů na zdravotnický infekční odpad a zlikvidován jako zdravotnický infekční odpad.
+   Sesbíraný biologický materiál musí být likvidován jako zdravotnický infekční odpad.
+
+   Použité vybavení by mělo být umístěno do dvouvrstvých pytlů na zdravotnický infekční odpad a zlikvidován jako zdravotnický infekční odpad.
 
 ### Dezinfekce opakovaně používaných osobních ochranných pracovních prostředků v rámci COVID-19
 
@@ -326,34 +333,24 @@ Použité vybavení by mělo být umístěno do dvouvrstvých pytlů na zdravotn
 
 ![](../img/image21.png)
 
-Upozornění: Postup dezinfekce ochranného krytu je použitelný jen pro kryty na opakované použití \(nikoliv pro jednorázové kryty\)
+**Upozornění:** Postup dezinfekce ochranného krytu je použitelný jen pro kryty na opakované použití \(nikoliv pro jednorázové kryty\)
 
 #### Čištění a dezinfekce pro endoskopy trávicího traktu a bronchofibroskopy
 
 1. Ponoř endoskop a ventily na opakované použití v 0,23% kyselině peroxyoctové \(ověř koncentraci dezinfekčního roztoku před použitím, aby ses ujistil o jeho účinnosti\);
-
 2. Připoj perfuzní hadici do každé kanálu endoskopu, vstříkni 50 ml injekční stříkačkou 0,23% kyselinu peroxyoctovou dokud není plně naplněna hadice a počkej 5 minut;
-
 3. Odpoj perfuzní hadici a vypláchni každou dutinu a ventil endoskopu jednorázovým speciálním kartáčkem;
-
 4. Umísti ventily do ultrasonického oscilátoru s obsahem enzymů a nech oscilovat.
-
 5. Připoj perfuzní hadici každého kanálu endoskopu. Vstříkni 0,23% kyselinu peroxyoctovou do hadice 50 ml injekční stříkačkou a kontinuálně proplachuj hadici 5 minut. Vstřikuj vzduch na sušení 1 minutu;
-
 5. Vstříkni čistou vodu do hadice 50 ml injekční stříkačkou a kontinuálně proplachuj hadici 3 minuty. Vstřikuj vzduch na sušení 1 minutu;
-
 6. Proveď test těsnosti endoskopu;
-
 7. Vlož do automatické endoskopické dezinfekční myčky. Nastav program s vysokou mírou dezinfikování.
-
 8. Odešli vybavení do centrální sterilizační jednotky ke sterilizaci etylenoxidem.
 
 #### Dekontaminace opakovaně používaných nástrojů a zdravotnických pomůcek
 
 1. Není-li žádné viditelné znečištění, ponoř vybavení do dezinfekčního roztoku na bázi chloru \(s obsahem 1000 mg/l efektivního chloru\) na alespoň 30 minut;
-
 2. Pokud je patrné jakékoliv znečištění, ponoř vybavení do dezinfekčního roztoku na bázi chloru \(s obsahem 5000 mg/l efektivního chloru\) na alespoň 30 minut;
-
 3. Po vysušení zabalte a důkladně utěsněte vybavení a odešlete do centrální sterilizační jednotky k dezinfekci/sterilizaci.
 
 ### Dezinfekční postupy pro infekční prádlo od pravděpodobných nakažených a potvrzených nakažených pacientů
@@ -361,59 +358,43 @@ Upozornění: Postup dezinfekce ochranného krytu je použitelný jen pro kryty 
 #### Infekční prádlo
 
 1. Oblečení, prostěradla, povlečení včetně polštáře použité pacienty;
-
 2. Látkové zástěny rozdělující postele na oddělení;
-
 3. Textilie používané na úklid okolí pacienta.
 
 #### Postup sběru
 
 1. Nejdříve zabalte všechny textilie do jednorázového plastového obalu, který se uzavře stahovací páskou;
-
 2. Poté uzavřený pytel vložíme do dalšího plastového pytle, který se znovu uzavře stahovací páskou;
-
 3. Nakonec zabalený, uzavřený pytel vložíme do látkového pytle na prádlo a uzavřeme stahovací páskou;
-
 4. K pytli přiložíme speciální označení pro infekční materiál a název oddělení, ze kterého pytel pochází a pošleme ho do prádelny.
 
 #### Skladování a praní
 
 1. Infekční prádlo by se mělo oddělit od jiného infekčního prádla \(non-COVID-19\) a prát ve vyhrazené pračce k tomu určené;
-
 2. Perte a dezinfikujte prádlo za použití chlorové dezinfekce na 90 °C alespoň 30 minut.
 
 #### Dezinfekce přepravních prostředků
 
 1. Pro přepravu infekčního prádla by měly být využity speciální přepravní prostředky;
-
 2. Tyto prostředky by měly být po každém převozu infekčního prádla ihned dezinfikovány;
-
 3. Transportní pomůcky by měly být otřeny chlorovým dezinfekčním prostředkem ihned po použití \(s obsahem 1000 mg/l aktivního chloru\). Dezinfekce se nechá působit 30 minut, poté se povrch setře čistou vodou.
 
 ### Postup likvidace infekčního odpadu \(souvisejícího s nákazou COVID-19\)
 
 1. Všechen odpad vytvořený v souvislosti s péčí o pravděpodobně nakažené a potvrzené nakažené pacienty by měl být likvidován jako infekční odpad;
-
 2. Vložte odpad do dvouvrstvého speciálního pytle na infekční odpad, pytel uzavřete pomocí stahovacích pásek a celý ho opláchněte/postříkejte chlorovým dezinfekčním prostředkem \(obsah aktivního chloru 1000 mg/l\);
-
 3. Ostré předměty vložte do nádoby na zdravotnický odpad, nádobu uzavřete a opláchněte/postříkejte chlorovým dezinfekčním prostředkem \(obsah aktivního chloru 1000 mg/l\);
-
 4. Zabalený odpad vložte do nádoby určené k přepravě infekčního odpadu, přiložte speciální označení infekčního materiálu, nádobu uzavřete a přepravte;
-
 5. Odpad má být přepraven předem určenou cestou v určitý čas na místo dočasného skladování infekčního odpadu;
-
 6. Infekční odpad následně odveze a zlikviduje firma specializující se na likvidaci infekčního odpadu.
 
 ### Postup pro přijímání nápravných opatření proti pracovní expozici nákaze COVID-19
 
 ![](../img/image18.png)
 
-\(1 \)Expozice kůže: Kůže je kontaminována velkým množstvím viditelných tělních tekutin, krví, sekrecí nebo stolicí pacienta;
-
+1. Expozice kůže: Kůže je kontaminována velkým množstvím viditelných tělních tekutin, krví, sekrecí nebo stolicí pacienta;
 2. Expozice sliznic: Sliznice, jako oči nebo respirační trakt jsou kontaminovány velkým množstvím viditelných tělních tekutin, krví, sekrecí nebo stolicí pacienta;
-
 3. Poranění ostrým předmětem: Propíchnutí kůže ostrými předměty, které byly kontaminovány velkým množstvím viditelných tělních tekutin, krví, sekrecí nebo stolicí pacienta;
-
 4. Přímá expozice respiračního traktu: Spadnutí ochranných pomůcek, expozice úst nebo nosu v blízkosti \(1 metr\) potvrzeného pacienta, který nemá masku.
 
 ### Chirurgické výkony u pravděpodobně nakažených a potvrzených nakažených pacientů
@@ -421,39 +402,25 @@ Upozornění: Postup dezinfekce ochranného krytu je použitelný jen pro kryty 
 #### Požadavky na operační sály a osobní ochranné pracovní prostředky zaměstnanců
 
 1. Naplánujte operaci na operačním sále s podtlakem. Ověřte teplotu, vlhkost a tlak vzduchu na operačním sále;
-
 2. Připravte všechny nástroje potřebné k operaci a pokud možno použijte jednorázové nástroje a pomůcky;
-
 3. Chirurgický personál \(včetně chirurgů, anesteziologů, instrumentářek a vrchních sester\), který vstupuje na operační sál, by měl použít osobní ochranné pracovní prostředky před vstupem na sál: Dvojitá pokrývka hlavy, respirátor \(N95\), ochranné brýle, ochranný oblek, návleky na obuv, latexové rukavice a celoobličejovou masku;
-
 4. Chirurgové a instrumentářky by kromě výše zmíněných ochranných pomůcek měli nosit jednorázové sterilní oblečení a sterilní rukavice;
-
 5. Pacient by měl mít nasazenu jednorázovou pokrývku hlavy a lékařskou ústenku/chirurgickou roušku podle zdravotního stavu;
-
 6. Určená sestra přináší na operační sál s podtlakem nástroje z prostoru umývárny;
-
 7. Během operace jsou umývárna a operační sál pevně uzavřeny; a operace může být provedena pouze pokud je na operačním sále podtlak;
-
 8. Vstup na operační sál je zakázán pro ostatní zdravotnický personál, který není nezbytně nutný k výkonu.
 
 #### Postupy pro závěrečnou dezinfekci
 
 1. Zdravotnický odpad bude likvidován jako infekční odpad spojen s nákazou COVID-19;
-
 2. Nástroje pro opakované použití budou dezinfikovány podle pravidel k dezinfekci znovu použitelných nástrojů spojených s virem SARS-CoV-2;
-
 3. Zdravotnické prádlo bude dezinfikováno a likvidováno podle pravidel k dezinfekci infekčního prádla při infekci virem SARS-CoV-2;
-
-4. Povrchy předmětů \(nástroje a zařízení včetně operačního stolu, stolu na nástroje, postele atd.\);
-
-1. Viditelné stopy krve/tělesných tekutin znečišťující povrchy musí být před dezinfekcí odstraněny \(podle postupu pro likvidaci krve/tělesných tekutin\).
-2. Všechny povrchy se otírají chlorovým dezinfekčním prostředkem \(obsah aktivního chloru 1000 mg/l\) a počkat 30 minut k plnému účinku dezinfekce.
-
+4. Povrchy předmětů \(nástroje a zařízení včetně operačního stolu, stolu na nástroje, postele atd.\):
+   1. Viditelné stopy krve/tělesných tekutin znečišťující povrchy musí být před dezinfekcí odstraněny \(podle postupu pro likvidaci krve/tělesných tekutin\).
+   2. Všechny povrchy se otírají chlorovým dezinfekčním prostředkem \(obsah aktivního chloru 1000 mg/l\) a počkat 30 minut k plnému účinku dezinfekce.
 5. Podlahy a stěny:
-
-1. Viditelné stopy krve/tělesných tekutin znečišťující povrchy musí být před dezinfekcí odstraněny \(podle postupu pro likvidaci krve/tělesných tekutin\).
-2. Všechny povrchy se otírají chlorovým dezinfekčním prostředkem \(obsah aktivního chloru 1000 mg/l\) a počkat 30 minut k plnému účinku dezinfekce.
-
+   1. Viditelné stopy krve/tělesných tekutin znečišťující povrchy musí být před dezinfekcí odstraněny \(podle postupu pro likvidaci krve/tělesných tekutin\).
+   2. Všechny povrchy se otírají chlorovým dezinfekčním prostředkem \(obsah aktivního chloru 1000 mg/l\) a počkat 30 minut k plnému účinku dezinfekce.
 6. Vzduch v místnosti: Vypněte vzduchotechniku. Dezinfikujte vzduch pomocí UV lampy alespoň 1 hodinu. Zapněte vzduchotechniku k automatickému vyčištění vzduchu alespoň na 2 hodiny.
 
 ### Postupy k zacházení s těly zemřelých pravděpodobně nakažených nebo potvrzených pacientů
@@ -515,7 +482,7 @@ V důsledku rozšíření epidemie COVID-19 nemocnice FAHZU a Alibaba společně
 
 #### Pokyny k Mezinárodní odborné zdravotnické komunikační platformě nemocnice FAHZU
 
-1. Na webových stránkách www.dingtalk.com/en si stáhněte aplikaci DingTalk.
+1. Na webových stránkách [www.dingtalk.com/en](www.dingtalk.com/en) si stáhněte aplikaci DingTalk.
 2. Uveďte osobní údaje \(jméno a telefonní číslo\) pro registraci a přihlašte se.
 3. Požádejte o vstup do Mezinárodní odborné zdravotnické komunikační platformy nemocnice FAHZU: _Metoda 1:_ Vstupte pomocí týmového kódu. Vyberte \"Contacts\" &gt; \"Join Team\" &gt; \"Join by Team Code\" \(\"Kontakty\" &gt; \"Vstupte do týmu\" &gt; \"Vstupte pomocí týmového kódu\"\), poté vložte ID: \'YQDKl 170\'. _Metoda 2:_ Vstupte naskenováním QR kódu Mezinárodní odborné zdravotnické komunikační platformy nemocnice FAHZU.
 4. Pro vstup vyplňte své údaje. Uveďte své jméno, zemi a zdravotnickou instituci.

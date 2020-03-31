@@ -600,7 +600,7 @@ Speciální populace zahrnuje těhotné ženy, pacienty s renální insuficienc�
 
    Pro imipenem platí: maximální denní dávka by neměla přesáhnout 2 g.
 
-![](../.gitbook/assets/image6.png)
+![](../.gitbook/assets/image6%20%281%29.png)
 
 ## Psychologické intervence u pacientů s infekcí Covid-19
 

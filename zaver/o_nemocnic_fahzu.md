@@ -10,3 +10,6 @@ FAHZU se široce zapojila do mezikontinentální výměny a spolupráce. Naváza
 
 V souladu se svými hlavními hodnotami -- hledání pravdy a rozvážnost -- nabízí FAHZU kvalitní zdravotní péči všem potřebným.
 
+![](../img/image8.png)
+
+![](../img/image7.png)

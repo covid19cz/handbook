@@ -28,7 +28,7 @@ Preferovanou metodou diagnostikování infekce SARS-CoV-2 je testování příto
 
 ORF1a/b gen je pozitivní, a/nebo N gen/E gen jsou pozitivní.
 
-Kombinovaná detekce nukleových kyselin z několika typů vzorků může zlepšit diagnostickou přesnost. Mezi pacienty s potvrzenou pozitivní nukleovou kyselinou v dýchacím traktu byla u 30--40 % z nich virová nukleová kyselina zjištěna v krvi a u 50--60 % ve stolici. Míra pozitivity nukleové kyseliny testované v moči je ale celkem nízká. Kombinované testování vzorků z dýchacího traktu, stolice, krve a dalších biologických materiálů pomáhá zlepšovat diagnostickou senzitivitu u suspektních případů, monitorovat účinnost léčby a management izolačních opatření po propuštění.
+Kombinovaná detekce nukleových kyselin z několika typů vzorků může zlepšit diagnostickou přesnost. Mezi pacienty s potvrzenou pozitivní nukleovou kyselinou v dýchacím traktu byla u 30-40 % z nich virová nukleová kyselina zjištěna v krvi a u 50-60 % ve stolici. Míra pozitivity nukleové kyseliny testované v moči je ale celkem nízká. Kombinované testování vzorků z dýchacího traktu, stolice, krve a dalších biologických materiálů pomáhá zlepšovat diagnostickou senzitivitu u suspektních případů, monitorovat účinnost léčby a management izolačních opatření po propuštění.
 
 ### Izolace a kultivace viru
 
@@ -85,7 +85,7 @@ Flexibilní bronchoskopie je u pacientů s COVID-19 na plicní ventilaci všestr
 
 ![](../img/image5.png)
 
-**Obrázek 7: Projevy COVID-19 při bronchoskopickém vyšetření: otok bronchiální sliznice a blokáda lumen bronchu, velké množství sekretu v bronchiálních cestách**
+**Obrázek 7:** Projevy COVID-19 při bronchoskopickém vyšetření: otok bronchiální sliznice a blokáda lumen bronchu, velké množství sekretu v bronchiálních cestách
 
 ## Diagnostika a klinická klasifikace COVID-19
 
@@ -105,15 +105,15 @@ Diagnostická kritéria jsou v souladu s Protokoly pro diagnostiku a léčbu COV
 
 3. Závažný průběh
 
-   Dospělý pacient, který splňuje jakákoli z následujících kritérií - dechová frekvence větší nebo rovna 30 dechům/minutu; saturace kyslíkem menší nebo rovna 93% při měření v klidu; poměr parciálního arteriálního tlaku kyslíku \(PaO2\) ku frakci vdechovaného kyslíku \(FiO2\) menší nebo roven 300 mmHg. Pacienti s více než 50% progresí postižení plic během 24 až 48 hodin dle zobrazovacích metod by měli být léčeni jako pacienti se závažným průběhem onemocnění.
+   Dospělý pacient, který splňuje jakákoli z následujících kritérií - dechová frekvence větší nebo rovna 30 dechům/minutu; saturace kyslíkem menší nebo rovna 93% při měření v klidu; poměr parciálního arteriálního tlaku kyslíku \(PaO<sub>2</sub>\) ku frakci vdechovaného kyslíku \(FiO<sub>2</sub>\) menší nebo roven 300 mmHg. Pacienti s více než 50% progresí postižení plic během 24 až 48 hodin dle zobrazovacích metod by měli být léčeni jako pacienti se závažným průběhem onemocnění.
 
 4. Kriticky závažný průběh
 
    Při splnění jakýchkoli z následujících kritérií: přítomnost respiračního selhání s nutností mechanické ventilace; přítomnost šokového stavu; jakékoli jiné orgánové selhání s nutností monitorace a léčby na jednotce intenzivní péče. Pacienti s kriticky závažným průběhem onemocnění jsou dále rozděleni do 3 fází - časné, střední a pozdní- dle oxygenačního indexu a plicní poddajnosti \(„compliance"\)
 
-   * Časná fáze: oxygenační index 150 - 100 mmHg, compliance větší nebo rovna 30 mL/cmH2O; bez orgánového selhání kromě selhání respiračního. Takový pacient má velkou šanci na uzdravení při nasazení aktivní antivirové, anti - cytokinové a podpůrné terapie.
-   * Střední fáze: oxygenační index 100 - 60 mmHg, compliance 30 - 15 mL/cmH2O; může být komplikována lehkým či středně těžkým selháním ostatních orgánových systémů
-   * Pozdní fáze: oxygenační index pod 60 mmHg, compliance pod 15 mL/cmH2O; difuzní konsolidace v obou plicích, vyžadující využití ECMO; nebo selhání jiných ostatních orgánových systémů. Mortalita je vysoká.
+   * Časná fáze: oxygenační index 150 - 100 mmHg, compliance větší nebo rovna 30 mL/cmH<sub>2</sub>O; bez orgánového selhání kromě selhání respiračního. Takový pacient má velkou šanci na uzdravení při nasazení aktivní antivirové, anti - cytokinové a podpůrné terapie.
+   * Střední fáze: oxygenační index 100 - 60 mmHg, compliance 30 - 15 mL/cmH<sub>2</sub>O; může být komplikována lehkým či středně těžkým selháním ostatních orgánových systémů
+   * Pozdní fáze: oxygenační index pod 60 mmHg, compliance pod 15 mL/cmH<sub>2</sub>O; difuzní konsolidace v obou plicích, vyžadující využití ECMO; nebo selhání jiných ostatních orgánových systémů. Mortalita je vysoká.
 
 ## Terapie antivirotiky vedoucí ke včasné eliminaci patogenu
 
@@ -121,17 +121,17 @@ Včasná antivirová terapie může snížit incidenci těžkých a kritických 
 
 ### Antivirová léčba
 
-V nemocnici FAHZU byl v rámci základní terapie podáván lopinavir/ritonavir\* \(2 tbl. p.o. á 12h\) v kombinaci s arbidolem\*\* \(200 mg p.o. á 12h\). U 49 pacientů léčených v naší nemocnici bylo touto terapií dosaženo vymizení virové nukleové kyseliny průměrně po 12 dnech \(95% CI: 8-15 dní\). Negativita testu nukleové kyseliny \(opakovaného s odstupem alespoň 24 h\) byla potvrzena průměrně po 13,5 dnech \(95% CI: 9,5 - 17,5 dne\).
+V nemocnici FAHZU byl v rámci základní terapie podáván lopinavir/ritonavir[1](^1) \(2 tbl. p.o. á 12h\) v kombinaci s arbidolem[2](^2) (200 mg p.o. á 12h\). U 49 pacientů léčených v naší nemocnici bylo touto terapií dosaženo vymizení virové nukleové kyseliny průměrně po 12 dnech \(95% CI: 8-15 dní\). Negativita testu nukleové kyseliny \(opakovaného s odstupem alespoň 24 h\) byla potvrzena průměrně po 13,5 dnech \(95% CI: 9,5 - 17,5 dne\).
 
-Při neúspěchu této terapie je možné u osob ve věku 18-65 let použít chlorochin-fosfát \(hmotnost &gt;50 kg: 500 mg 2x denně, hmotnost \&lt;50 kg: první dva dny 500 mg 2x denně a následujících pět dní 500 mg 1x denně\).
+Při neúspěchu této terapie je možné u osob ve věku 18-65 let použít chlorochin-fosfát \(hmotnost &gt;50 kg: 500 mg 2x denně, hmotnost &lt;50 kg: první dva dny 500 mg 2x denně a následujících pět dní 500 mg 1x denně\).
 
 V Protocols for Diagnosis and Treatment of COVID-19 je doporučována nebulizace interferonu. My tuto terapii doporučujeme aplikovat pouze v prostředí s negativním tlakem z důvodu rizika kontaminace okolního prostředí aerosolem.
 
 Podle zkušeností s pacienty s AIDS má darunavir/cobicistat určitý stupeň antivirové aktivity in vitro a nežádoucí účinky jsou relativně mírné. Pro pacienty, kteří netolerují lopinavir/ritonavir, je možné po zvážení etického hlediska podávat právě darunavir/cobicistat \(1 tbl 1x denně\), nebo favipiravir \(iniciální dávka 1600 mg, dále 600 mg 3x denně\). Souběžné používání tří a více léčivých přípravků se nedoporučuje.
 
-\* P. Michálek -- recentní studie Cao B et al. A trial of lopinavir-ritonavir in adults hospitalized with severe Covid-19. N Eng J Med 2020; doi:10.1056/NEJMoa2001282 -- neprokázala žádný benefit tohoto antivirotika proti standardu léčby.
+[^1]: P. Michálek - recentní studie Cao B et al. A trial of lopinavir-ritonavir in adults hospitalized with severe Covid-19. N Eng J Med 2020; doi:10.1056/NEJMoa2001282 - neprokázala žádný benefit tohoto antivirotika proti standardu léčby.
 
-\*\* Tento lék je registrován pouze v Rusku a v Číně, i když podle studií z Číny se zdá, že by mohl zmírnit u některých pacientů průběh Covid-19 infekce.
+[^2]: Tento lék je registrován pouze v Rusku a v Číně, i když podle studií z Číny se zdá, že by mohl zmírnit u některých pacientů průběh Covid-19 infekce.
 
 ### Průběh léčby
 
@@ -219,43 +219,44 @@ Hypoxémie může být přítomna při zhoršení dechové funkce způsobené CO
 
 #### Oxygenoterapie
 
-1. Kontinuální monitorace saturace krve kyslíkem během oxygenoterapie \(SpO~2~\)
+1. Kontinuální monitorace saturace krve kyslíkem během oxygenoterapie \(SpO<sub>2</sub>\)
 
-Někteří pacienti nemusí nevyhnutelně mít zhoršené okysličení tkání již na začátku infekce, v průběhu nemoci mohou ale rychle vyvinout zhoršení oxygenace. Proto je doporučena kontinuální monitorace saturace kyslíkem, a to jak před, tak i během oxygenoterapie.
+   Někteří pacienti nemusí nevyhnutelně mít zhoršené okysličení tkání již na začátku infekce, v průběhu nemoci mohou ale rychle vyvinout zhoršení oxygenace. Proto je doporučena kontinuální monitorace saturace kyslíkem, a to jak před, tak i během oxygenoterapie.
 
 2. Oxygenoterapie co nejdříve
 
-Oxygenoterapie není nutná u pacientů se saturací kyslíkem \(SpO2\) vyšší než 93 % nebo pro pacienty bez výrazných symptomů respirační tísně bez oxygenoterapie. Oxygenoterapie je ale silně doporučena u pacientů s výraznými symptomy respirační tísně. Ovšem i někteří pacienti s PaO2/FiO2 \&lt; 300 neměli žádné výrazné příznaky dechové tísně.
+   Oxygenoterapie není nutná u pacientů se saturací kyslíkem \(SpO<sub>2</sub>\) vyšší než 93 % nebo pro pacienty bez výrazných symptomů respirační tísně bez oxygenoterapie. Oxygenoterapie je ale silně doporučena u pacientů s výraznými symptomy respirační tísně. Ovšem i někteří pacienti s PaO<sub>2</sub>/FiO<sub>2</sub> &lt; 300 neměli žádné výrazné příznaky dechové tísně.
 
 3. Cíle oxygenoterapie
 
-Terapeutický cíl oxygenoterapie je udržení saturace kyslíkem v arteriální krvi \(SaO~2~ resp.SpO~2~\) v rozmezí 93 - 96 % u pacientů bez předcházejících chronických plicních onemocnění a v rozmezí 88 - 92 % u pacientů s chronickou respirační insuficiencí typu II \(globální, hypoxemicko-hyperkapnická\). Obzvláště u pacientů, u kterých klesá během běžných aktivit SpO~2~ pod 85 % by měla být zvýšená koncentrace kyslíku na 92 - 95 %.
+   Terapeutický cíl oxygenoterapie je udržení saturace kyslíkem v arteriální krvi \(SaO<sub>2</sub> resp.SpO<sub>2</sub>\) v rozmezí 93 - 96 % u pacientů bez předcházejících chronických plicních onemocnění a v rozmezí 88 - 92 % u pacientů s chronickou respirační insuficiencí typu II \(globální, hypoxemicko-hyperkapnická\). Obzvláště u pacientů, u kterých klesá během běžných aktivit SpO<sub>2</sub> pod 85 % by měla být zvýšená koncentrace kyslíku na 92 - 95 %.
 
 4. Kontrola oxygenoterapie
 
-PaO~2~/FiO~2~ je senzitivní a přesný indikátor oxygenačních funkcí. Stabilita a možnost monitorace FiO~2~ jsou velmi důležité pro pacienty s progresí nemoci, při poklesu PaO~2~/FiO~2~ pod 300 mmHg. Kontrolovaná oxygenoterapie je preferovaná metoda léčby.
+   PaO<sub>2</sub>/FiO<sub>2</sub> je senzitivní a přesný indikátor oxygenačních funkcí. Stabilita a možnost monitorace FiO<sub>2</sub> jsou velmi důležité pro pacienty s progresí nemoci, při poklesu PaO<sub>2</sub>/FiO<sub>2</sub> pod 300 mmHg. Kontrolovaná oxygenoterapie je preferovaná metoda léčby.
 
-Vysokoprůtoková nosní oxygenoterapie \(High Flow Nasal Cannula \(HFNC\)\) je doporučenou metodou u pacientů s následujícími parametry: SpO2 \&lt; 93 %; PaO~2~/FiO~2~ \&lt; 300 mmHg \(1 mmHg = 0.133 kPa\); dechovou frekvencí &gt; 25/min v klidu na lůžku nebo výraznou progresí postižení plic na rentgenovém snímku. Pacienti by během HFNC terapie měli na sobě mít chirurgickou roušku. Průtok při HFNC oxygenoterapii by měl začínat na nízkých hodnotách a postupně se zvyšovat až na 40 - 60 l/min, kdy PaO~2~/FiO~2~ je v rozmezí 200 - 300 mmHg tak, aby pacienti neměli žádnou výraznou dušnost nebo tlak na hrudi. Iniciální průtok 60 l/min by měl být použit u pacientů se zjevnými projevy dechové tísně.
+   Vysokoprůtoková nosní oxygenoterapie \(High Flow Nasal Cannula \(HFNC\)\) je doporučenou metodou u pacientů s následujícími parametry: SpO<sub>2</sub> &lt; 93 %; PaO<sub>2</sub>/FiO<sub>2</sub> &lt; 300 mmHg \(1 mmHg = 0.133 kPa\); dechovou frekvencí &gt; 25/min v klidu na lůžku nebo výraznou progresí postižení plic na rentgenovém snímku. Pacienti by během HFNC terapie měli na sobě mít chirurgickou roušku. Průtok při HFNC oxygenoterapii by měl začínat na nízkých hodnotách a postupně se zvyšovat až na 40 - 60 l/min, kdy PaO<sub>2</sub>/FiO<sub>2</sub> je v rozmezí 200 - 300 mmHg tak, aby pacienti neměli žádnou výraznou dušnost nebo tlak na hrudi. Iniciální průtok 60 l/min by měl být použit u pacientů se zjevnými projevy dechové tísně.
 
-Endotracheální intubace pacientů v stabilním stavu ale s problémovým stavem oxygenace \(Horowitzův infex \&lt; 100 mmHg\) je závislá na progresi nemoci, systémovém stavu a komplikacích, které se u pacienta rozvinou. Proto je před rozhodnutím nutné detailní posouzení klinického stavu pacienta. Endotracheální intubace by měla být provedena co nejdříve u pacientů s PaO2/FiO2 \&lt; 150 mmHg, se zhoršujícími se příznaky respirační tísně nebo mnohočetnou orgánovou dysfunkcí, ideálně do 1 až 2 hodin po vysokoprůtokové \(60 l/min\) a vysokokoncentrované \(&gt;60 %\) HFNC oxygenoterapii.
+   Endotracheální intubace pacientů v stabilním stavu ale s problémovým stavem oxygenace \(Horowitzův infex &lt; 100 mmHg\) je závislá na progresi nemoci, systémovém stavu a komplikacích, které se u pacienta rozvinou. Proto je před rozhodnutím nutné detailní posouzení klinického stavu pacienta. Endotracheální intubace by měla být provedena co nejdříve u pacientů s PaO<sub>2</sub>/FiO<sub>2</sub> &lt; 150 mmHg, se zhoršujícími se příznaky respirační tísně nebo mnohočetnou orgánovou dysfunkcí, ideálně do 1 až 2 hodin po vysokoprůtokové \(60 l/min\) a vysokokoncentrované \(&gt;60 %\) HFNC oxygenoterapii.
 
-Pro starší pacienty \(&gt; 60 let\), s více komomorbiditami nebo PaO2/FiO2 méně než 200 je nutná hospitalizace na JIP.
+   Pro starší pacienty \(&gt; 60 let\), s více komomorbiditami nebo PaO<sub>2</sub>/FiO<sub>2</sub> méně než 200 je nutná hospitalizace na JIP.
 
 #### Mechanická ventilace
 
 1. Neinvazivní ventilace \(NIV\)
 
-   Využití NIV není jednoznačně doporučeno u pacientů s COVID-19 u kterých není HFNC terapie dostačující. Někteří z pacientů ve vážném stavu progredují rychle do ARDS. Vysoké tlaky ventilace mohou vést k nafouknutí žaludku a k intoleranci, která vede k aspiraci a zhoršuje poškození plic. Krátkodobé \(méně než 2 hodiny\) použití NIV může být za monitorace pacienta opodstatněné, pokud pacient zároveň trpí na akutní levostranné srdeční selhání, CHOPN nebo je imunosuprimovaný. Intubace by měla být provedena co nejdříve pokud není pozorováno zlepšení symptomů respirační tísně nebo PaO~2~/FiO~2~.
+   Využití NIV není jednoznačně doporučeno u pacientů s COVID-19 u kterých není HFNC terapie dostačující. Někteří z pacientů ve vážném stavu progredují rychle do ARDS. Vysoké tlaky ventilace mohou vést k nafouknutí žaludku a k intoleranci, která vede k aspiraci a zhoršuje poškození plic. Krátkodobé \(méně než 2 hodiny\) použití NIV může být za monitorace pacienta opodstatněné, pokud pacient zároveň trpí na akutní levostranné srdeční selhání, CHOPN nebo je imunosuprimovaný. Intubace by měla být provedena co nejdříve pokud není pozorováno zlepšení symptomů respirační tísně nebo PaO<sub>2</sub>/FiO<sub>2</sub>.
 
    Je doporučena NIV s dvojitým okruhem. Filtr proti virům by měl být nainstalován mezi masku a výdechový ventil, pokud je použita NIV s jednou trubicí. Pro snížení rizika úniku vzduchu a s ním i šíření viru by měly být použity vhodné masky.
 
 2. Invazivní mechanická ventilace
+   
    1. Principy invazivní mechanické ventilace u kriticky nemocných pacientů
 
       U terapie pacientů s COVID-19 je důležité udržovat rovnováhu mezi pacientovou potřebou ventilace a kyslíku a rizikem postižení plic v souvislosti s mechanickou invazivní ventilací.
 
       * Pevně stanovte dechový objem \(tidal volume\) na 4 - 8 ml/kg. Obecně, čím menší je poddajnost \(compliance\) plic, tím menší by měl být dechový objem.
-      * Udržujte „plateau" tlak \&lt; 30 cmH2O \(1 cmH2O = 0,098 kPa\) a hodnotu ΔP \(„driving pressure"\) \&lt; 15 cmH2O.
+      * Udržujte „plateau" tlak &lt; 30 cmH<sub>2</sub>O \(1 cmH<sub>2</sub>O = 0,098 kPa\) a hodnotu ΔP \(„driving pressure"\) &lt; 15 cmH<sub>2</sub>O.
       * Nastavte PEEP dle protokolu pro ARDS
       * Dechová frekvence: 18 - 25 / min. Mírná hyperkapnie je povolena.
       * Zvyšte sedaci, analgézii nebo svalovou relaxaci pokud je dechový objem, „plateau" pressure nebo „driving" pressure příliš vysoký.
@@ -265,9 +266,10 @@ Pro starší pacienty \(&gt; 60 let\), s více komomorbiditami nebo PaO2/FiO2 m�
    2. Recruitment plic
 
       Recruitment plic zlepšuje heterogenní distribuci plynů u pacientů s ARDS. Může ovšem způsobit závažné respirační a oběhové komplikace, a proto nejsou manévry pro recruitment plic rutinně doporučovány. Zhodnocení roztažnosti plic by mělo být provedeno před použitím těchto manévrů.
+
 3. Pronační ventilační poloha
 
-   Nejvíc kritičtí pacienti s COVID-19 odpovídají dobře na uvedení do pronační polohy \(otočení ventilovaného pacienta na břicho\), což se projeví rychlým zlepšením okysličení a plicní mechaniky. Pronační poloha je doporučená jako rutinní metoda u pacientů s Horowitzovým indexem \&lt; 150 mmHg nebo u pacientů se zjevnou manifestací na zobrazovacích metodách a bez kontraindikací. Časový rámec pro pronační ventilaci je víc než 16 hodin. Pronovat pacienty je vhodné i při vzestupu PaO~2~/FiO~2~ nad 150 mmHg v supinnní poloze po dobu &gt; 4 hodiny.
+   Nejvíc kritičtí pacienti s COVID-19 odpovídají dobře na uvedení do pronační polohy \(otočení ventilovaného pacienta na břicho\), což se projeví rychlým zlepšením okysličení a plicní mechaniky. Pronační poloha je doporučená jako rutinní metoda u pacientů s Horowitzovým indexem &lt; 150 mmHg nebo u pacientů se zjevnou manifestací na zobrazovacích metodách a bez kontraindikací. Časový rámec pro pronační ventilaci je víc než 16 hodin. Pronovat pacienty je vhodné i při vzestupu PaO<sub>2</sub>/FiO<sub>2</sub> nad 150 mmHg v supinnní poloze po dobu &gt; 4 hodiny.
 
    Pronační ventilace při vědomí může být vyzkoušena u pacientů, kteří nebyli intubováni nebo nejeví žádné zjevné známky dechové tísně, ale mají problémy s oxygenací nebo mají rentgenologicky potvrzené konsolidace v oblastech plic závislých na gravitaci. Je doporučeno udržovat pronační polohu pokaždé na alespoň 4 hodiny, a to i několikrát za den, v závislosti na její účinnosti a toleranci pacientem.
 
@@ -282,25 +284,48 @@ Pro starší pacienty \(&gt; 60 let\), s více komomorbiditami nebo PaO2/FiO2 m�
    Příliš vysoké zatížení tekutinami zhoršuje hypoxémii u pacientů s COVID-19. Pro snížení plicní exsudace a zlepšení oxygenace je důležitá pečlivá kontrola bilance tekutin.
 
 6. Strategie pro prevenci ventilátorových pneumonií \(VAP: Ventilator-Associated Pneumonia\)
+   
    * vyberte vhodný typ endotracheálního tubusu
    * používejte endotracheální tubus se subglotickým sáním \(aspirujte s 20 ml stříkačkou každé 2 hodiny\)
    * umístěte endotracheální tubus do správné polohy a správné hloubky, řádně ho zafixujte a zabraňte jeho vytažení
-   * udržujte tlak v manžetě na --25-30 mmH2O \(1 cmH2O = 0,098 kPa\) a monitorujte ho každé 4 hodiny
+   * udržujte tlak v manžetě na --25-30 mmH<sub>2</sub>O \(1 cmH<sub>2</sub>O = 0,098 kPa\) a monitorujte ho každé 4 hodiny
    * monitorujte tlak v těsnící manžetě, odstraňujte kondenzát z částí okruhu \(vrapované hadice\), kondenzát vylévejte do uzavřených, předem připravených kontejnerů obsahujících chloridový dezinfekční roztok
    * je nutná pravidelná toaleta ústní a nosní dutiny
 7. Vysazování umělé plicní ventilace
 
-   Před plánovaným probuzením pacienta postupně snižujte dávku sedace až do jejího úplného vysazení, pokud je PaO~2~/FiO~2~ větší než 150 mmHg. Odstranění endotracheální rourky by mělo být provedeno co nejdříve je to možné \(po splnění extubačních kritérií\). Pro dechovou podporu po extubaci je možné využít HNFC nebo NIV.
+   Před plánovaným probuzením pacienta postupně snižujte dávku sedace až do jejího úplného vysazení, pokud je PaO<sub>2</sub>/FiO<sub>2</sub> větší než 150 mmHg. Odstranění endotracheální rourky by mělo být provedeno co nejdříve je to možné \(po splnění extubačních kritérií\). Pro dechovou podporu po extubaci je možné využít HNFC nebo NIV.
 
 ## Racionální používání antibiotik k prevenci sekundární infekce
 
-COVID-19 je virové onemocnění, proto není doporučeno podávat antibiotika k prevenci bakteriální infekce u pacientů s mírným průběhem; ta je pak doporučena u těžkých průběhů onemocnění na základě klinického stavu pacienta. Antibiotika mohou být zvažována u pacientů s následujícími komorbiditami: rozsáhlé léze plic; nadměrně zvýšená bronchiální sekrece; chronické onemocnění dýchacích cest s anamnézou předchozí kolonizace dolních cest dýchacích patogenem; užívání glukokortikoidů s dávkou &gt;než odpovídá 20 mg Prednisonu denně . Doporučenými jsou chinolony, druhá a třetí generace cefalosporinů, betalaktamy . Antibiotika mají být užívána preventivně u pacientů s kriticky těžkým průběhem, zejména s nutností invazivní mechanické ventilace. Antibiotika jako karbapenemy, betalaktamy v kombinacích, linezolid a vankomycin mohou být použita u kriticky nemocných pacientů v závislosti na individuálních rizikových faktorech. Symptomy pacienta, vitální známky a laboratorní hodnoty jako krevní obraz a diferenciál, CRP \(C-reaktivní protein\) a prokalcitonin by měly být důkladně monitorovány během léčby. Když dojde ke změně stavu pacienta, je nutné důkladně klinicky situaci uvážit. Pokud nelze vyloučit sekundární infekci, je nutné odebrat vzorky pro rychlou detekci patogenu, stěry nos, krk, sputum u intubovaných, vše odeslat na kultivaci, event. k přímé detekci pomocí PCR \(Polymerase Chain Reaction\) , u specifických patogenů na sérologii. detekci protilátek či antigenů. Empiricky lze nasadit antibiotika u následujících stavů: 1. větší vykašlávání, tmavší barva sputa, zejména žluté sputum s hnisem; 2. nárůst tělesné teploty nezpůsobený exacerbací původního onemocnění; 3. významný nárůst bílých krvinek \(leukocytů\) a/nebo neutrofilů; 4. Elevace prokalcitoninu ≥ 0,5 ng/ml; 5. zhoršení oxygenačního indexu nebo poruchy cirkulace nezpůsobené virovou infekcí; a další stavy pravděpodobně způsobené bakteriální infekcí.
+COVID-19 je virové onemocnění, proto není doporučeno podávat antibiotika k prevenci bakteriální infekce u pacientů s mírným průběhem; ta je pak doporučena u těžkých průběhů onemocnění na základě klinického stavu pacienta. Antibiotika mohou být zvažována u pacientů s následujícími komorbiditami: rozsáhlé léze plic; nadměrně zvýšená bronchiální sekrece; chronické onemocnění dýchacích cest s anamnézou předchozí kolonizace dolních cest dýchacích patogenem; užívání glukokortikoidů s dávkou &gt; než odpovídá 20 mg Prednisonu denně.
+
+Doporučenými jsou chinolony, druhá a třetí generace cefalosporinů, betalaktamy. Antibiotika mají být užívána preventivně u pacientů s kriticky těžkým průběhem, zejména s nutností invazivní mechanické ventilace. Antibiotika jako karbapenemy, betalaktamy v kombinacích, linezolid a vankomycin mohou být použita u kriticky nemocných pacientů v závislosti na individuálních rizikových faktorech. Symptomy pacienta, vitální známky a laboratorní hodnoty jako krevní obraz a diferenciál, CRP \(C-reaktivní protein\) a prokalcitonin by měly být důkladně monitorovány během léčby. Když dojde ke změně stavu pacienta, je nutné důkladně klinicky situaci uvážit. Pokud nelze vyloučit sekundární infekci, je nutné odebrat vzorky pro rychlou detekci patogenu, stěry nos, krk, sputum u intubovaných, vše odeslat na kultivaci, event. k přímé detekci pomocí PCR \(Polymerase Chain Reaction\), u specifických patogenů na sérologii. detekci protilátek či antigenů. 
+
+Empiricky lze nasadit antibiotika u následujících stavů: 
+
+1. větší vykašlávání, tmavší barva sputa, zejména žluté sputum s hnisem; 
+2. nárůst tělesné teploty nezpůsobený exacerbací původního onemocnění; 
+3. významný nárůst bílých krvinek \(leukocytů\) a/nebo neutrofilů; 
+4. Elevace prokalcitoninu ≥ 0,5 ng/ml; 
+5. zhoršení oxygenačního indexu nebo poruchy cirkulace nezpůsobené virovou infekcí; 
+6. a další stavy pravděpodobně způsobené bakteriální infekcí.
 
 Někteří pacienti s COVID-19 jsou v riziku sekundární mykotické infekce. Je to skupina primárně imunosuprimovaných pacientů, pacientů léčených imunosupresivy. Samotná infekce COVID-19 působí sníženou buněčnou imunitu, která je dána samotnou virovou infekcí, dále v léčbě užíváním glukokortikoidů a/nebo širokospektrých antibiotik. U kriticky nemocných pacientů je nutné provádět stěry a odběry respiračních sekretů pro mikrobiologické vyšetření; a provádět častý test na D-glukózu \(G-test\) a galaktomanan \(GM-test\) z krve a bronchoalveolární laváže u suspektních pacientů.
 
-Je nutné zvažovat možnou invazivní kvasinkovou infekci a nutnost nasazení potřebných antimykotik. Flukonazol a echinocandin mohou být použity v následujících stavech: 1. pacient užíval širokospektrá antibiotika 7 a více dní; 2. pacient má parenterální výživu; 3. pacient má invazivní terapii a vstupy; 4. pacient má pozitivní kultivace na kvasinku ve vzorcích odebraných ze dvou či více částí těla; 5. pacientovi významně vzrostly výsledky G-testu.
+Je nutné zvažovat možnou invazivní kvasinkovou infekci a nutnost nasazení potřebných antimykotik. Flukonazol a echinocandin mohou být použity v následujících stavech: 
 
-Také je nutné zvažovat potenciální invazivní plicní aspergilózu. Antimykotická terapie např. vorikonazolem, posaconazolem nebo echinocandinem by měla být vzata v úvahu když: 1. pacient užívá glukokortikoidy 7 a více dní; 2. pacient má agranulocytózu; 3. pacient má CHOPN \(chronickou obstrukční plicní nemoc\) a v mikrobiologii ze vzorku z dýchacích cest je pozitivní nález aspergila; 4. Pacient má signifikantně zvýšený GM-test.
+1. pacient užíval širokospektrá antibiotika 7 a více dní; 
+2. pacient má parenterální výživu; 
+3. pacient má invazivní terapii a vstupy; 
+4. pacient má pozitivní kultivace na kvasinku ve vzorcích odebraných ze dvou či více částí těla; 
+5. pacientovi významně vzrostly výsledky G-testu.
+
+Také je nutné zvažovat potenciální invazivní plicní aspergilózu. Antimykotická terapie např. vorikonazolem, posaconazolem nebo echinocandinem by měla být vzata v úvahu když: 
+
+1. pacient užívá glukokortikoidy 7 a více dní; 
+2. pacient má agranulocytózu; 
+3. pacient má CHOPN \(chronickou obstrukční plicní nemoc\) a v mikrobiologii ze vzorku z dýchacích cest je pozitivní nález aspergila; 
+4. pacient má signifikantně zvýšený GM-test.
 
 ## Rovnováha mezi intestinální mikroflórou a nutriční podporou
 
@@ -310,11 +335,7 @@ Někteří pacienti s nemocí COVID-19 mají gastrointestinální příznaky \(j
 
 1. Mikroekologika mohou snížit bakteriální translokaci a sekundární infekci. Mohou zvýšit počet dominantních střevních bakterií, inhibovat škodlivé střevní bakterie, snížit produkci toxinů a omezit infekci způsobenou dysbiózou střevní mikroflóry.
 
-2. Mikroekologika mohou zlepšit gastrointestinální příznaky pacientů
-
-* redukovat vodu ve stolici, zlepšit vlastnosti stolice a četnost
-
-  defekace a redukovat průjem tím, že inhibují atrofii střevní sliznice.
+2. Mikroekologika mohou zlepšit gastrointestinální příznaky pacientů - redukovat vodu ve stolici, zlepšit vlastnosti stolice a četnost defekace a redukovat průjem tím, že inhibují atrofii střevní sliznice.
 
 3. Nemocnice s příslušnými zdroji může provádět analýzu střevní flóry. Podle výsledků je tedy možné brzy zjistit narušení střevní flóry. Antibiotika lze včas vhodně podávat a předepsat i probiotika. Tím se sníží riziko střevní bakteriální translokace a střevní infekce.
 
@@ -346,21 +367,23 @@ COVID-19 je nová, vysoce infekční nemoc postihující primárně plicní alve
 
 ECMO je indikováno v případě refrakterního respiračního selhání \(refrakterní kritické hypoxémie\), kdy selhaly metody mechanické plicní ventilace \(protektivní IPPV\) a ventilace v pronační poloze\(prone position ventilation\). V následujících situacích je potřeba zvážit napojení na veno-venózní ECMO \(veno-arteriální jen v případě současného kardiogenního šoku\):
 
-1. PaO2/FiO2 \&lt; 80 mmHg \(bez ohledu na hodnotu PEEP\)
+1. PaO<sub>2</sub>/FiO<sub>2</sub> &lt; 80 mmHg \(bez ohledu na hodnotu PEEP\)
 
-2. Plat ≤ 30 mmHg, PaCO2 &gt; 55 mmHg;
+2. Plat ≤ 30 mmHg, PaCO<sub>2</sub> &gt; 55 mmHg;
 
 3. Vznik pneumotoraxu, air leakage &gt; ⅓ dechového objemu;
 
-4. Kardiopulmonální resuscitace , refrakterní srdeční zástavy \(ECPR\).
+4. Kardiopulmonální resuscitace, refrakterní srdeční zástavy \(ECPR\).
 
 #### Nahrazovací ECMO \(replacement ECMO\)
 
-Když pacient není vhodným kandidátem pro dlouhodobou mechanickou plicní ventilaci, např. nedosahuje cílových výsledků, je nutné bezprostředně připojit pacienta na veno-venózní ECMO. To je vhodné zvážit v následujících situacích:1. Snížená plicní poddajnost. I po provedení recruitment manévrů zůstává plicní poddajnost pod úrovní 10 mL/cmH2O;
+Když pacient není vhodným kandidátem pro dlouhodobou mechanickou plicní ventilaci, např. nedosahuje cílových výsledků, je nutné bezprostředně připojit pacienta na veno-venózní ECMO. To je vhodné zvážit v následujících situacích:
+ 
+1. Snížená plicní poddajnost. I po provedení recruitment manévrů zůstává plicní poddajnost pod úrovní 10 mL/cmH<sub>2</sub>O;
 
-2. Perzistentní přítomnost pneumomediastina nebo pneumotoraxu. Parametry nastavení mechanické plicní ventilace není možné redukovat v průběhu 48 h;
+3. Perzistentní přítomnost pneumomediastina nebo pneumotoraxu. Parametry nastavení mechanické plicní ventilace není možné redukovat v průběhu 48 h;
 
-3. PaO2/FiO2 \&lt; 100 mmHg bez možnosti zlepšení za pomoci běžných metod v průběhu 72 h.
+4. PaO<sub>2</sub>/FiO<sub>2</sub> &lt; 100 mmHg bez možnosti zlepšení za pomoci běžných metod v průběhu 72 h.
 
 #### Early Awake ECMO
 
@@ -384,15 +407,15 @@ Protože trvání potřeby podpory ECMO u většiny pacientů s COVID-19 přesah
 
 1. První volbou pro pacienty v respirační insuficienci je V-V mód. V-A mód není z mnoha důvodů první volbou \(vyšší riziko krvácivých komplikací, rozvoj Harlequin syndromu, zvýšení srdečního dotížení\).
 
-2. Pro pacienty v respirační insuficienci komplikovanou srdečním selháním a PaO2/FiO2 \&lt; 100 mmHg, volíme V-A-V mód s průtokem &gt; 6 L/min s udržováním V/A = 0.5/0.5 s další korekcí dle cirkulačních/ventilačních potřeb.
+2. Pro pacienty v respirační insuficienci komplikovanou srdečním selháním a PaO<sub>2</sub>/FiO<sub>2</sub> &lt; 100 mmHg, volíme V-A-V mód s průtokem &gt; 6 L/min s udržováním V/A = 0.5/0.5 s další korekcí dle cirkulačních/ventilačních potřeb.
 
 3. U pacientů bez těžké respirační insuficience, ale se srdečním selháním vyúsťujícím v kardiogenní šok, je nutné zvolit mód V-A ECMO. V těchto případech je nutné zajistit optimální ventilační podporu, dle stavu pacienta, tak aby nedocházelo k rozvoji Harlequin syndromu..
 
 ### Nastavení hodnoty průtoku a cílová dodávka kyslíku
 
-1. Úvodní průtok &gt; 80 % srdečního výdeje s minimalizací recirkulace \&lt; 30 %.
+1. Úvodní průtok &gt; 80 % srdečního výdeje s minimalizací recirkulace &lt; 30 %.
 
-2. SpO2 je nutné udržovat na úrovni&gt; 90 %. FiO2 je upravováno dle potřeby a parametrů probíhající UPV. nebo oxygenoterapie.
+2. SpO<sub>2</sub> je nutné udržovat na úrovni&gt; 90 %. FiO<sub>2</sub> je upravováno dle potřeby a parametrů probíhající UPV. nebo oxygenoterapie.
 
 3. Pro dosažení cílové hodnoty průtoku, je vhodné implantovat přístupovou kanylu většího průsvitu 25-29 Fr , dle UZ měření cévního průměru a návratovou kanylu v rozsahu 18-24 Fr.
 
@@ -400,9 +423,9 @@ Protože trvání potřeby podpory ECMO u většiny pacientů s COVID-19 přesah
 
 Normální udržování ventilace nastavením velikosti průtoku čerstvé směsi plynů oxygenátorem \(sweep gas flow\):
 
-1. Úvodní průtok vzduchu je potřeba nastavit na poměr Průtok krevní pumpy: sweep gas = 1 : 1. Základním cílem je udržování hladiny PaCO2 na úrovni \&lt; 80 % referenčních hodnot.
+1. Úvodní průtok vzduchu je potřeba nastavit na poměr Průtok krevní pumpy: sweep gas = 1 : 1. Základním cílem je udržování hladiny PaCO<sub>2</sub> na úrovni &lt; 80 % referenčních hodnot.
 
-2. Dechová frekvence je udržována dle ABR nejčastěji v rozmezí 10 \&lt; RR \&lt;20.
+2. Dechová frekvence je udržována dle ABR nejčastěji v rozmezí 10 &lt; RR &lt;20.
 
 3. Nastavení velikosti průtoku čerstvé směsi plynů oxygenátorem \(sweep gas flow\) v módu V-A musí zajistit hodnoty pH vně membrány oxygenátoru v rozmezí 7.35 - 7.45.
 
@@ -410,11 +433,11 @@ Normální udržování ventilace nastavením velikosti průtoku čerstvé směs
 
 1. Pacientům bez aktivního krvácení, bez vnitřního krvácení a s počtem trombocytů &gt; 50×10\^9/L se doporučuje podání úvodní dávky heparinu 50 IU/kg.
 
-2. Pacientům s krvácivými komplikacemi nebo s počtem trombocytů \&lt; 50×10\^9/L se doporučuje redukce úvodní dávky heparinu na 25 IU/kg.
+2. Pacientům s krvácivými komplikacemi nebo s počtem trombocytů &lt; 50×10\^9/L se doporučuje redukce úvodní dávky heparinu na 25 IU/kg.
 
 3. Cílem antikoagulační terapie je rozmezí hladin aPTT 40 - 60 s. Vývoj hladin D-dimerů by měl být v nastavení antikoagulační terapie také zohledněn.
 
-4. V následujících situacích je možné nastavení bez heparinového krytí: ECMO podpora musí pokračovat, ale pacient aktivně krvácí - nutnost kontroly krvácení; heparinem potažené katétry s průtokem &gt; 3 L/min. Doporučená doba ECMO podpory \&lt; 24 h. Náhradní zařízení a příslušenství musí být po ruce.
+4. V následujících situacích je možné nastavení bez heparinového krytí: ECMO podpora musí pokračovat, ale pacient aktivně krvácí - nutnost kontroly krvácení; heparinem potažené katétry s průtokem &gt; 3 L/min. Doporučená doba ECMO podpory &lt; 24 h. Náhradní zařízení a příslušenství musí být po ruce.
 
 5. Heparinová rezistence. V některých situacích není možné heparinovou terapií dosáhnout uspokojivých hodnot aPTT a dochází ke vzniku trombóz. V tomhle případě je nutné monitorovat aktivitu plazmatického antitrombinu III \(ATIII\). Pokud aktivita klesá, je pro opětovné dosažení dostatečné citlivosti k terapii heparinem nutné podat čerstvou mraženou plazmu \(FFP\).
 
@@ -424,11 +447,7 @@ Normální udržování ventilace nastavením velikosti průtoku čerstvé směs
 
 1. Pokud pacient léčený metodou V-V ECMO v kombinací s mechanickou ventilací splňuje podmínky napojení na Awake ECMO, navrhujeme nejprve ukončit mechanickou ventilaci, extubaci \(dekanylaci\) a to za předpokladu absence komplikací spojených s ECMO. Tento postup není vhodný pro pacienty, kde je plánováno ukončení extrakorporální podpory za méně než 48 h.
 
-2. U pacientů, kteří vykazují přílišnou sekreci z dýchacích cest, která si žádá časté odsávání; u kterých se počítá s dlouhodobou mechanickou ventilací; kteří splňují podmínky PaO2/FiO2 &gt; 150 mmHg po dobu &gt; 48 h; u kterých se lepší rentgenový nález na plicích; a jsou ventilováni protektivně, je možné zvážit odpojení od podpory ECMO. S ukončením ECMO podpory se odstraní i kanyly.
-
-![](../img/image8.png)
-
-![](../img/image7.png)
+2. U pacientů, kteří vykazují přílišnou sekreci z dýchacích cest, která si žádá časté odsávání; u kterých se počítá s dlouhodobou mechanickou ventilací; kteří splňují podmínky PaO<sub>2</sub>/FiO<sub>2</sub> &gt; 150 mmHg po dobu &gt; 48 h; u kterých se lepší rentgenový nález na plicích; a jsou ventilováni protektivně, je možné zvážit odpojení od podpory ECMO. S ukončením ECMO podpory se odstraní i kanyly.
 
 ## Terapie konvalescentní plazmou u pacientů s COVID-19
 
@@ -442,13 +461,17 @@ Kromě běžných zásad odběru darované krve a plazmy, by mělo být dbáno n
 
 #### Dárci
 
-Nejméně 14 dní po zotavení a propuštění \(detekce nukleových kyselin viru ze vzorky odebrané z horních dýchacích cest musí být víc než 14 dní negativní\). 18 ≤ věk ≤ 55 let. Tělesná hmotnost víc než 50 kg pro muže a víc než 45 kg pro ženy. Minimálně jeden týden od podání poslední dávky glukokortikoidů. Minimálně dva týdny od posledního darování.
+* Nejméně 14 dní po zotavení a propuštění \(detekce nukleových kyselin viru ze vzorky odebrané z horních dýchacích cest musí být víc než 14 dní negativní\). 
+* 18 ≤ věk ≤ 55 let. 
+* Tělesná hmotnost víc než 50 kg pro muže a víc než 45 kg pro ženy. 
+* Minimálně jeden týden od podání poslední dávky glukokortikoidů. 
+* Minimálně dva týdny od posledního darování.
 
 #### Odběrová metoda
 
 Plazmaferéza, pokaždé 200 - 400 mL \(s ohledem na konzultaci lékaře\).
 
-#### Vyšetření po odběru\*\*
+#### Vyšetření po odběru
 
 Kromě běžného testování na nemoci přenosné krví, je nutné odebranou krev/plazmu vyšetřit na:
 
@@ -456,7 +479,7 @@ Kromě běžného testování na nemoci přenosné krví, je nutné odebranou kr
 
 2. 160-násobné ředění pro kvalitativní detekci specifických SARS-CoV-2 IgG a IgM; nebo 320-násobné ředění pro kvalitativní testování celkových protilátek. Je-li to možné, uchovat &gt; 3 mL plazmy pro neutralizační experimenty.
 
-Je nutné mít v paměti následující: V průběhu porovnávání neutralizace viru a kvantitativní detekce IgG protilátek jsme zistili, že pouhá přítomnost specifických IgG protilátek proti SARS-CoV-2 neodpovídá aktuální neutralizační schopnosti plazmy. Proto navrhujeme jako první volbu buď test virové neutralizace nebo detekci celkových protilátek pod 320-násobním ředěním plazmy.
+**Je nutné mít v paměti následující:** V průběhu porovnávání neutralizace viru a kvantitativní detekce IgG protilátek jsme zistili, že pouhá přítomnost specifických IgG protilátek proti SARS-CoV-2 neodpovídá aktuální neutralizační schopnosti plazmy. Proto navrhujeme jako první volbu buď test virové neutralizace nebo detekci celkových protilátek pod 320-násobném ředěním plazmy.
 
 ### Klinické využití konvalescentní plazmy
 
@@ -466,7 +489,7 @@ Je nutné mít v paměti následující: V průběhu porovnávání neutralizace
 
 2. Pacienti s COVID-19 bez těžkého průběhu nemoci, ale se známou imunosupresí; nebo s nízkými CT hodnotami v testech na přítomnost virových nukleových kyselin, ale s rychlou progresí onemocnění plic.
 
-Poznámka: Z principu by neměla být používána terapie konvalescentní plazmou u pacientů s délkou onemocnění nad 3 týdny. Naše klinické zkušenosti ale ukázali, že i u ostatních pacientů je tato terapie účinná, pokud stále vykazují přítomnost nukleových kyselin viru v sekretu dýchacích cest. Léčba může potenciálně urychlit clearence viru, zvýšit počty plasmatických buněk a NK buněk, snížit hladiny plazmatického laktátu a zlepšit funkce ledvin.
+**Poznámka:** Z principu by neměla být používána terapie konvalescentní plazmou u pacientů s délkou onemocnění nad 3 týdny. Naše klinické zkušenosti ale ukázali, že i u ostatních pacientů je tato terapie účinná, pokud stále vykazují přítomnost nukleových kyselin viru v sekretu dýchacích cest. Léčba může potenciálně urychlit clearence viru, zvýšit počty plasmatických buněk a NK buněk, snížit hladiny plazmatického laktátu a zlepšit funkce ledvin.
 
 #### Kontraindikace
 
@@ -482,21 +505,23 @@ Všeobecně platí, že dávka jedné infuze představuje ≥ 400 mL nebo ≥ 20
 
 ### Klasifikace a stádia
 
-COVID-19 může být rozdělen na tato stádia: rané, střední, kritické a stádium uzdravování. V raném stádiu má nemoc dva hlavní typy: „vlhké plíce" a „vnější chlad a vnitřní horko". Střední stádium se vyznačuje „střídavým chladem a horkem". Kritické stádium se vyznačuje „vnitřní blokádou epidemického toxinu". Stádium uzdravování se vyznačuje „nedostatkem čchi v plicích-slezině". Nemoc je původně zařazena k syndromu vlhkých plic. Kvůli horečce je doporučena střídavá léčba chladu a léčba horka. Ve středním stádiu probíhá společně chlad, vlhkost a horko, a patří tak v pojetí TČM ke „kombinaci chladu-horka". Měla by se vzít v úvahu léčba chladu i horka. Podle teorie TČM by horko mělo být léčeno studenými léky. Studené léky ale oslabují jang a vedou ke chladu ve slezině a žaludku a kombinaci chladu-horka ve středním Jiao. Proto by se v tomto stádiu měla zvážit léčba chladu i léčba horka. Jelikož jsou u pacientů s COVID-19 běžně zaznamenávány příznaky chladu-horka, je léčba kombinace chladu-horka lepší než ostatní přístupy.
+COVID-19 může být rozdělen na tato stádia: rané, střední, kritické a stádium uzdravování. V raném stádiu má nemoc dva hlavní typy: „vlhké plíce" a „vnější chlad a vnitřní horko". Střední stádium se vyznačuje „střídavým chladem a horkem". Kritické stádium se vyznačuje „vnitřní blokádou epidemického toxinu". 
+
+Stádium uzdravování se vyznačuje „nedostatkem čchi v plicích-slezině". Nemoc je původně zařazena k syndromu vlhkých plic. Kvůli horečce je doporučena střídavá léčba chladu a léčba horka. Ve středním stádiu probíhá společně chlad, vlhkost a horko, a patří tak v pojetí TČM ke „kombinaci chladu-horka". Měla by se vzít v úvahu léčba chladu i horka. Podle teorie TČM by horko mělo být léčeno studenými léky. Studené léky ale oslabují jang a vedou ke chladu ve slezině a žaludku a kombinaci chladu-horka ve středním Jiao. Proto by se v tomto stádiu měla zvážit léčba chladu i léčba horka. Jelikož jsou u pacientů s COVID-19 běžně zaznamenávány příznaky chladu-horka, je léčba kombinace chladu-horka lepší než ostatní přístupy.
 
 ### Léčba podle klasifikace
 
 #### Vlhké plíce
 
-chvojník bylina 6 g, meruňkové jádro hořké 10 g, semeno slzovky 30 g, kořen lékořice 6 g, kořen šišáku bajkalského 15 g, agastache vrásčitá/korejská máta \(Huoxiang\) 10 g, oddenek rákosu obecného 30 g, oddenek srpovice 15 g, pórnatka kokosová 20 g, oddenek atraktylis čínské 12 g, kůra magnólie 12 g.
+Chvojník bylina 6 g, meruňkové jádro hořké 10 g, semeno slzovky 30 g, kořen lékořice 6 g, kořen šišáku bajkalského 15 g, agastache vrásčitá/korejská máta \(Huoxiang\) 10 g, oddenek rákosu obecného 30 g, oddenek srpovice 15 g, pórnatka kokosová 20 g, oddenek atraktylis čínské 12 g, kůra magnólie 12 g.
 
 #### Vnější chlad a vnitřní horko
 
-chvojník bylina 9 g, sádrovec 30 g, meruňkové jádro hořké 10 g, kořen lékořice 6 g, kořen šišáku bajkalského 15 g, oplodí vlasokvětu 20 g, pomeranč plod 15 g, kůra magnólie 12 g, Tripterospermum Cordifolium 20 g, kořen-kůra moruše bílé 15 g, hlíza pinélie 12 g, pórnatka kokosová 20 g, kořen platykodonu/boubelky 9 g.
+Chvojník bylina 9 g, sádrovec 30 g, meruňkové jádro hořké 10 g, kořen lékořice 6 g, kořen šišáku bajkalského 15 g, oplodí vlasokvětu 20 g, pomeranč plod 15 g, kůra magnólie 12 g, Tripterospermum Cordifolium 20 g, kořen-kůra moruše bílé 15 g, hlíza pinélie 12 g, pórnatka kokosová 20 g, kořen platykodonu/boubelky 9 g.
 
 #### Střídavý chlad-horko
 
-hlíza pinélie 12 g, kořen šišáku bajkalského 15 g, koptis čínský 6 g, sušený zázvor 6 g, jujube/cicimek datlový 15 g, kořen puerarie - kudzu 30 g, chrpovník lopuchový 10 g, pórnatka kokosová 20 g, řebčík Thunbergův - cibulka 15 g, semeno slzovky 30 g, kořen lékořice 6 g.
+Hlíza pinélie 12 g, kořen šišáku bajkalského 15 g, koptis čínský 6 g, sušený zázvor 6 g, jujube/cicimek datlový 15 g, kořen puerarie - kudzu 30 g, chrpovník lopuchový 10 g, pórnatka kokosová 20 g, řebčík Thunbergův - cibulka 15 g, semeno slzovky 30 g, kořen lékořice 6 g.
 
 #### Vnitřní blokáda epidemického toxinu
 
@@ -504,7 +529,7 @@ Pro léčbu použijte cheongsimhwan \(pilulku jasné mysli\).
 
 #### Nedostatek čchi v plicích a slezině
 
-kořen kozince blanitého 30 g, kořen pazvonku chloupkatého 20 g, pražený oddenek atraktylis velkohlavé 15 g, pórnatka kokosová 20 g, amom plod 6 g, oddenek kokoříku sibiřského 15 g, hlíza pinélie 10 g, kůra mandarinky 6 g, jam čínský oddenek 20 g, lotosové semeno 15 g, jujube/cicimek datlový 15 g.
+Kořen kozince blanitého 30 g, kořen pazvonku chloupkatého 20 g, pražený oddenek atraktylis velkohlavé 15 g, pórnatka kokosová 20 g, amom plod 6 g, oddenek kokoříku sibiřského 15 g, hlíza pinélie 10 g, kůra mandarinky 6 g, jam čínský oddenek 20 g, lotosové semeno 15 g, jujube/cicimek datlový 15 g.
 
 K pacientům v různých stádiích by se mělo přistupovat různými přístupy. Jedna dávka denně. Léčivo uvařte ve vodě. Podávejte každé ráno a večer.
 
@@ -516,21 +541,13 @@ Průběh onemocnění COVID-19 je často komplikovaný komorbiditami, které tak
 
 Bylo dokázáno, že incidence abnormálních jaterních funkcí je u COVID-19 pacientů na léčbě lopinavirem/ritonavirem kombinovaným s antivirotickou terapií arbidolem 51.9 %. Multivariační analýza odhalila, že antivirotika a další souběžná \(konkomitantní\) léčba jsou dvěma samostatnými rizikovými faktory pro abnormální funkci jater. Proto je vhodná častější monitorace možných nežádoucích účinků. Důležité je také vyvarovat se zbytečných kombinací léků. Nejčastějšími nežádoucími účinky antivirotické terapie jsou:
 
-1. Lopinavir/ritonavir a darunavir/cobicistat: průjem, nauzea,
+1. Lopinavir/ritonavir a darunavir/cobicistat: průjem, nauzea, zvracení, nárůst jaterních transamináz v séru, ikterus, dyslipidemie, nárůst hladin plazmatického laktátu. Tyto příznaky ustupují po ukončení terapie.
 
-   > zvracení, nárůst jaterních transamináz v séru, ikterus, dyslipidemie, nárůst hladin plazmatického laktátu. Tyto příznaky ustupují po ukončení terapie.
+2. Arbidol: nárůst jaterních transamináz v séru a ikterus. Jsou častější při kombinaci s lopidavirem. Příznaky ustupují po ukončení terapie. Někdy může být pozorována bradykardie, proto je nutné zamezit současnému užívání arbidolu s beta-blokátory jako metoprolol nebo propranolol. Při srdeční frekvenci nižší než 60/min doporučujeme tyto léky vysadit.
 
-2. Arbidol: nárůst jaterních transamináz v séru a ikterus. Jsou
+3. Fapilavir: elevace plazmatické hladiny kyseliny močové, průjem, neutropenie, šok, fulminantní hepatitida, akutní nedostatečnost funkce ledvin. Tyto příznaky byly častěji pozorovány u starších pacientů a pacientů v cytokinové bouři.
 
-   > častější při kombinaci s lopidavirem. Příznaky ustupují po ukončení terapie. Někdy může být pozorována bradykardie, proto je nutné zamezit současnému užívání arbidolu s beta-blokátory jako metoprolol nebo propranolol. Při srdeční frekvenci nižší než 60/min doporučujeme tyto léky vysadit.
-
-3. Fapilavir: elevace plazmatické hladiny kyseliny močové, průjem,
-
-   > neutropenie, šok, fulminantní hepatitida, akutní nedostatečnost funkce ledvin. Tyto příznaky byly častěji pozorovány u starších pacientů a pacientů v cytokinové bouři.
-
-4. Chloroquinfosfát: závratě, bolesti hlavy, nauzea, zvracení, průjem,
-
-   > kožní vyrážky. Nejzávažnějším nežádoucím účinkem je srdeční zástava. Hlavním nežádoucím účinkem je okulotoxicita. Před nasazením je nutné natočit EKG. Z těchto důvodů by měl být tento preparát kontraindikován u pacientů s poruchami srdečního rytmu \(např. Blokády srdečního převodu\), retinopatií a ztrátou sluchu.
+4. Chloroquinfosfát: závratě, bolesti hlavy, nauzea, zvracení, průjem, kožní vyrážky. Nejzávažnějším nežádoucím účinkem je srdeční zástava. Hlavním nežádoucím účinkem je okulotoxicita. Před nasazením je nutné natočit EKG. Z těchto důvodů by měl být tento preparát kontraindikován u pacientů s poruchami srdečního rytmu \(např. Blokády srdečního převodu\), retinopatií a ztrátou sluchu.
 
 ### TDM \(Terapeutické monitorování hladin léčiv\)
 
@@ -538,7 +555,7 @@ Některá antivirotika a antibiotika je nutné monitorovat prostřednictvím TDM
 
 V případě zvýšení plazmatických hladin těchto léčiv, je nutné s ohledem na současný stav pacienta a další podávané léčby změnit dávkování.
 
-**Tabulka 1 Rozmezí koncentrací a hladin pro běžné TDM u COVID-19 pacientů**
+**Tabulka 1:** Rozmezí koncentrací a hladin pro běžné TDM u COVID-19 pacientů
 
 <table>
 <tbody>
@@ -646,7 +663,7 @@ V případě zvýšení plazmatických hladin těchto léčiv, je nutné s ohled
 
 Antivirotiká typu lopinavir/ritonavir jsou metabolizovány enzymem CYP3A v játrech. Pokud pacienti berou současně i jiná léčiva, musí být sledovány potenciální interakce. Tabulka 2 ukazuje interakce mezi jednotlivými antivirotiky a ostatními léčivy.
 
-**Tabulka 2 Interakce mezi antivirotiky a běžnými léčivy**
+**Tabulka 2:** Interakce mezi antivirotiky a běžnými léčivy
 
 <p>&nbsp;</p>
 <table>
@@ -729,21 +746,21 @@ Speciální populace zahrnuje těhotné ženy, pacienty s renální insuficienc�
 
 1. Těhotné ženy:
 
-Lopinavir/ritonavir v tabletách je možné podávat. Favipiravir a chloriquinfosfát jsou kontraindikovány.
+   Lopinavir/ritonavir v tabletách je možné podávat. Favipiravir a chloriquinfosfát jsou kontraindikovány.
 
 2. Pacienti s jaterním selháváním:
 
-Volíme léky s primárním vylučováním ledvinami, např. penicilin nebo cefalosporiny, atd.
+   Volíme léky s primárním vylučováním ledvinami, např. penicilin nebo cefalosporiny, atd.
 
 3. Pacienti s renální insuficiencí \(včetně hemodialyzovaných\):
 
-Volíme léčiva s primárním vylučováním žlučí, nebo kombinovaným vylučováním, jako např. linezolid, moxifloxacin, ceftriaxon, atd.
+   Volíme léčiva s primárním vylučováním žlučí, nebo kombinovaným vylučováním, jako např. linezolid, moxifloxacin, ceftriaxon, atd.
 
 4. Pacienti na podpoře CRRT na 24 h:
 
-Pro vancomycin platí: nasycovací dávka 1 g a udržovací dávka 0.5 g á 12 h.
+   Pro vancomycin platí: nasycovací dávka 1 g a udržovací dávka 0.5 g á 12 h.
 
-Pro imipenem platí: maximální denní dávka by neměla přesáhnout 2 g.
+   Pro imipenem platí: maximální denní dávka by neměla přesáhnout 2 g.
 
 ![](../img/image6.png)
 
@@ -751,7 +768,7 @@ Pro imipenem platí: maximální denní dávka by neměla přesáhnout 2 g.
 
 ### Psychický stres a jeho symptomy u pacientů s COVID-19
 
-Pacienti s potvrzenou nákazou COVID-19 často pociťují lítost a vztek , cítí se osaměle a bezmocně, mají depresi, úzkost a obavy. Bývají podráždění a trpí nedostatkem spánku. Někteří pacienti mají panické záchvaty. Psychologická hodnocení na uzavřených odděleních ukázala, že přibližně 48 % pacientů vykazovalo na začátku pobytu v nemocnici symptomy, které pocházely z jejich emoční odpovědi na stres. Delirium se vyskytovalo často u pacientů v kritickém stavu. Existuje zpráva o encefalitidě vyvolané nákazou SARS-CoV-2, která vedla ke zvýšené dráždivosti a ztrátě vědomí.
+Pacienti s potvrzenou nákazou COVID-19 často pociťují lítost a vztek, cítí se osaměle a bezmocně, mají depresi, úzkost a obavy. Bývají podráždění a trpí nedostatkem spánku. Někteří pacienti mají panické záchvaty. Psychologická hodnocení na uzavřených odděleních ukázala, že přibližně 48 % pacientů vykazovalo na začátku pobytu v nemocnici symptomy, které pocházely z jejich emoční odpovědi na stres. Delirium se vyskytovalo často u pacientů v kritickém stavu. Existuje zpráva o encefalitidě vyvolané nákazou SARS-CoV-2, která vedla ke zvýšené dráždivosti a ztrátě vědomí.
 
 ### Ustanovení dynamického mechanismu pro hodnocení a vyvarování se psychologické krize
 
@@ -841,7 +858,7 @@ Viz Konsensus ISHLT z roku 2014: Konsensuální dokument pro výběr kandidátů
 
 5. Nejsou přítomny komorbidity či komplikace vyžadující hospitalizaci;
 
-6. SpO2 &gt; 93% bez plicní ventilace;
+6. SpO<sub>2</sub> &gt; 93% bez plicní ventilace;
 
 7. Propuštění je schváleno multidisciplinárním týmem lékařů.
 

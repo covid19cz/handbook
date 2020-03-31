@@ -4,7 +4,7 @@
 
 ### Zhodnocení
 
-Poskytněte pacientovi podrobné informaci o kyslíkové terapii pomocí HFNC, aby byl ochotný spolupracovat. Případně je vhodné použít sedativa v nízkých dávkách s pečlivým monitorování pacienta. Použijte správný průměr nosní kanyly vzhledem k rozměru pacientovy nosní dutiny. Pásky k uchycení nastavte dle velikosti hlavy pacienta a použijte náplasti či obinadla tak, aby bylo zabráněno dekubitům na kůži obličeje způsobených jakýmikoliv pomůckami k této terapii. Udržujte hladinu vody ve zvlhčovací nádobce. Vytitrujte průtok vdechované frakce kyslíku \(FiO2\) a teplotu vody podle toho, jaké má pacient respirační potřeby a jak terapii toleruje.
+Poskytněte pacientovi podrobné informaci o kyslíkové terapii pomocí HFNC, aby byl ochotný spolupracovat. Případně je vhodné použít sedativa v nízkých dávkách s pečlivým monitorování pacienta. Použijte správný průměr nosní kanyly vzhledem k rozměru pacientovy nosní dutiny. Pásky k uchycení nastavte dle velikosti hlavy pacienta a použijte náplasti či obinadla tak, aby bylo zabráněno dekubitům na kůži obličeje způsobených jakýmikoliv pomůckami k této terapii. Udržujte hladinu vody ve zvlhčovací nádobce. Vytitrujte průtok vdechované frakce kyslíku \(FiO<sub>2</sub>\) a teplotu vody podle toho, jaké má pacient respirační potřeby a jak terapii toleruje.
 
 ### Monitorace
 
@@ -26,7 +26,7 @@ Pro každý den si stanovte cíl, jehož chcete v rámci tišení bolesti dosáh
 
 ### Prevence ventilátorové pneumonie \(VAP\)
 
-Riziko VAP snížíte dodržováním „balíčku péče" \(„care bundle"\), který zahrnuje: mytí rukou; zvednutí horní poloviny lůžka pacienta o 30-45°, pokud se nevyskytují žádné kontraindikace; provedení ústní hygieny každé 4 až 6 hodin pomocí jednorázové ústní odsávačky; udržováním tlaku manžety endotracheální rourky na 30-35 cmH2O\*; pravidelné kontroly enterální nutriční podpory a reziduálního objemu žaludku jednou za 4 hodiny; každodenní zhodnocení nutnosti umělé ventilace; využití omyvatelných tracheálních rourek ke kontinuálnímu odsávání subglotického prostoru a 10ml stříkaček k odsávání každou hodinu až dvě podle aktuálního množství sekrece. Odstraňte subglotický sekret a do kontaminované stříkačky okamžitě aspirujte přiměřené množství chlorové dezinfekce \(2500 mg/l\), upevněte na ni uzávěr a vyhoďte ji do kontejneru na ostré předměty.
+Riziko VAP snížíte dodržováním „balíčku péče" \(„care bundle"\), který zahrnuje: mytí rukou; zvednutí horní poloviny lůžka pacienta o 30-45°, pokud se nevyskytují žádné kontraindikace; provedení ústní hygieny každé 4 až 6 hodin pomocí jednorázové ústní odsávačky; udržováním tlaku manžety endotracheální rourky na 30-35 cmH<sub>2</sub>O\*; pravidelné kontroly enterální nutriční podpory a reziduálního objemu žaludku jednou za 4 hodiny; každodenní zhodnocení nutnosti umělé ventilace; využití omyvatelných tracheálních rourek ke kontinuálnímu odsávání subglotického prostoru a 10ml stříkaček k odsávání každou hodinu až dvě podle aktuálního množství sekrece. Odstraňte subglotický sekret a do kontaminované stříkačky okamžitě aspirujte přiměřené množství chlorové dezinfekce \(2500 mg/l\), upevněte na ni uzávěr a vyhoďte ji do kontejneru na ostré předměty.
 
 \* Obvykle se i na ICU považuje za doporučenou hodnotu 20-30 cmH20 především kvůli riziku dekubitu nebo nekrózy trachey -- nevím proč zde 30-35 cmH20, pozn. překladatele
 

@@ -2,6 +2,7 @@
 
 * [Úvod](README.md)
 * [Předmluva](predmluva.md)
+* [Ke stažení](ke-stazeni.md)
 
 ## Kapitoly
 

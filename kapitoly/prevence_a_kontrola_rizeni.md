@@ -234,13 +234,21 @@ Viz klinika pro pacienty s horečkou.
 
 ### Doporučené postupy pro oblékání a svlékání osobních ochranných pracovních prostředků určených k péči o pacienty s COVID-19
 
-**Protokol na oblékání osobních ochranných pracovních prostředků :**
+**Protokol na oblékání osobních ochranných pracovních prostředků:**
 
-Oblečte si pracovní oblečení a obuv - Umyjte si ruce - Oblečte si jednorázovou pokrývku hlavy - Nasaďte si respirátor \(N95\) - Navlečte si jednorázové nitrilové/latexové rukavice - Nasaďte si brýle a ochranný oděv \(poznámka: pokud máte ochranný oděv bez návleků na obuv nasaďte si samostatné voděodolné návleky na obuv\), oblečte si jednorázový empír \(pokud je v pracovní oblasti požadován\) a obličejový štít/celoobličejovou masku \(pokud jsou v pracovní oblasti požadovány\) - Navlečte si druhou vrstvu jednorázových latexových rukavic
+![](../img/image24.png)
 
-![](../.gitbook/assets/image25.png)
+1. Oblečte si pracovní oblečení a obuv 
+2. Umyjte si ruce 
+3. Oblečte si jednorázovou pokrývku hlavy 
+4. Nasaďte si respirátor \(N95\) 
+5. Navlečte si jednorázové nitrilové/latexové rukavice 
+6. Nasaďte si brýle a ochranný oděv \(poznámka: pokud máte ochranný oděv bez návleků na obuv nasaďte si samostatné voděodolné návleky na obuv\), oblečte si jednorázový empír \(pokud je v pracovní oblasti požadován\) a obličejový štít/celoobličejovou masku \(pokud jsou v pracovní oblasti požadovány\) 
+7. Navlečte si druhou vrstvu jednorázových latexových rukavic
 
 **Protokol na svlékání osobních ochranných pracovních prostředků:**
+
+![](../img/image25.png)
 
 1. Umyjte si ruce a odstraňte viditelné stopy kontaminace tělesnými tekutinami/krví na povrchu obou rukou 
 2. Umyjte si ruce a nahraďte vnější vrstvu rukavic novými rukavicemi 

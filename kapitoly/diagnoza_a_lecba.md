@@ -227,22 +227,22 @@ Hypoxémie může být přítomna při zhoršení dechové funkce způsobené CO
 
    Je doporučena NIV s dvojitým okruhem. Filtr proti virům by měl být nainstalován mezi masku a výdechový ventil, pokud je použita NIV s jednou trubicí. Pro snížení rizika úniku vzduchu a s ním i šíření viru by měly být použity vhodné masky.
 
-2. Invazivní mechanická ventilace
-   1. Principy invazivní mechanické ventilace u kriticky nemocných pacientů
+2. Invazivní mechanická ventilace 1. Principy invazivní mechanické ventilace u kriticky nemocných pacientů
 
-      U terapie pacientů s COVID-19 je důležité udržovat rovnováhu mezi pacientovou potřebou ventilace a kyslíku a rizikem postižení plic v souvislosti s mechanickou invazivní ventilací.
+   U terapie pacientů s COVID-19 je důležité udržovat rovnováhu mezi pacientovou potřebou ventilace a kyslíku a rizikem postižení plic v souvislosti s mechanickou invazivní ventilací.
 
-      * Pevně stanovte dechový objem \(tidal volume\) na 4 - 8 ml/kg. Obecně, čím menší je poddajnost \(compliance\) plic, tím menší by měl být dechový objem.
-      * Udržujte „plateau" tlak &lt; 30 cmH2O \(1 cmH2O = 0,098 kPa\) a hodnotu ΔP \(„driving pressure"\) &lt; 15 cmH2O.
-      * Nastavte PEEP dle protokolu pro ARDS
-      * Dechová frekvence: 18 - 25 / min. Mírná hyperkapnie je povolena.
-      * Zvyšte sedaci, analgézii nebo svalovou relaxaci pokud je dechový objem, „plateau" pressure nebo „driving" pressure příliš vysoký.
+   * Pevně stanovte dechový objem \(tidal volume\) na 4 - 8 ml/kg. Obecně, čím menší je poddajnost \(compliance\) plic, tím menší by měl být dechový objem.
+   * Udržujte „plateau" tlak &lt; 30 cmH2O \(1 cmH2O = 0,098 kPa\) a hodnotu ΔP \(„driving pressure"\) &lt; 15 cmH2O.
+   * Nastavte PEEP dle protokolu pro ARDS
+   * Dechová frekvence: 18 - 25 / min. Mírná hyperkapnie je povolena.
+   * Zvyšte sedaci, analgézii nebo svalovou relaxaci pokud je dechový objem, „plateau" pressure nebo „driving" pressure příliš vysoký.
 
-      Vysvětlivky: „plateau" tlak -- je tlak, který je přístrojem pro umělou plicní ventilaci aplikován na nejmenší bronchioly a plicní sklípky. „Driving" tlak -- může být vypočítán jako „plateau" tlak -- PEEP \(pozitivní tlak na konci výdechu\).
+     Vysvětlivky: „plateau" tlak -- je tlak, který je přístrojem pro umělou plicní ventilaci aplikován na nejmenší bronchioly a plicní sklípky. „Driving" tlak -- může být vypočítán jako „plateau" tlak -- PEEP \(pozitivní tlak na konci výdechu\).
 
-   2. Recruitment plic
+   1. Recruitment plic
 
       Recruitment plic zlepšuje heterogenní distribuci plynů u pacientů s ARDS. Může ovšem způsobit závažné respirační a oběhové komplikace, a proto nejsou manévry pro recruitment plic rutinně doporučovány. Zhodnocení roztažnosti plic by mělo být provedeno před použitím těchto manévrů.
+
 3. Pronační ventilační poloha
 
    Nejvíc kritičtí pacienti s COVID-19 odpovídají dobře na uvedení do pronační polohy \(otočení ventilovaného pacienta na břicho\), což se projeví rychlým zlepšením okysličení a plicní mechaniky. Pronační poloha je doporučená jako rutinní metoda u pacientů s Horowitzovým indexem &lt; 150 mmHg nebo u pacientů se zjevnou manifestací na zobrazovacích metodách a bez kontraindikací. Časový rámec pro pronační ventilaci je víc než 16 hodin. Pronovat pacienty je vhodné i při vzestupu PaO2/FiO2 nad 150 mmHg v supinnní poloze po dobu &gt; 4 hodiny.
@@ -520,11 +520,7 @@ V případě zvýšení plazmatických hladin těchto léčiv, je nutné s ohled
     </tr>
   </thead>
   <tbody></tbody>
-</table>| **imipenem** | 10 min před podáním | 1~8 μg/mL | Interpretace a úprava dávkování podle plazmatických koncentrací v závislosti na MIC příslušného patogenu. |
-| :--- | :--- | :--- | :--- |
-
-
-| **meropenem** | 10 min před podáním | 1~16 μg/mL |  |
+</table>| **meropenem** | 10 min před podáním | 1~16 μg/mL |  |
 | :--- | :--- | :--- | :--- |
 
 
@@ -576,11 +572,7 @@ Antivirotika typu lopinavir/ritonavir jsou metabolizovány enzymem CYP3A v játr
     </tr>
   </thead>
   <tbody></tbody>
-</table>| **hydroxychlorochin fosfát** | Žádná relevantní data. | Zabránit kombinaci s léčivy prodlužujícími QT interval \(moxifloxacin, azithromycin, amiodaron, atd.\) |
-| :--- | :--- | :--- |
-
-
-Speciální populace zahrnuje těhotné ženy, pacienty s renální insuficiencí nebo jaterním selháváním, pacienty na mechanické plicní ventilaci, pacienty na terapii CRRT \(„continuous renal replacement therapy" -- kontinuální eliminační metoda nahrazující funkci ledvin\) nebo na ECMO, atd. Před podáváním léčiv u této populace je nutné zvážit následující:
+</table>Speciální populace zahrnuje těhotné ženy, pacienty s renální insuficiencí nebo jaterním selháváním, pacienty na mechanické plicní ventilaci, pacienty na terapii CRRT \(„continuous renal replacement therapy" -- kontinuální eliminační metoda nahrazující funkci ledvin\) nebo na ECMO, atd. Před podáváním léčiv u této populace je nutné zvážit následující:
 
 1. Těhotné ženy:
 

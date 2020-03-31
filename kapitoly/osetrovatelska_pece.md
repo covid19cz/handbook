@@ -1,4 +1,4 @@
-# Ošetřovatelská péče
+# ČÁST 3: Ošetřovatelská péče
 
 ## Ošetřovatelská péče o pacienty, kterým je kyslík podáván vysokoprůtokovou nosní kanylou \(HFNC kyslíková terapie\)
 

@@ -6,9 +6,9 @@
 
 ## Kapitoly
 
-* [Prevence a kontrola řízení](kapitoly/prevence_a_kontrola_rizeni.md)
-* [Diagnóza a léčba](kapitoly/diagnoza_a_lecba.md)
-* [Ošetřovatelská péče](kapitoly/osetrovatelska_pece.md)
+* [ČÁST 1: Prevence a kontrola řízení](kapitoly/prevence_a_kontrola_rizeni.md)
+* [ČÁST 2: Diagnóza a léčba](kapitoly/diagnoza_a_lecba.md)
+* [ČÁST 3: Ošetřovatelská péče](kapitoly/osetrovatelska_pece.md)
 * [Dodatek](kapitoly/dodatek.md)
 
 ## Závěr

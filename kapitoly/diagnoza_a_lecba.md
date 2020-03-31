@@ -1,4 +1,4 @@
-# Diagnóza a léčba
+# ČÁST 2: Diagnóza a léčba
 
 ## Personalizovaný a multidisciplinární management
 

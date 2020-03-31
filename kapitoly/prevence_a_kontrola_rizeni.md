@@ -1,4 +1,4 @@
-# Prevence a kontrola řízení
+# ČÁST 1: Prevence a kontrola řízení
 
 ## Správa izolačních oblastí
 

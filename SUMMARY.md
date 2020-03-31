@@ -16,4 +16,5 @@
 * [Redakční rada](zaver/redakcni_rada.md)
 * [Zdroje](zaver/zdroje.md)
 * [Překlad](zaver/preklad.md)
+* [Skupina COVID19CZ](https://www.covid19cz.cz)
 

@@ -484,7 +484,9 @@ V důsledku rozšíření epidemie COVID-19 nemocnice FAHZU a Alibaba společně
 
 1. Na webových stránkách [www.dingtalk.com/en](www.dingtalk.com/en) si stáhněte aplikaci DingTalk.
 2. Uveďte osobní údaje \(jméno a telefonní číslo\) pro registraci a přihlašte se.
-3. Požádejte o vstup do Mezinárodní odborné zdravotnické komunikační platformy nemocnice FAHZU: _Metoda 1:_ Vstupte pomocí týmového kódu. Vyberte \"Contacts\" &gt; \"Join Team\" &gt; \"Join by Team Code\" \(\"Kontakty\" &gt; \"Vstupte do týmu\" &gt; \"Vstupte pomocí týmového kódu\"\), poté vložte ID: \'YQDKl 170\'. _Metoda 2:_ Vstupte naskenováním QR kódu Mezinárodní odborné zdravotnické komunikační platformy nemocnice FAHZU.
+3. Požádejte o vstup do Mezinárodní odborné zdravotnické komunikační platformy nemocnice FAHZU: 
+   1. _Metoda 1:_ Vstupte pomocí týmového kódu. Vyberte "Contacts" &gt; "Join Team" &gt; "Join by Team Code" \("Kontakty" &gt; "Vstupte do týmu" &gt; "Vstupte pomocí týmového kódu"\), poté vložte ID: \'YQDKl 170\'. 
+   2. _Metoda 2:_ Vstupte naskenováním QR kódu Mezinárodní odborné zdravotnické komunikační platformy nemocnice FAHZU.
 4. Pro vstup vyplňte své údaje. Uveďte své jméno, zemi a zdravotnickou instituci.
 5. Po schválení administrátorem se připojte do skupinového chatu FAHZU.
 6. Po připojení do skupinového chatu může zdravotnický personál posílat okamžité zprávy za pomoci Al překladu, přijímat video pokyny na dálku a má přístup k instrukcím pro lékařské ošetření.

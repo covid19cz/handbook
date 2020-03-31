@@ -2,11 +2,11 @@
 
 1. National Health Commission and National Administration of Traditional Chinese
 
-   Medicine of the People\'s Republic of China. Protocols for Diagnosis and Treatment of COVID-19 \(7th Trial Version\) \[EB/OL\]. \(2020-03-04\)\[2020-03-15\]
+   Medicine of the People's Republic of China. Protocols for Diagnosis and Treatment of COVID-19 \(7th Trial Version\) \[EB/OL\]. \(2020-03-04\)\[2020-03-15\]
 
    [http://www.nhc.gov.cn/yzygj/s7653p/202003/46c9294a7dfe4cef80dc7f5912eb1989.shtml](http://www.nhc.gov.cn/yzygj/s7653p/202003/46c9294a7dfe4cef80dc7f5912eb1989.shtml) \(in Chinese\)
 
-2. National Health Commission of the People\'s Republic of China.
+2. National Health Commission of the People's Republic of China.
 
    Protocols for Prevention and Control of COVID-19 \(6th Version\) \[EB/OL\]. \(2020-03-09\)\[2020-03-15\].
 
@@ -42,9 +42,9 @@
 
     [http://www.chinacdc.cn/yw\_9324/202001/120200127211469.html](http://www.chinacdc.cn/yw_9324/202001/120200127211469.html)
 
-12. National Health Commission of the People\'s Republic of China.
+12. National Health Commission of the People's Republic of China.
 
-    Notification of Novel Coronavirus Pneumonia Temporarily Named by the National Health Commission of the People\'s Republic of China \[EB/OL\]. \(in Chinese\) \(2020-02-07\)\[2020-03-l5\].
+    Notification of Novel Coronavirus Pneumonia Temporarily Named by the National Health Commission of the People's Republic of China \[EB/OL\]. \(in Chinese\) \(2020-02-07\)\[2020-03-l5\].
 
     [http://www.nhe.gov.en/mohwsbwstjxxzx/s290B/202002/fl5dda000f6a46b2a1ea1377cd80434d.shtml](http://www.nhe.gov.en/mohwsbwstjxxzx/s290B/202002/fl5dda000f6a46b2a1ea1377cd80434d.shtml)
 
@@ -53,7 +53,7 @@
 
     [https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports/](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports/)
 
-15. Bureau of Disease Control and Prevention, National Health Commission of the People\'s Republic of China. Novel coronavirus infection pneumonia is included in the management of notifiable infectious diseases \[EB/OL\]. \(in Chinese\) \(2020-01-20\)\[2020-02-l5\].
+15. Bureau of Disease Control and Prevention, National Health Commission of the People's Republic of China. Novel coronavirus infection pneumonia is included in the management of notifiable infectious diseases \[EB/OL\]. \(in Chinese\) \(2020-01-20\)\[2020-02-l5\].
 
     [http://www.nhc.gov.cn/jkj/s7915/202001/e4e2d5e6f01l47e0a8df3f6701d49f33.shtml](http://www.nhc.gov.cn/jkj/s7915/202001/e4e2d5e6f01l47e0a8df3f6701d49f33.shtml)
 

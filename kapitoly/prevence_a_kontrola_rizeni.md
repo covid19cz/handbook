@@ -36,9 +36,81 @@
 
 ### Vyšetřovací kritéria pro pacienty s podezřením na COVID-19
 
-![](../.gitbook/assets/vysetrovaci_kriteria.png)
+<!-- 
 
-### Izolační oddělení
+Tabulka se bohuzel nezobrazuje dobre v GitBook. Prozatim nahrazuji obrazkem.
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left"> <b>Epidemiologick&#xE1; anamn&#xE9;za</b>
+      </th>
+      <th style="text-align:left">
+        <ol>
+          <li>B&#x11B;hem 14 dn&#xED; p&#x159;ed propuknut&#xED;m nemoci pacient cestoval
+            nebo bydlel v rizikov&#xE9; oblasti nebo zemi.</li>
+          <li>B&#x11B;hem 14 dn&#xED; p&#x159;ed propuknut&#xED;m nemoci byl pacient
+            v kontaktu s osobami infikovan&#xFD;mi SARS-CoV-2 (osobami s pozitivn&#xED;m
+            testem NAT).</li>
+          <li>B&#x11B;hem 14 dn&#xED; p&#x159;ed propuknut&#xED;m nemoci byl pacient
+            v p&#x159;&#xED;m&#xE9;m kontaktu s pacienty s hore&#x10D;kou nebo respira&#x10D;n&#xED;mi
+            symptomy v rizikov&#xFD;ch oblastech nebo zem&#xED;ch.</li>
+          <li>&#x201E;Cluster&#x201C; (nahromad&#x11B;n&#xED; onemocn&#x11B;n&#xED;)
+            (2 nebo v&#xED;ce p&#x159;&#xED;pad&#x16F; s hore&#x10D;kou a/nebo respira&#x10D;n&#xED;mi
+            symptomy na m&#xED;stech, jako jsou domovy, kancel&#xE1;&#x159;e, &#x161;koln&#xED;
+            t&#x159;&#xED;dy atd. b&#x11B;hem posledn&#xED;ch 2 t&#xFD;dn&#x16F;).</li>
+        </ol>
+      </th>
+      <th style="text-align:left">Pacient spl&#x148;uje epidemiologickou anamn&#xE9;zu a m&#xE1; 2 klinick&#xE9;
+        projevy..</th>
+      <th style="text-align:left">Pacient nem&#xE1; &#x17E;&#xE1;dnou epidemiologickou anamn&#xE9;zu a m&#xE1;
+        3 klinick&#xE9; projevy.</th>
+      <th style="text-align:left">Pacient nem&#xE1; epidemiologickou anamn&#xE9;zu , m&#xE1; 1&#x2013;2
+        klinick&#xE9; projevy , ale nelze u n&#x11B;j sn&#xED;mkov&#xE1;n&#xED;m
+        COVID-19 vylou&#x10D;it.</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left"> <b>Klinick&#xE9; projevy</b>
+      </td>
+      <td style="text-align:left">
+        <ol>
+          <li>Pacient m&#xE1; hore&#x10D;ku a/nebo respira&#x10D;n&#xED; p&#x159;&#xED;znaky.</li>
+          <li>Pacient m&#xE1; podle sn&#xED;mk&#x16F; CT n&#xE1;sleduj&#xED;c&#xED;
+            rysy COVID-19: v brzk&#xFD;ch f&#xE1;z&#xED;ch se objevuje &#x159;ada skvrnit&#xFD;ch
+            st&#xED;n&#x16F; a interstici&#xE1;ln&#xED;ch zm&#x11B;n, p&#x159;edev&#x161;&#xED;m
+            na periferii plic. Tyto stavy se d&#xE1;le rozv&#xED;jej&#xED; do &#x159;ady
+            n&#xE1;lez&#x16F; denzity ml&#xE9;&#x10D;n&#xE9;ho skla a infiltr&#xE1;t&#x16F;
+            v obou plic&#xED;ch. V z&#xE1;va&#x17E;n&#xFD;ch p&#x159;&#xED;padech m&#x16F;&#x17E;e
+            u pacienta doj&#xED;t ke konsolidaci plic a vz&#xE1;cn&#x11B; k pleur&#xE1;ln&#xED;mu
+            v&#xFD;potku.</li>
+          <li>Po&#x10D;et b&#xED;l&#xFD;ch krvinek je v po&#x10D;&#xE1;te&#x10D;n&#xED;
+            f&#xE1;zi nemoci norm&#xE1;ln&#xED; nebo sn&#xED;&#x17E;en&#xFD; nebo se
+            po&#x10D;et lymfocyt&#x16F; postupn&#x11B; sni&#x17E;uje.</li>
+        </ol>
+      </td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Diagn&#xF3;za podez&#x159;el&#xE9;ho p&#x159;&#xED;padu</b>
+      </td>
+      <td style="text-align:left"><b>Ano</b>
+      </td>
+      <td style="text-align:left"><b>Ano</b>
+      </td>
+      <td style="text-align:left"><b>Odborn&#xE1; konzultace</b>
+      </td>
+      <td style="text-align:left"></td>
+    </tr>
+  </tbody>
+</table>-->
+
+![](../img/vysetrovaci_kriteria.png)
+
+### Izolační oddělení 
 
 #### Rozsah použití
 
@@ -160,7 +232,11 @@ Viz klinika pro pacienty s horečkou.
       </td>
     </tr>
   </tbody>
-</table>**Poznámky:**
+</table>
+
+<!-- Divider kvuli nejakemu bugu v gitbook, ktery zpusobuje, ze se text hned za tabulkou na ni prilepi a vse rozbije -->
+
+**Poznámky:**
 
 1. Veškerý personál zdravotnického zařízení musí nosit lékařské ústenky \(chirurgické roušky\)
 2. Veškerý personál urgentního příjmu, ambulantního oddělení infekčních chorob, ambulantního oddělení respirační péče, stomatologického oddělení či ordinací provádějících endoskopická vyšetření \(např. gastrointestinální endoskopii, bronchofibroskopii, laryngoskopii, atd.\) musí podle Úrovně ochrany I přejít z chirurgických roušek na respirátor třídy FFP3 \(N95\).
@@ -172,7 +248,7 @@ Viz klinika pro pacienty s horečkou.
 
 **Protokol na oblékání osobních ochranných pracovních prostředků:**
 
-![](https://github.com/covid19cz/handbook/tree/00904cefe1027991c637189898c1ed7c3112837f/.gitbook/assets/image24.png)
+![](../.gitbook/assets/image24.png)
 
 1. Oblečte si pracovní oblečení a obuv 
 2. Umyjte si ruce 
@@ -184,7 +260,7 @@ Viz klinika pro pacienty s horečkou.
 
 **Protokol na svlékání osobních ochranných pracovních prostředků:**
 
-![](https://github.com/covid19cz/handbook/tree/00904cefe1027991c637189898c1ed7c3112837f/.gitbook/assets/image25.png)
+![](../.gitbook/assets/image25.png)
 
 1. Umyjte si ruce a odstraňte viditelné stopy kontaminace tělesnými tekutinami/krví na povrchu obou rukou 
 2. Umyjte si ruce a nahraďte vnější vrstvu rukavic novými rukavicemi 
@@ -256,7 +332,7 @@ Zrealizujte likvidaci na základě první nebo druhé možnosti popsané níže:
 
 #### Dezinfekce nabíjecího respirátoru pro čištění vzduchu
 
-![](https://github.com/covid19cz/handbook/tree/00904cefe1027991c637189898c1ed7c3112837f/.gitbook/assets/image21.png)
+![](../.gitbook/assets/image21.png)
 
 **Upozornění:** Postup dezinfekce ochranného krytu je použitelný jen pro kryty na opakované použití \(nikoliv pro jednorázové kryty\)
 
@@ -315,7 +391,7 @@ Zrealizujte likvidaci na základě první nebo druhé možnosti popsané níže:
 
 ### Postup pro přijímání nápravných opatření proti pracovní expozici nákaze COVID-19
 
-![](https://github.com/covid19cz/handbook/tree/00904cefe1027991c637189898c1ed7c3112837f/.gitbook/assets/image18.png)
+![](../.gitbook/assets/image18.png)
 
 1. Expozice kůže: Kůže je kontaminována velkým množstvím viditelných tělních tekutin, krví, sekrecí nebo stolicí pacienta;
 2. Expozice sliznic: Sliznice, jako oči nebo respirační trakt jsou kontaminovány velkým množstvím viditelných tělních tekutin, krví, sekrecí nebo stolicí pacienta;

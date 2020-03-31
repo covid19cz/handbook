@@ -96,7 +96,7 @@
 
 **Instrukce pro Internetovou nemocnici FAHZU**
 
-![](../.gitbook/assets/image22%20%281%29.png)
+![](../.gitbook/assets/image22.png)
 
 ![](../.gitbook/assets/image11.png)
 
@@ -108,9 +108,9 @@ E-mail: zdyy66l6@l26.com, zyinternational@l63.com
 
 **Instrukce pro Mezinárodní komunikační platformu pro medicínské odborníky od First Affiliated Hospital, Zhejiang university School of Medicine**
 
-![](../.gitbook/assets/image16%20%281%29.png)
+![](../.gitbook/assets/image16.png)
 
-![](../.gitbook/assets/image10%20%281%29.png)
+![](../.gitbook/assets/image10.png)
 
 * Obr.1: Naskenujte pro stažení aplikace DingTalk
 * Obr.2: QR kód pro FAHZU komunikační platformu

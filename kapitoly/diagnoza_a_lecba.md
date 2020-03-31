@@ -541,39 +541,36 @@ Antivirotika typu lopinavir/ritonavir jsou metabolizovány enzymem CYP3A v játr
 
 **Tabulka 2:** Interakce mezi antivirotiky a běžnými léčivy
 
-| **Jméno léčiva** | **Potenciální interakce** | **Kontraindikace v kombinacích** |
-| :--- | :--- | :--- |
-
-
-| **lopinavir/ritonavir** | V kombinaci s léčivy metabolizovanými CYP3A \(např. statiny, imunosupresiva typu tacrolimus, voriconazol\), plazmatická koncentrace těchto léčiv může v kombinaci stoupat; což vede k 153 % nárůstu rivaroxabanu, 5.9-násobnímu nárůstu AUC atorvastatinu a 13 násobnému nárůstu AUC midazolamu\). Věnujte pozornost klinickým příznakům a použijte TDM. | Kombinace s amiodaronem \(maligní arytmie\), quetiapinem \(těžké kóma\) a simvastatinem \(rhabdomyolýza\) je kontraindikována. |
-| :--- | :--- | :--- |
-
-
-| **darunavir/cobicistat** | V kombinaci s léky metabolizovanými CYP3A a/nebo CYP2D6 roste plazmatická koncentrace kombinovaných léčiv. Viz lopinavir/ritonavir. | Viz lopinavir/ritonavir. |
-| :--- | :--- | :--- |
-
-
-| **arbidol** | Interaguje s CYP3A4, UGT1A9 substráty, inhibitory a induktory. | Žádná relevantní data. |
-| :--- | :--- | :--- |
-
-
 <table>
-  <thead>
-    <tr>
-      <th style="text-align:left"><b>favipiravir</b>
-      </th>
-      <th style="text-align:left">
-        <p>Teofylin zvy&#x161;uje biologickou dostupnost favipiraviru.</p>
-        <p>1.79-n&#xE1;sobn&#x11B; zvy&#x161;uje biologickou dostupnost paracetamolu.</p>
-        <p>Kombinace s parazinamidem zvy&#x161;uje plazmatickou koncentraci mo&#x10D;ov&#xE9;
-          kyseliny</p>
-        <p>Kombinace s repaglinidem zvy&#x161;uje jeho plazmatick&#xE9; hladiny.</p>
-      </th>
-      <th style="text-align:left">&#x17D;&#xE1;dn&#xE1; relevantn&#xED; data.</th>
-    </tr>
-  </thead>
-  <tbody></tbody>
-</table>Speciální populace zahrnuje těhotné ženy, pacienty s renální insuficiencí nebo jaterním selháváním, pacienty na mechanické plicní ventilaci, pacienty na terapii CRRT \(„continuous renal replacement therapy" -- kontinuální eliminační metoda nahrazující funkci ledvin\) nebo na ECMO, atd. Před podáváním léčiv u této populace je nutné zvážit následující:
+  <tr>
+    <th>Jméno léčiva</th>
+    <th>Potenciální interakce</th>
+    <th>Kontraindikace v kombinacích</th>
+  </tr>
+  <tr>
+    <td>lopinavir/ritonavir</td>
+    <td>V kombinaci s léčivy metabolizovanými CYP3A (např. statiny, imunosupresiva typu tacrolimus, voriconazol), plazmatická koncentrace těchto léčiv může v kombinaci stoupat; což vede k 153 % nárůstu rivaroxabanu, 5.9-násobnímu nárůstu AUC atorvastatinu a 13 násobnému nárůstu AUC midazolamu). Věnujte pozornost klinickým příznakům a použijte TDM.</td>
+    <td>Kombinace s amiodaronem (maligní arytmie), quetiapinem (těžké kóma) a simvastatinem (rhabdomyolýza) je kontraindikována</td>
+  </tr>
+  <tr>
+    <td>darunavir/cobicistat</td>
+    <td>V kombinaci s léky metabolizovanými CYP3A a/nebo CYP2D6 roste plazmatická koncentrace kombinovaných léčiv. Viz lopinavir/ritonavir.</td>
+    <td>Viz lopinavir/ritonavir.</td>
+  </tr>
+  <tr>
+    <td>arbidol</td>
+    <td>Interaguje s CYP3A4, UGT1A9 substráty, inhibitory a induktory.</td>
+    <td>Žádná relevantní data.</td>
+  </tr>
+  <tr>
+    <td>favipiravir</td>
+    <td>Teofylin zvyšuje biologickou dostupnost favipiraviru.1.79-násobně zvyšuje biologickou dostupnost paracetamolu.Kombinace s parazinamidem zvyšuje plazmatickou koncentraci močové kyselinyKombinace s repaglinidem zvyšuje jeho plazmatické hladiny.</td>
+    <td>Žádná relevantní data.</td>
+  </tr>
+</table>
+
+
+Speciální populace zahrnuje těhotné ženy, pacienty s renální insuficiencí nebo jaterním selháváním, pacienty na mechanické plicní ventilaci, pacienty na terapii CRRT \(„continuous renal replacement therapy" -- kontinuální eliminační metoda nahrazující funkci ledvin\) nebo na ECMO, atd. Před podáváním léčiv u této populace je nutné zvážit následující:
 
 1. Těhotné ženy:
 

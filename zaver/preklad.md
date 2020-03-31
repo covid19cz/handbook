@@ -1,0 +1,32 @@
+# Překlad
+
+* Adam Mrkvička
+* Anežka Grynderová
+* Bára Drbohlavová
+* Barbora Schmidtová
+* Blanka Schůtová
+* Irena Voráčková
+* Ján Oros
+* Jan Strojil
+* Jana Černá
+* Karel Kříž
+* Karla Voráčková
+* Lenka Javůrková
+* Lucie Šťovíčková
+* Marcela Šlapalová
+* Martin Janda
+* Matej Pribiš
+* Mirka Lacinová
+* Petr Polák
+* Václav Novák
+* Veronika Wagnerová
+
+## Za VFN Praha
+
+* Prof. MUDr. Pavel Michálek, PhD
+* Prim. MUDr. Jiří Votruba, PhD
+* MUDr. Jan Rulíšek
+* MUDr. Markéta Korcinová
+
+![](../img/image1.png)
+

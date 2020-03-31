@@ -487,7 +487,7 @@ Bylo dokázáno, že incidence abnormálních jaterních funkcí je u COVID-19 p
 1. Lopinavir/ritonavir a darunavir/cobicistat: průjem, nauzea, zvracení, nárůst jaterních transamináz v séru, ikterus, dyslipidemie, nárůst hladin plazmatického laktátu. Tyto příznaky ustupují po ukončení terapie.
 2. Arbidol: nárůst jaterních transamináz v séru a ikterus. Jsou častější při kombinaci s lopidavirem. Příznaky ustupují po ukončení terapie. Někdy může být pozorována bradykardie, proto je nutné zamezit současnému užívání arbidolu s beta-blokátory jako metoprolol nebo propranolol. Při srdeční frekvenci nižší než 60/min doporučujeme tyto léky vysadit.
 3. Favipiravir: elevace plazmatické hladiny kyseliny močové, průjem, neutropenie, šok, fulminantní hepatitida, akutní nedostatečnost funkce ledvin. Tyto příznaky byly častěji pozorovány u starších pacientů a pacientů v cytokinové bouři.
-4. Chloroquinfosfát: závratě, bolesti hlavy, nauzea, zvracení, průjem, kožní vyrážky. Nejzávažnějším nežádoucím účinkem je srdeční zástava. Hlavním nežádoucím účinkem je okulotoxicita. Před nasazením je nutné natočit EKG. Z těchto důvodů by měl být tento preparát kontraindikován u pacientů s poruchami srdečního rytmu \(např. Blokády srdečního převodu\), retinopatií a ztrátou sluchu.
+4. Hydroxychlorochin fosfát: závratě, bolesti hlavy, nauzea, zvracení, průjem, kožní vyrážky. Nejzávažnějším nežádoucím účinkem je srdeční zástava. Hlavním nežádoucím účinkem je okulotoxicita. Před nasazením je nutné natočit EKG. Z těchto důvodů by měl být tento preparát kontraindikován u pacientů s poruchami srdečního rytmu \(např. Blokády srdečního převodu\), retinopatií a ztrátou sluchu.
 
 ### TDM \(Terapeutické monitorování hladin léčiv\)
 

@@ -36,6 +36,10 @@
 
 ### Vyšetřovací kritéria pro pacienty s podezřením na COVID-19
 
+<!-- 
+
+Tabulka se bohuzel nezobrazuje dobre v GitBook. Prozatim nahrazuji obrazkem.
+
 <table>
   <thead>
     <tr>
@@ -102,7 +106,11 @@
       <td style="text-align:left"></td>
     </tr>
   </tbody>
-</table>### Izolační oddělení
+</table>-->
+
+![](../img/vysetrovaci_kriteria.png)
+
+### Izolační oddělení 
 
 #### Rozsah použití
 

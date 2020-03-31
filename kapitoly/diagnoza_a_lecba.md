@@ -121,7 +121,7 @@ Včasná antivirová terapie může snížit incidenci těžkých a kritických 
 
 ### Antivirová léčba
 
-V nemocnici FAHZU byl v rámci základní terapie podáván lopinavir/ritonavir[1](^1) \(2 tbl. p.o. á 12h\) v kombinaci s arbidolem[2](^2) (200 mg p.o. á 12h\). U 49 pacientů léčených v naší nemocnici bylo touto terapií dosaženo vymizení virové nukleové kyseliny průměrně po 12 dnech \(95% CI: 8-15 dní\). Negativita testu nukleové kyseliny \(opakovaného s odstupem alespoň 24 h\) byla potvrzena průměrně po 13,5 dnech \(95% CI: 9,5 - 17,5 dne\).
+V nemocnici FAHZU byl v rámci základní terapie podáván lopinavir/ritonavir [1] \(2 tbl. p.o. á 12h\) v kombinaci s arbidolem [2] (200 mg p.o. á 12h\). U 49 pacientů léčených v naší nemocnici bylo touto terapií dosaženo vymizení virové nukleové kyseliny průměrně po 12 dnech \(95% CI: 8-15 dní\). Negativita testu nukleové kyseliny \(opakovaného s odstupem alespoň 24 h\) byla potvrzena průměrně po 13,5 dnech \(95% CI: 9,5 - 17,5 dne\).
 
 Při neúspěchu této terapie je možné u osob ve věku 18-65 let použít chlorochin-fosfát \(hmotnost &gt;50 kg: 500 mg 2x denně, hmotnost &lt;50 kg: první dva dny 500 mg 2x denně a následujících pět dní 500 mg 1x denně\).
 
@@ -129,9 +129,9 @@ V Protocols for Diagnosis and Treatment of COVID-19 je doporučována nebulizace
 
 Podle zkušeností s pacienty s AIDS má darunavir/cobicistat určitý stupeň antivirové aktivity in vitro a nežádoucí účinky jsou relativně mírné. Pro pacienty, kteří netolerují lopinavir/ritonavir, je možné po zvážení etického hlediska podávat právě darunavir/cobicistat \(1 tbl 1x denně\), nebo favipiravir \(iniciální dávka 1600 mg, dále 600 mg 3x denně\). Souběžné používání tří a více léčivých přípravků se nedoporučuje.
 
-[^1]: P. Michálek - recentní studie Cao B et al. A trial of lopinavir-ritonavir in adults hospitalized with severe Covid-19. N Eng J Med 2020; doi:10.1056/NEJMoa2001282 - neprokázala žádný benefit tohoto antivirotika proti standardu léčby.
+[1]: P. Michálek - recentní studie Cao B et al. A trial of lopinavir-ritonavir in adults hospitalized with severe Covid-19. N Eng J Med 2020; doi:10.1056/NEJMoa2001282 - neprokázala žádný benefit tohoto antivirotika proti standardu léčby.
 
-[^2]: Tento lék je registrován pouze v Rusku a v Číně, i když podle studií z Číny se zdá, že by mohl zmírnit u některých pacientů průběh Covid-19 infekce.
+[2]: Tento lék je registrován pouze v Rusku a v Číně, i když podle studií z Číny se zdá, že by mohl zmírnit u některých pacientů průběh Covid-19 infekce.
 
 ### Průběh léčby
 

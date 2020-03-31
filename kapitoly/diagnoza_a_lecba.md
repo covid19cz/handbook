@@ -130,7 +130,7 @@ Podle zkušeností s pacienty s AIDS má darunavir/cobicistat určitý stupeň a
 
 ### Průběh léčby
 
-Chlorochin-fosfát by neměl být podáván déle než 7 dní. U ostatních léčivých přípravků není doba léčby stanovena, ale obvykle trvá přibližně 2 týdny. Terapie by měla být ukončena po třech a více negativních výsledcích testu virové nukleové kyseliny ve sputu.
+Hydroxychlorochin fosfát by neměl být podáván déle než 7 dní. U ostatních léčivých přípravků není doba léčby stanovena, ale obvykle trvá přibližně 2 týdny. Terapie by měla být ukončena po třech a více negativních výsledcích testu virové nukleové kyseliny ve sputu.
 
 ## Terapie šokového stavu a terapie respiračního selhání
 
@@ -540,7 +540,7 @@ V případě zvýšení plazmatických hladin těchto léčiv, je nutné s ohled
 | :--- | :--- | :--- | :--- |
 
 
-Antivirotiká typu lopinavir/ritonavir jsou metabolizovány enzymem CYP3A v játrech. Pokud pacienti berou současně i jiná léčiva, musí být sledovány potenciální interakce. Tabulka 2 ukazuje interakce mezi jednotlivými antivirotiky a ostatními léčivy.
+Antivirotika typu lopinavir/ritonavir jsou metabolizovány enzymem CYP3A v játrech. Pokud pacienti berou současně i jiná léčiva, musí být sledovány potenciální interakce. Tabulka 2 ukazuje interakce mezi jednotlivými antivirotiky a ostatními léčivy.
 
 **Tabulka 2:** Interakce mezi antivirotiky a běžnými léčivy
 
@@ -576,7 +576,7 @@ Antivirotiká typu lopinavir/ritonavir jsou metabolizovány enzymem CYP3A v ját
     </tr>
   </thead>
   <tbody></tbody>
-</table>| **chloroquinfosfát** | Žádná relevantní data. | Zabránit kombinaci s léčivy prodlužujícími QT interval \(moxifloxacin, azithromycin, amiodaron, atd.\) |
+</table>| **hydroxychlorochin fosfát** | Žádná relevantní data. | Zabránit kombinaci s léčivy prodlužujícími QT interval \(moxifloxacin, azithromycin, amiodaron, atd.\) |
 | :--- | :--- | :--- |
 
 
@@ -584,7 +584,7 @@ Speciální populace zahrnuje těhotné ženy, pacienty s renální insuficienc�
 
 1. Těhotné ženy:
 
-   Lopinavir/ritonavir v tabletách je možné podávat. Favipiravir a chloriquinfosfát jsou kontraindikovány.
+   Lopinavir/ritonavir v tabletách je možné podávat. Favipiravir a hydroxychlorochin fosfát jsou kontraindikovány.
 
 2. Pacienti s jaterním selháváním:
 

@@ -118,7 +118,7 @@ Včasná antivirová terapie může snížit incidenci těžkých a kritických 
 
 V nemocnici FAHZU byl v rámci základní terapie podáván lopinavir/ritonavir \[1\] \(2 tbl. p.o. á 12h\) v kombinaci s arbidolem \[2\] \(200 mg p.o. á 12h\). U 49 pacientů léčených v naší nemocnici bylo touto terapií dosaženo vymizení virové nukleové kyseliny průměrně po 12 dnech \(95% CI: 8-15 dní\). Negativita testu nukleové kyseliny \(opakovaného s odstupem alespoň 24 h\) byla potvrzena průměrně po 13,5 dnech \(95% CI: 9,5 - 17,5 dne\).
 
-Při neúspěchu této terapie je možné u osob ve věku 18-65 let použít chlorochin-fosfát \(hmotnost &gt;50 kg: 500 mg 2x denně, hmotnost &lt;50 kg: první dva dny 500 mg 2x denně a následujících pět dní 500 mg 1x denně\).
+Při neúspěchu této terapie je možné u osob ve věku 18-65 let použít hydroxychlorochin fosfát \(hmotnost &gt;50 kg: 500 mg 2x denně, hmotnost &lt;50 kg: první dva dny 500 mg 2x denně a následujících pět dní 500 mg 1x denně\).
 
 V Protocols for Diagnosis and Treatment of COVID-19 je doporučována nebulizace interferonu. My tuto terapii doporučujeme aplikovat pouze v prostředí s negativním tlakem z důvodu rizika kontaminace okolního prostředí aerosolem.
 

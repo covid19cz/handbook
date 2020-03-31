@@ -102,7 +102,9 @@
       <td style="text-align:left"></td>
     </tr>
   </tbody>
-</table>### Izolační oddělení
+</table>
+
+### Izolační oddělení
 
 #### Rozsah použití
 
@@ -224,7 +226,9 @@ Viz klinika pro pacienty s horečkou.
       </td>
     </tr>
   </tbody>
-</table>**Poznámky:**
+</table>
+
+**Poznámky:**
 
 1. Veškerý personál zdravotnického zařízení musí nosit lékařské ústenky \(chirurgické roušky\)
 2. Veškerý personál urgentního příjmu, ambulantního oddělení infekčních chorob, ambulantního oddělení respirační péče, stomatologického oddělení či ordinací provádějících endoskopická vyšetření \(např. gastrointestinální endoskopii, bronchofibroskopii, laryngoskopii, atd.\) musí podle Úrovně ochrany I přejít z chirurgických roušek na respirátor třídy FFP3 \(N95\).

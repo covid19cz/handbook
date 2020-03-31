@@ -4,7 +4,7 @@
 
 ### Zhodnocení
 
-Poskytněte pacientovi podrobné informaci o kyslíkové terapii pomocí HFNC, aby byl ochotný spolupracovat. Případně je vhodné použít sedativa v nízkých dávkách s pečlivým monitorování pacienta. Použijte správný průměr nosní kanyly vzhledem k rozměru pacientovy nosní dutiny. Pásky k uchycení nastavte dle velikosti hlavy pacienta a použijte náplasti či obinadla tak, aby bylo zabráněno dekubitům na kůži obličeje způsobených jakýmikoliv pomůckami k této terapii. Udržujte hladinu vody ve zvlhčovací nádobce. Vytitrujte průtok vdechované frakce kyslíku \(FiO<sub>2</sub>\) a teplotu vody podle toho, jaké má pacient respirační potřeby a jak terapii toleruje.
+Poskytněte pacientovi podrobné informaci o kyslíkové terapii pomocí HFNC, aby byl ochotný spolupracovat. Případně je vhodné použít sedativa v nízkých dávkách s pečlivým monitorování pacienta. Použijte správný průměr nosní kanyly vzhledem k rozměru pacientovy nosní dutiny. Pásky k uchycení nastavte dle velikosti hlavy pacienta a použijte náplasti či obinadla tak, aby bylo zabráněno dekubitům na kůži obličeje způsobených jakýmikoliv pomůckami k této terapii. Udržujte hladinu vody ve zvlhčovací nádobce. Vytitrujte průtok vdechované frakce kyslíku \(FiO2\) a teplotu vody podle toho, jaké má pacient respirační potřeby a jak terapii toleruje.
 
 ### Monitorace
 
@@ -26,21 +26,21 @@ Pro každý den si stanovte cíl, jehož chcete v rámci tišení bolesti dosáh
 
 ### Prevence ventilátorové pneumonie \(VAP\)
 
-Riziko VAP snížíte dodržováním „balíčku péče" \(„care bundle"\), který zahrnuje: 
+Riziko VAP snížíte dodržováním „balíčku péče" \(„care bundle"\), který zahrnuje:
+
 * mytí rukou; 
 * zvednutí horní poloviny lůžka pacienta o 30-45°, pokud se nevyskytují žádné kontraindikace; 
 * provedení ústní hygieny každé 4 až 6 hodin pomocí jednorázové ústní odsávačky; 
-* udržováním tlaku manžety endotracheální rourky na 30-35 cmH<sub>2</sub>O [1]; 
+* udržováním tlaku manžety endotracheální rourky na 30-35 cmH2O \[1\]; 
 * pravidelné kontroly enterální nutriční podpory a reziduálního objemu žaludku jednou za 4 hodiny; 
 * každodenní zhodnocení nutnosti umělé ventilace; 
 * využití omyvatelných tracheálních rourek ke kontinuálnímu odsávání subglotického prostoru a 10ml stříkaček k odsávání každou hodinu až dvě podle aktuálního množství sekrece. Odstraňte subglotický sekret a do kontaminované stříkačky okamžitě aspirujte přiměřené množství chlorové dezinfekce \(2500 mg/l\), upevněte na ni uzávěr a vyhoďte ji do kontejneru na ostré předměty.
 
-[1]: Obvykle se i na ICU považuje za doporučenou hodnotu 20-30 cmH20 především kvůli riziku dekubitu nebo nekrózy trachey - nevím proč zde 30-35 cmH20, pozn. překladatele
+\[1\]: Obvykle se i na ICU považuje za doporučenou hodnotu 20-30 cmH20 především kvůli riziku dekubitu nebo nekrózy trachey - nevím proč zde 30-35 cmH20, pozn. překladatele
 
 ### Odsávání sputa
 
 1. Sputum odsajte uzavřeným způsobem; využijte soupravu zahrnující uzavřený odsávací katetr a uzavřený vyměnitelný sáček - omezíte tak vznik kapének a aerosolu.
-
 2. Odběr vzorku sputa: využijte uzavřený odsávací katetr a příslušný sběrný sáček, abyste zamezili kontaktu s kapénkami.
 
 ### Odstranění vysrážené vlhkosti z ventilátoru
@@ -53,7 +53,7 @@ Než začnete s polohováním pacienta, zajistěte hadice ventilátoru a zkontro
 
 ## Údržba a kontrola extrakorporální membránové oxygenace \(ECMO\)
 
-1. Na ECMO vybavení by měl dohlížet perfuzionista; následující parametry by měly být zkontrolovány a zaznamenány každou hodinu: 
+1. Na ECMO vybavení by měl dohlížet perfuzionista; následující parametry by měly být zkontrolovány a zaznamenány každou hodinu:
    * průtok čerpadlem/otáčky; 
    * průtok krve; 
    * průtok kyslíku; 
@@ -64,22 +64,16 @@ Než začnete s polohováním pacienta, zajistěte hadice ventilátoru a zkontro
    * zkontrolujte, že v kanylách není tlak a že hadice oběhu nejsou zamotané nebo jinak poškozené; 
    * vzhled pacientovy moči, zaměřte se především na červenou a tmavě hnědou barvu; 
    * ujistěte se, že pre a postmembránový tlak odpovídá hodnotám určeným lékařem.
-
-2. Následující výkony by měly být provedeny a zaznamenány každou službu: 
+2. Následující výkony by měly být provedeny a zaznamenány každou službu:
    * zkontrolujte hloubku zasunutí a fixaci kanyly \(kanyl\), abyste se ujistili o pevnosti spojení tělního a mimotělního oběhu; 
    * zkontrolujte hladinu vody v ukazateli teploty, připojení přístroje ke zdroji napájení a ke kyslíku a prohlédněte okolí vpichu kanyly \(kanyl\), zda nekrvácí či neotéká; 
    * změřte obvod dolní končetiny a zkontrolujte, zda dolní končetina na straně zavedení neotéká; 
    * na dolních končetinách také zkontrolujte puls arteria dorsalis pedis, teplotu, barvu kůže a další vlastnosti.
-
 3. Každodenní kontrola: analýza krevních plynů po průchodu membránou.
 4. Antikoagulační péče: základním cílem ECMO antikoagulační péče je dosáhnout mírného protisrážlivého účinku -- určitá koagulační aktivita by měla být zachována, ale nemělo by docházet k její nadměrné aktivaci. Rovnováha mezi srážlivými a protisrážlivými mechanismy a fibrinolýzou tedy musí být zachována. Pacient by měl v době intubace dostat injekci sodné soli heparinu \(25-50 MJ/kg\) a během práce čerpadla dostávat 7,5-20 MJ/kg/h. Dávkování sodné soli heparinu je třeba upravovat podle výsledků aPTT, které by se měly pohybovat mezi 40 a 60 sekundami. Během antikoagulační terapie omezte výkony narušující integritu kůže pouze na nezbytně nutné. Veškeré úkony provádějte se zvýšenou opatrností. Věnujte pozornost jakýmkoli známkám krvácení.
-
 5. Abyste snížili riziko poškození plic ventilací, provádějte protektivní plicní ventilaci. Zpočátku by dechový objem neměl přesáhnout 6 ml/kg a intenzita ventilace by měla odpovídat spontánnímu dýchání \(dechová frekvence by se měla pohybovat mezi 10-20 dechy za minutu\).
-
 6. Pozorně sledujte pacientovy životní funkce; střední arteriální tlak udržujte mezi 60-65 mmHg, centrální žilní tlak nižší než 8 mmHg, saturaci kyslíkem nad 90 % a monitorujte také objem pacientovy moči a hladiny elektrolytů v krvi.
-
 7. Transfuze podávejte za membránu a vyhýbejte se infuzím tukových emulzí a propofolu.
-
 8. Během každé směny zkontrolujte naměřené parametry a posuďte, zda ECMO funguje správně.
 
 ## Ošetřovatelská péče při ALSS \(Systému umělé podpory jater\)
@@ -143,13 +137,11 @@ Příprava pacienta: zajistěte cévní přístup. Pro kontinuální eliminačn�
 Péče o cévní přístupy
 
 1. Centrální žilní katétr kontrolujte každých 24 hodin zda není přetočený nebo zalomený. Pokud je přístroj CRRT připojen na ECMO, správné napojení katetrů by mělo být zkontrolována dvěma sestrami. Přítok i odtok by měl být zapojen až za oxygenátorem.
-
 2. Pečlivě monitorujte vědomí a vitální funkce u pacientů; pečlivě počítejte přítok i odtok tekutin. Sledujte přítomnost krevních sraženin v obvodu pro kardiopulmonární bypass, věnujte pozornost každé zvukové signalizaci přístroje a ujistěte se, že přístroj funguje správně. Každé 4 hodiny hodnoťte elektrolytovou a acidobazickou rovnováhu vnitřního prostředí na základě hodnot krevních plynů. Roztoky by měly být připravované čerstvě a označovány ve sterilních podmínkách.
 
 ### Péče po ukončení CRRT
 
 1. Sledujte krevní obraz, jaterní a renální parametry a parametry koagulace.
-
 2. Dezinfikujte povrch přístroje pro kontinuální eliminaci každých 24 hodin. Spotřební materiál a použité tekutiny by měly být likvidovány dle nařízení nemocnice pro eliminaci rizika nozokomiální infekce.
 
 ## Všeobecná péče
@@ -161,18 +153,11 @@ Vitální funkce pacienta by měly být kontinuálně monitorovány, zejména zm
 ### Prevence aspirace
 
 1. Monitorace retence žaludečního obsahu: zaveďte kontinuální krmení postpylorickou sondou pomocí enterální pumpy pro redukci gastroesofageálního refluxu. Pokud možno zhodnoťte žaludeční motilitu a retenci v žaludku pomocí ultrazvuku. Pacient s normální vyprazdňovací funkcí žaludku není indikován k průběžnému sledování.
-
 2. Žaludeční retenci hodnoťte každé 4 hodiny. Navraťte žaludeční aspirát pokud je žaludeční residuální objem menší než 100 ml, v opačném případě informujte ošetřujícího lékaře.
-
 3. Prevence aspirace během transportu pacienta: před transportem zastavte krmení nosní sondou, aspirujte žaludeční residuální objem a napojte gastrickou sondu na pytlík s podtlakem \(patrně odsávání -- pozn. překladatele\). Během transportu zvedněte horní polovinu těla pacienta do úhlu 30°.
-
 4. Prevence aspirace během HFNC \(nosní kanyla s vysokým průtokem\): kontrolujte zvhlčovač každé 4 hodiny, abyste předešli nadměrnému nebo nedostatečnému zvhlčování. Ihned odstraňte jakoukoliv tekutinu ze systému hadiček, abyste předešli kašli a aspiraci způsobené vysráženou vodou, která by se dostala do dýchacích cest. Polohu nosní kanyly udržujte výše než je poloha přístroje a hadiček. Ihned odstraňujte kondenzovanou vodu v systému.
-
    1. Provádějte opatření pro prevenci katétrové infekce a infekce močových cest při zavedené močové cévce .
-
    2. Předcházejte vzniku dekubitů, včetně otlaků od používaných přístrojů, dále předcházejte vzniku dermatitidy spojené s inkontinencí či reakci na náplasti. Pomocí škál pro hodnocení rizika vzniku dekubitů identifikujte pacienty s vysokým rizikem a zaveďte u nich opatření proti dekubitům.
-
    3. U každého pacienta při přijetí i každé změně klinického stavu zhodnoťte riziko hluboké žilní trombózy a u těch, kteří jsou ve vysokém riziku, zaveďte preventivní opatření. Monitorujte koagulační parametry, hodnoty D-dimerů a příznaky hluboké žilní trombózy.
-
    4. Pacientům, kteří jsou slabí, dušní nebo s proměnlivou saturací, asistujte při jídle. U těch, kteří nejsou schopni přijímat potravu, zaveďte enterální výživu. Každou směnu přizpůsobujte množství enterální výživy podle toho, jak ji pacient toleruje.
 

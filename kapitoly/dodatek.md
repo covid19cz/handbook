@@ -11,9 +11,7 @@
 #### Vyšetření
 
 * Sputum a stolici vyšetřit na přítomnost 2019 Novel Coronavirus RNA \(Three Sites\) -- 1x denně
-
 * Krevní obraz, biochemický profil, vyšetření moči a stolice \(vč. okultního krvácení\), vyšetření koagulačních parametrů + D-dimerů, analýza krevních plynů \(ASTRUP\), laktát, ASLO, RF, CRP, anti-CCP Ig, sedimentace, prokalcitonin, krevní skupiny ABO+Rh faktor, funkce štítné žlázy, srdeční enzymy vč. sérového troponinu kvantitativně, Four Routine Items test \(koagulace\), test na respirační viry, cytokiny, G/GM test, angiotenzin konvertující enzym
-
 * UZ jater, žlučníku, pankreatu a sleziny, echokardiografie a CT plic
 
 #### Medikace
@@ -31,11 +29,9 @@
 #### Vyšetření
 
 * Sputum a stolici vyšetřit na přítomnost 2019 Novel Coronavirus RNA \(Three Sites\), 1x denně
-
 * Krevní obraz, biochemický profil, vyšetření moči a stolice \(vč. okultního krvácení\), vyšetření koagulačních parametrů + D-dimery, analýza krevních plynů \(ASTRUP\), laktát, ASLO, RF, CRP, anti-CCP Ig, sedimentace, prokalcitonin, krevní skupiny ABO+Rh, funkce štítné žlázy, srdeční enzymy vč. sérového troponinu kvantitativně, Four Routine Items test \(koagulace\), test na respirační viry, cytokiny, G/GM test, angiotenzin konvertující enzym
-
 * UZ jater, žlučníku, pankreatu a sleziny, echokardiografie a CT plic
-   
+
 #### Medikace
 
 * Arbidol tablety, 200 mg, p.o., 3x denně
@@ -52,9 +48,7 @@
 #### Vyšetření
 
 * Sputum a stolici vyšetřit na přítomnost 2019 Novel Coronavirus RNA \(Three Sites\) 1x denně
-
 * Krevní obraz, biochemický profil, vyšetření moči a stolice \(vč. okultního krvácení\), vyšetření koagulačních parametrů + D-dimery, analýza krevních plynů \(ASTRUP\), laktát, ASLO, RF, CRP, anti-CCP Ig, sedimentace, prokalcitonin, krevní skupiny ABO+Rh, funkce štítné žlázy, srdeční enzymy vč. sérového troponinu kvantitativně, Four Routine Items test \(koagulace\), test na respirační viry, cytokiny, G/GM test, angiotenzin konvertující enzym
-
 * UZ jater, žlučníku, pankreatu a sleziny, echokardiografie a CT plic
 
 #### Medikace
@@ -77,13 +71,9 @@
 #### Vyšetření
 
 * Sputum a stolici vyšetřit na přítomnost 2019 Novel Coronavirus RNA \(Three Sites\)denně
-
 * Krevní obraz, krevní skupina ABO+Rh, vyšetření moči a stolice \(vč. okultního krvácení\), Four Routine Items test \(koagulace\), test na respirační viry, funkce štítné žlázy, elektrokardiogram \(EKG\), analýza krevních plynů \(ASTRUP\), elektrolyty, laktát,, G/GM test, hemokultivace \(JEDNORÁZOVĚ\)
-
 * Krevní obraz, biochemický profil, vyšetření koagulačních parametrů + D-dimery, analýza krevních plynů \(ASTRUP\), laktát, natriuretický peptid, srdeční enzymy vč. sérového troponinu kvantitativně, imunoglobulin + komplement, cytokiny, kultivace ze sputa, CRP, PCT denně
-
 * glykémie po 6 hodinách
-  
 * UZ jater, žlučníku, slinivky a sleziny, echokardiografie \(EKG\) a CT plic
 
 #### Medikace
@@ -106,9 +96,9 @@
 
 **Instrukce pro Internetovou nemocnici FAHZU**
 
-![](../img/image22.png)
+![](../.gitbook/assets/image22.png)
 
-![](../img/image11.png)
+![](../.gitbook/assets/image11.png)
 
 Neváhejte nás kontaktovat:
 
@@ -118,9 +108,9 @@ E-mail: zdyy66l6@l26.com, zyinternational@l63.com
 
 **Instrukce pro Mezinárodní komunikační platformu pro medicínské odborníky od First Affiliated Hospital, Zhejiang university School of Medicine**
 
-![](../img/image16.png)
+![](../.gitbook/assets/image16.png)
 
-![](../img/image10.png)
+![](../.gitbook/assets/image10.png)
 
 * Obr.1: Naskenujte pro stažení aplikace DingTalk
 * Obr.2: QR kód pro FAHZU komunikační platformu

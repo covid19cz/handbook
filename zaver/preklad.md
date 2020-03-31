@@ -1,7 +1,7 @@
 # Překlad
 
 * Adam Mrkvička
-* Anežka Grynderová
+* Anežka Gryndlerová
 * Bára Drbohlavová
 * Barbora Schmidtová
 * Blanka Schůtová

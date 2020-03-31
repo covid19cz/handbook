@@ -18,9 +18,7 @@ Podle naší zkušenosti může spolupráce v rámci multidisciplinárního tým
 
 #### Odběr vzorků
 
-Ke zlepšení senzitivity detekce jsou důležité správné vzorky, metody odběru a jejich
-
-načasování. Mezi vzorky patří: vzorky z horních cest dýchacích \(orofaryngeální výtěr, výtěr z nosu, výtěr z nasofaryngeálního sekretu\), vzorky z dolních dýchacích cest \(hlen, sekrety dýchacích cest, bronchoalveolární laváž\), z krve, stolice, moči a spojivkového sekretu. Hlen a další vzorky z dolních cest dýchacích mají vysokou míru pozitivity nukleové kyseliny a měly by být odebírány přednostně. SARS-CoV-2 přednostně proliferuje na alveolárních buňkách II. typu \(AT2\) a šíření viru dosahuje vrcholu 3--5 dní po vypuknutí nemoci. Proto, pokud je test na nukleovou kyselinu ze začátku negativní, v dalších dnech by měly být odebrány a testovány další vzorky.
+Ke zlepšení senzitivity detekce jsou důležité správné vzorky, metody odběru a jejich načasování. Mezi vzorky patří: vzorky z horních cest dýchacích \(orofaryngeální výtěr, výtěr z nosu, výtěr z nasofaryngeálního sekretu\), vzorky z dolních dýchacích cest \(hlen, sekrety dýchacích cest, bronchoalveolární laváž\), z krve, stolice, moči a spojivkového sekretu. Hlen a další vzorky z dolních cest dýchacích mají vysokou míru pozitivity nukleové kyseliny a měly by být odebírány přednostně. SARS-CoV-2 přednostně proliferuje na alveolárních buňkách II. typu \(AT2\) a šíření viru dosahuje vrcholu 3--5 dní po vypuknutí nemoci. Proto, pokud je test na nukleovou kyselinu ze začátku negativní, v dalších dnech by měly být odebrány a testovány další vzorky.
 
 #### Detekce nukleové kyseliny
 

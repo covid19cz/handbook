@@ -60,7 +60,7 @@ V časných stádiích COVID-19 se na CT snímcích často objevují víceložis
 
 Po zlepšení stavu se denzity mléčného skla mohou úplně vstřebat a některé konsolidované léze zanechají fibrózní pruhy nebo subpleurální retikulace. Pacienti se zasaženými laloky, především ti s významnějšími lézemi, by měli být sledováni kvůli možnosti zhoršování intersticiálního procesu. Pacienti s typickými nálezy CT by měli být v izolaci a podstoupit další testy PCR i v případě, že mají test na nukleovou kyselinu SARS-CoV-2 negativní.
 
-![](../.gitbook/assets/image9.png)
+![](../.gitbook/assets/ct_covid19.png)
 
 **Typické znaky COVID-19 na CT:**
 
@@ -78,7 +78,7 @@ Flexibilní bronchoskopie je u pacientů s COVID-19 na plicní ventilaci všestr
 3. Při zajištění dýchacích cest může napomáhat při obtížné tracheální intubaci nebo perkutánní tracheostomii.
 4. Pracovním kanálem bronchoskopu je možné podat léky jako interferon alfa nebo N-acetylcystein. Bronchoskopické vyšetření může diagnostikovat rozsáhlé bronchiální hyperémie sliznice, otoku, slizniční sekret v lumen a gelovitý hlen blokující dýchací cesty u kriticky nemocných pacientů \(Obrázek 7\).
 
-![](../.gitbook/assets/image5.png)
+![](../.gitbook/assets/bronchos_covid.png)
 
 **Obrázek 7:** Projevy COVID-19 při bronchoskopickém vyšetření: otok bronchiální sliznice a blokáda lumen bronchu, velké množství sekretu v bronchiálních cestách
 

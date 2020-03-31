@@ -172,7 +172,7 @@ Viz klinika pro pacienty s horečkou.
 
 **Protokol na oblékání osobních ochranných pracovních prostředků:**
 
-![](https://github.com/covid19cz/handbook/tree/00904cefe1027991c637189898c1ed7c3112837f/.gitbook/assets/image24.png)
+![](../.gitbook/assets/image24.png)
 
 1. Oblečte si pracovní oblečení a obuv 
 2. Umyjte si ruce 
@@ -184,7 +184,7 @@ Viz klinika pro pacienty s horečkou.
 
 **Protokol na svlékání osobních ochranných pracovních prostředků:**
 
-![](https://github.com/covid19cz/handbook/tree/00904cefe1027991c637189898c1ed7c3112837f/.gitbook/assets/image25.png)
+![](../.gitbook/assets/image24.png)
 
 1. Umyjte si ruce a odstraňte viditelné stopy kontaminace tělesnými tekutinami/krví na povrchu obou rukou 
 2. Umyjte si ruce a nahraďte vnější vrstvu rukavic novými rukavicemi 

@@ -497,43 +497,44 @@ V případě zvýšení plazmatických hladin těchto léčiv, je nutné s ohled
 
 **Tabulka 1:** Rozmezí koncentrací a hladin pro běžné TDM u COVID-19 pacientů
 
-| **Jméno léčiva** | **Čas odběru** | **Rozmezí koncentrací** | **Principy změn dávkování** |
-| :--- | :--- | :--- | :--- |
-
-
 <table>
-  <thead>
-    <tr>
-      <th style="text-align:left"><b>lopinavir/ritonavir</b>
-      </th>
-      <th style="text-align:left">
-        <p>(maxim&#xE1;ln&#xED; koncentrace) 30 min po pod&#xE1;n&#xED;</p>
-        <p>(minim&#xE1;ln&#xED; koncentrace ) 30 p&#x159;ed pod&#xE1;n&#xED;m</p>
-      </th>
-      <th style="text-align:left">
-        <p>lopinavir:</p>
-        <p>(trough&#xFF09;&gt; 1 &#x3BC;g/mL (maxim&#xE1;ln&#xED; koncentrace ) &lt;
-          8.2 &#x3BC;g/mL</p>
-      </th>
-      <th style="text-align:left">S p&#x159;ihl&#xE9;dnut&#xED;m na &#xFA;&#x10D;innost l&#xE9;ku a ne&#x17E;&#xE1;douc&#xED;
-        vedlej&#x161;&#xED; &#xFA;&#x10D;inky.</th>
-    </tr>
-  </thead>
-  <tbody></tbody>
-</table>| **meropenem** | 10 min před podáním | 1~16 μg/mL |  |
-| :--- | :--- | :--- | :--- |
-
-
-| **vancomycin** | 30 min před podáním | 10~20 mg/L \(15~20 mg/L pro pacienty s těžkou MRSA infekcí\) | Minimální koncentrace \(CTrough\) koreluje se selháním antiinfekční terapie a nefrotoxicity. Pokud je koncentrace příliš vysoká, je nutné snížit dávkování nebo podávat v jedné dávce. |
-| :--- | :--- | :--- | :--- |
-
-
-| **linezolid** | 30 min před podáním | 2~7 μg/mL | Minimální koncentrace koncentrace koreluje s myelosupresí. Je nutná pravidelná kontrola krevního obrazu. |
-| :--- | :--- | :--- | :--- |
-
-
-| **voriconazol** | 30 min před podáním | 1~5.5 μg/mL | Minimální koncentrace koreluje s účinností terapie a s nežádoucími účinky typu poruchy jaterních funkcí. |
-| :--- | :--- | :--- | :--- |
+  <tr>
+    <th>Jméno léčiva</th>
+    <th>Čas odběru</th>
+    <th>Rozmezí koncentrací</th>
+    <th>Principy změn dávkování</th>
+  </tr>
+  <tr>
+    <td>lopinavir/ritonavir</td>
+    <td>(maximální koncentrace) 30 min po podání<br>(minimální koncentrace ) 30 před podáním<br></td>
+    <td>lopinavir:(trough）&gt; 1 μg/mL (maximální koncentrace ) &lt; 8.2 μg/mL</td>
+    <td>S přihlédnutím na účinnost léku a nežádoucí vedlejší účinky.</td>
+  </tr>
+  <tr>
+    <td>meropenem</td>
+    <td>10 min před podáním</td>
+    <td>1~16 μg/mL</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>vancomycin</td>
+    <td>30 min před podáním</td>
+    <td>0~20 mg/L (15~20 mg/L pro pacienty s těžkou MRSA infekcí)</td>
+    <td>Minimální koncentrace (CTrough) koreluje se selháním antiinfekční terapie a nefrotoxicity. Pokud je koncentrace příliš vysoká, je nutné snížit dávkování nebo podávat v jedné dávce.</td>
+  </tr>
+  <tr>
+    <td>linezolid</td>
+    <td>30 min před podáním</td>
+    <td>2~7 μg/mL</td>
+    <td>Minimální koncentrace koncentrace koreluje s myelosupresí. Je nutná pravidelná kontrola krevního obrazu.</td>
+  </tr>
+  <tr>
+    <td>voriconazol</td>
+    <td>30 min před podáním</td>
+    <td>1~5.5 μg/mL</td>
+    <td>Minimální koncentrace koreluje s účinností terapie a s nežádoucími účinky typu poruchy jaterních funkcí.</td>
+  </tr>
+</table>
 
 
 Antivirotika typu lopinavir/ritonavir jsou metabolizovány enzymem CYP3A v játrech. Pokud pacienti berou současně i jiná léčiva, musí být sledovány potenciální interakce. Tabulka 2 ukazuje interakce mezi jednotlivými antivirotiky a ostatními léčivy.

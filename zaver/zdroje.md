@@ -62,8 +62,3 @@
 18. Liu X, Zhang Y, Xu X, et al. Evaluation of Plasma Exchange and Continuous Veno-venous Hemofiltration for the Treatment of Severe Avian Influenza A \(H7N9\): a Cohort Study \[J\]. Ther Apher Dial 2015;19\(2\):178-184. doi:l0.1111/l744-9987.12240.
 19. National Clinical Research Center for Infectious Diseases, State Key Laboratory for Diagnosis and Treatment of Infectious Diseases. Expert Consensus on Novel Coronavirus Pneumonia Treated with Artificial Liver Blood Purification System \[J\]. Chinese Journal of Clinical Infectious Diseases 2020,13. \(in Chinese\) doi:l0.3760/cma.j.issn.l674-2397.2020.0003.
 20. Weill D, Benden C, Carris PA, et al. A Consensus Document for the Selection of Lung Transplant Candidates: 2014--An Update from the Pulmonary Transplantation Council of the International Society for Heart and Lung Transplantation \[J\]. J Heart Lung Transplant 2015;34 \(l\):1-15. doi: 10.10l6/j.healun.2014.06.014.
-
-
-
-![](../.gitbook/assets/credits_bar.png)
-

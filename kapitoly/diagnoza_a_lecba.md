@@ -515,6 +515,7 @@ Antivirotika typu lopinavir/ritonavir jsou metabolizovány enzymem CYP3A v játr
 | darunavir/cobicistat | V kombinaci s léky metabolizovanými CYP3A a/nebo CYP2D6 roste plazmatická koncentrace kombinovaných léčiv. Viz lopinavir/ritonavir. | Viz lopinavir/ritonavir. |
 | arbidol | Interaguje s CYP3A4, UGT1A9 substráty, inhibitory a induktory. | Žádná relevantní data. |
 | favipiravir | Teofylin zvyšuje biologickou dostupnost favipiraviru.1.79-násobně zvyšuje biologickou dostupnost paracetamolu.Kombinace s parazinamidem zvyšuje plazmatickou koncentraci močové kyselinyKombinace s repaglinidem zvyšuje jeho plazmatické hladiny. | Žádná relevantní data. |
+| hydroxychlorochin fosfát | Žádná relevantní data. | Zabránit kombinaci s léčivy prodlužujícími QT interval (moxifloxacin, azithromycin, amiodaron, atd.) |
 
 Speciální populace zahrnuje těhotné ženy, pacienty s renální insuficiencí nebo jaterním selháváním, pacienty na mechanické plicní ventilaci, pacienty na terapii CRRT \(„continuous renal replacement therapy" -- kontinuální eliminační metoda nahrazující funkci ledvin\) nebo na ECMO, atd. Před podáváním léčiv u této populace je nutné zvážit následující:
 
